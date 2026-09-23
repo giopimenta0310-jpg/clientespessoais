@@ -1,28 +1,62 @@
 # Plataforma de aprovação
 
-Plataforma para clientes aprovarem posts do Instagram antes da publicação. O cliente vê uma prévia do perfil com o grid do feed, abre cada arte (post, carrossel ou Reels) no tamanho real do Instagram, lê a legenda e **aprova**, **pede ajuste** ou **comenta**.
+Plataforma para clientes aprovarem posts do Instagram antes da publicação. O cliente abre um link comum, sem login, e vê:
 
-Visual com a identidade do studio Gio (paleta e tipografia do portfólio).
+- a prévia do perfil com o grid do feed;
+- cada arte no tamanho real do Instagram (post e carrossel com 390 px de largura; Reels em 9:16);
+- a legenda.
 
-## Como funciona hoje
+Em cada post ele pode **aprovar**, **pedir ajuste** ou **comentar**, e tudo aparece em tempo real para a agência.
 
-A versão atual (`index.html`) roda como um Artifact do Claude. Ela usa os recursos da plataforma do Claude para:
+A agência entra pelo link **"Área da agência"**, no rodapé, com um link mágico enviado por e-mail. Lá ela envia artes e vídeos, edita legendas, muda a ordem do feed e edita o perfil.
 
-- guardar os posts, as legendas, os status e os comentários (banco de dados `db`);
-- guardar as imagens e os vídeos enviados (`assets`);
-- saber quem é a dona do quadro (`user`), que é a única pessoa que pode enviar e editar artes.
+Visual com a identidade do studio Gio.
 
-Por isso, **abrir este `index.html` direto no navegador ou publicar na Vercel ainda não faz ele funcionar**. A página abre em "modo prévia", sem dados. Este arquivo é o código-fonte e o backup da versão atual.
+## Arquivos
 
-## Estrutura dos dados
+| Arquivo | O que é |
+|---|---|
+| `index.html` | A plataforma (HTML, CSS e JS num arquivo só) |
+| `config.js` | Endereço e chave pública do Supabase |
+| `supabase.js` | Biblioteca `@supabase/supabase-js` 2.117.0 (build UMD, local) |
+| `vercel.json` | Configuração da Vercel (não indexar no Google) |
+| `margo-logo.png` | Logo da Margô, para enviar como foto do perfil |
+| `versao-claude/` | Versão anterior, que roda como Artifact do Claude |
 
-- `perfil/main`: `usuario`, `nome`, `bio`, `seguidores`, `seguindo`, `avatar` (id do asset)
-- `posts/<id>`: `ordem`, `tipo` (`post` | `carrossel` | `reels`), `status` (`pendente` | `aprovado` | `ajuste` | `publicado`), `legenda`, `midias` (`[{id, tipo}]`), `capa`, `comentarios` (`[{autor, texto, em}]`), `decididoEm`, `criadoEm`
+A chave em `config.js` é a **chave pública** (publishable). Ela pode ficar no código. Quem protege os dados são as regras do banco (RLS).
 
-## Próximo passo: versão independente (Vercel)
+## Supabase
 
-Para o cliente abrir um link comum, sem conta no Claude, a ideia é trocar o `db` e os `assets` por um serviço externo (por exemplo Supabase: banco e storage gratuitos) e publicar na Vercel.
+Projeto **Plataforma de aprovação** (`vbnsjwbqwldbvzuzmbbp`), região São Paulo.
 
-## Clientes
+- **`perfil`**: uma linha, com usuário, nome, bio, seguidores, seguindo e avatar.
+- **`posts`**: ordem, tipo (`post` | `carrossel` | `reels`), status (`pendente` | `aprovado` | `ajuste` | `publicado`), legenda, `midias` (`[{id: caminho no storage, tipo}]`), capa e `decidido_em`.
+- **`comentarios`**: `post_id`, autor (`cliente` | `agencia` | `sistema`) e texto.
+- **`admins`**: e-mails que podem editar.
+- **Storage `midias`**: bucket público para leitura; só admins enviam, trocam ou apagam arquivos. Limite de 50 MB por arquivo.
 
-- **Margô Cafés Especiais** (@margo), Joinville. Abertura em 10/10. Logo: `margo-logo.png`.
+O cliente, sem login, só lê. Ele aprova, pede ajuste e comenta pelas funções `cliente_aprovar`, `cliente_pedir_ajuste` e `cliente_comentar`. Todas as outras escritas exigem estar logada com um e-mail da tabela `admins`.
+
+### Adicionar alguém como admin
+
+No SQL Editor do Supabase:
+
+```sql
+insert into public.admins (email) values ('email@exemplo.com');
+```
+
+## Publicar na Vercel
+
+1. Na Vercel: **Add New → Project** → importe o repositório `clientespessoais`.
+2. Em **Root Directory**, escolha a pasta `plataforma de aprovação`.
+3. Framework Preset: **Other**. Não precisa de build. Clique em **Deploy**.
+4. Copie o endereço gerado (ex.: `https://clientespessoais.vercel.app`).
+5. No Supabase: **Authentication → URL Configuration**.
+   - **Site URL**: cole o endereço da Vercel.
+   - **Redirect URLs**: adicione o mesmo endereço.
+
+   Sem isso, o link mágico de login não volta para a plataforma.
+
+## Cliente atual
+
+**Margô Cafés Especiais** (@margo), Joinville. Abertura em 10/10.
