@@ -568,6 +568,16 @@ Esses resultados devem ser usados como **ponto de partida**, não como meta fixa
 
 Informações técnicas, preço, cardápio, endereço, horário, regras de atendimento e alegações de exclusividade não devem ser publicadas sem validação do responsável da área.
 
+### Checklist editorial antes de publicar
+
+Cada conteúdo deve responder claramente:
+
+1. **O que ele acrescenta?** Um rosto, um sabor, uma transformação ou uma informação útil.
+2. **O que precisa aparecer?** Produto, pessoa, espaço ou detalhe capaz de provar a mensagem.
+3. **O que deve ser confirmado?** Datas, horários, cardápio, preço e qualquer afirmação técnica.
+4. **Qual ação esperamos?** Comentar, salvar, compartilhar, seguir ou planejar a visita.
+5. **Faz sentido publicar agora?** Se a pauta repete uma promessa, depende de informação provisória ou existe apenas para preencher uma data, deve voltar uma etapa.
+
 ---
 
 ## 15. Pendências que podem bloquear o calendário
@@ -584,6 +594,10 @@ Informações técnicas, preço, cardápio, endereço, horário, regras de atend
 10. Datas em que o espaço estará suficientemente pronto para fotos e vídeos.
 11. Verba e configuração de mídia paga.
 12. Responsáveis por aprovação e atendimento digital.
+13. Capas e ordem de implantação dos destaques **Abertura**, **Comece aqui** e **Bastidores**.
+14. Organização dos Stories já publicados dentro dos destaques.
+15. Estrutura da pasta de acervo para fotos, vídeos verticais, retratos, produtos, fachada e ambiente.
+16. Captação das donas e da equipe, dos produtos âncora, do preparo de V60 e do espaço finalizado.
 
 Caso alguma informação não esteja aprovada na data prevista, o conteúdo deve ser substituído por um material de bastidor ou desejo já validado. Não devemos publicar informação provisória como definitiva apenas para cumprir o calendário.
 
