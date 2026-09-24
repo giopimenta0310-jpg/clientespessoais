@@ -324,8 +324,8 @@ Construir confiança e pertencimento mostrando quem faz a Margô e qual repertó
 
 Entre 23/09 e 10/10, propomos **nove publicações no feed**, incluindo as duas já publicadas:
 
-- **6 Reels:** pessoas, produto, espaço, processo e abertura;
-- **3 carrosséis:** apresentação, experiência e serviço;
+- **5 Reels:** pessoas, produto, processo e abertura;
+- **4 carrosséis:** apresentação, obra com a personagem, experiência e serviço;
 - **3 conteúdos fixados:** apresentação, experiência e informações de visita.
 
 O feed aparece a cada dois ou três dias. A frequência só aumenta pontualmente quando existir informação relevante para a visita. O intervalo é parte da estratégia: evita desgaste, preserva novidades para a operação real e faz cada nova publicação parecer de fato nova.
@@ -442,10 +442,10 @@ O calendário deixa de preencher todos os dias e passa a trabalhar com **respiro
 | --- | --- | --- | --- |
 | **Qua 23/09** | **Publicado — carrossel** | **Quem é a Margô.** Origem, propósito e anúncio da abertura. | Existência e posicionamento. |
 | **Qui 24/09** | **Publicado — Reel** | **Obra e transformação.** O espaço se preparando para receber. | Proximidade e prova de realidade. |
-| **Sáb 26/09** | **Reel** | **As pessoas por trás.** Donas, sócios e responsabilidades apresentados com espontaneidade. | Autoria e confiança. |
-| **Ter 29/09** | **Reel** | **Primeiro desejo de comida.** Textura, preparo, forno ou finalização de um item já validado. | Desejo gastronômico. |
-| **Qui 01/10** | **Carrossel** | **O que você encontra na Margô.** Café, cozinha, ambiente e tempo sem pressa. | Compreensão da experiência. |
-| **Dom 04/10** | **Reel** | **O espaço ganha forma.** Transformação perceptível, detalhes e atmosfera. | Imaginação de uso. |
+| **Sáb 26/09** | **Carrossel — próxima publicação** | **A Margô ganha forma.** Fachada, registros da obra e a personagem ocupando diferentes pontos do espaço. | Mostrar o avanço da construção e introduzir o universo ilustrado da marca. |
+| **Ter 29/09** | **Reel** | **As pessoas por trás.** Donas, sócios e responsabilidades apresentados com espontaneidade. | Autoria e confiança. |
+| **Qui 01/10** | **Reel** | **Primeiro desejo de comida.** Textura, preparo, forno ou finalização de um item já validado. | Desejo gastronômico. |
+| **Dom 04/10** | **Carrossel** | **O que você encontra na Margô.** Café, cozinha, ambiente e tempo sem pressa. | Compreensão da experiência. |
 | **Ter 06/10** | **Reel** | **Produto âncora.** Um café, prato, doce ou combinação capaz de representar a casa. | Desejo e diferenciação. |
 | **Qui 08/10** | **Carrossel** | **Como visitar.** Data, horário, endereço, acesso e orientações confirmadas. | Serviço e planejamento. |
 | **Sáb 10/10** | **Reel** | **Portas abertas.** Convite direto e primeiras imagens da Margô em funcionamento. | Conversão em visita e registro do marco. |
@@ -456,8 +456,8 @@ Nos dias intermediários, não existe obrigação de alimentar o feed. Stories p
 
 | Entrega | Quantidade |
 | --- | ---: |
-| Reels | 6 |
-| Carrosséis | 3 |
+| Reels | 5 |
+| Carrosséis | 4 |
 | Total de feed | 9 |
 | Publicações fixadas | 3 |
 | Frequência de Stories | 3–4 dias por semana |
