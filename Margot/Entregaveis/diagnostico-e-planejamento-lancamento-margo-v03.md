@@ -4,7 +4,7 @@
 **Fase:** pré-abertura, lançamento em curso e consolidação da presença digital  
 **Abertura prevista:** sábado, 10 de outubro de 2026  
 **Período do calendário:** quarta-feira, 23 de setembro, a sábado, 10 de outubro de 2026  
-**Versão:** 0.3 — atualizada após o início das publicações  
+**Versão:** 0.4 — calendário enxuto e painel direcional  
 **Leitura do perfil realizada em:** 24 de setembro de 2026  
 **Perfil analisado:** [@margocafesespeciais](https://www.instagram.com/margocafesespeciais/)
 
@@ -238,7 +238,7 @@ O Instagram deve cumprir seis funções durante o lançamento:
 | Serviço | “Sei onde, quando e como ir.” | Abrir a rota e comparecer. |
 | Continuidade | “Há motivos para voltar.” | Permanecer na comunidade e repetir a visita. |
 
-Frequência, sozinha, não garante distribuição. A proposta de três Reels e um conteúdo estático por semana é uma decisão de lançamento: ela combina formatos de descoberta com conteúdos que explicam e organizam informações. Cada publicação precisa acrescentar uma razão para conhecer a Margô.
+Frequência, sozinha, não garante distribuição. Como a Margô ainda não abriu, o pré-lançamento deve evitar o efeito de muita promessa e pouca entrega. A recomendação passa a ser **duas ou três publicações de feed por semana**, com intervalos de dois ou três dias e funções distintas. Cada publicação precisa acrescentar um rosto, um sabor, um detalhe do espaço ou uma informação útil.
 
 ---
 
@@ -322,19 +322,19 @@ Construir confiança e pertencimento mostrando quem faz a Margô e qual repertó
 
 ### 7.2 Distribuição recomendada no pré-lançamento
 
-Entre 23/09 e 10/10, propomos **14 publicações no feed**:
+Entre 23/09 e 10/10, propomos **nove publicações no feed**, incluindo as duas já publicadas:
 
-- **10 Reels:** descoberta, movimento, sensação e desejo;
-- **4 conteúdos estáticos ou carrosséis:** posicionamento, explicação e serviço;
+- **6 Reels:** pessoas, produto, espaço, processo e abertura;
+- **3 carrosséis:** apresentação, experiência e serviço;
 - **3 conteúdos fixados:** apresentação, experiência e informações de visita.
 
-O calendário cumpre o mínimo de três Reels e um estático por semana. Na semana final, a frequência aumenta porque o interesse e a necessidade de informação também aumentam.
+O feed aparece a cada dois ou três dias. A frequência só aumenta pontualmente quando existir informação relevante para a visita. O intervalo é parte da estratégia: evita desgaste, preserva novidades para a operação real e faz cada nova publicação parecer de fato nova.
 
-O escopo mensal de 20 conteúdos é preservado: os **seis conteúdos restantes** devem ser utilizados após a abertura para prova social, experiência real, produtos e continuidade. Desse modo, não se esgota todo o repertório antes de existirem clientes e operação para mostrar.
+O volume contratado continua sendo aproveitado no ciclo mensal, mas uma parcela maior fica reservada para depois da abertura, quando haverá clientes, produtos, rotina e prova social reais para mostrar.
 
 ### 7.3 Stories
 
-O planejamento considera **30 desdobramentos de Stories** até a abertura. Cada desdobramento é um bloco narrativo e pode ter de uma a quatro telas. Stories devem aparecer diariamente, mesmo nos dias sem publicação de feed.
+Stories devem aparecer em **três ou quatro dias da semana**, sempre que houver bastidor real, informação nova ou oportunidade de conversa. Não há obrigação de publicação diária. Cada entrada pode ter de uma a quatro telas e deve cumprir uma função clara.
 
 Eles serão usados para:
 
@@ -434,66 +434,39 @@ Primeiros clientes, movimento, equipe, produtos, reações, detalhes e material 
 
 ## 10. Calendário editorial atualizado — 23/09 a 10/10
 
-### Semana 1 — A Margô existe e começa a ganhar forma
+### Lógica do calendário
 
-**Objetivo:** consolidar a estreia já realizada e completar o primeiro conjunto de conteúdos com pessoas e produto. Os itens marcados como publicados são fatos; os demais são recomendações atualizadas.
+O calendário deixa de preencher todos os dias e passa a trabalhar com **respiro intencional**. Os conteúdos publicados no feed devem alternar quatro funções: desejo, autoria, espaço e serviço. Stories são acionados em três ou quatro dias da semana, somente quando houver material ou informação que justifique a entrada.
 
-| Data | Feed | Tema e conteúdo | Objetivo | CTA | Stories |
-| --- | --- | --- | --- | --- | --- |
-| **Qua 23/09** | **Publicado — carrossel de apresentação** | **De onde nasce a Margô.** Encontro entre Coara Café e BC na Cozinha, proposta de café bom, comida e tempo sem pressa. | Criar existência, explicar a origem e anunciar 10/10. | “Vem acompanhar essa história.” | Reforçar a origem e salvar o material em **Comece aqui**. |
-| **Qui 24/09** | **Publicado — Reel da obra** | **Entre tinta, poeira e escolhas.** Transformação do espaço e preparação para receber o público. | Provar que o projeto é real e criar proximidade pelos bastidores. | “Vem acompanhar os bastidores com a gente.” | Repostar comentários de expectativa; abrir pergunta sobre o que o público quer ver na obra. |
-| **Sex 25/09** | **Reel 2** | **Quem está fazendo a Margô acontecer.** Apresentar Bruna e os demais sócios em linguagem espontânea, ligando cada pessoa a uma parte da experiência. | Transferir confiança das marcas de origem para pessoas reconhecíveis. | “Acompanhe os próximos capítulos.” | Trechos extras e uma pergunta simples para cada pessoa. |
-| **Sáb 26/09** | **Reel 3** | **Primeiro sinal de comida.** Bastidor curto de teste, textura, forno, montagem ou ingrediente, sem depender do cardápio completo. | Introduzir desejo gastronômico e evitar que a Margô seja percebida apenas como obra e café. | “Qual sabor faria você chegar primeiro?” | Close do preparo, enquete e compartilhamento do Reel. |
-| **Dom 27/09** | — | Sem feed. Recapitulação da estreia. | Ajudar quem chegou depois a compreender rapidamente conceito, pessoas e data. | “Comece pelos posts fixados.” | Resumo dos conteúdos, contagem regressiva e caixa de dúvidas. |
+| Data | Formato | Tema e conteúdo | Função principal |
+| --- | --- | --- | --- |
+| **Qua 23/09** | **Publicado — carrossel** | **Quem é a Margô.** Origem, propósito e anúncio da abertura. | Existência e posicionamento. |
+| **Qui 24/09** | **Publicado — Reel** | **Obra e transformação.** O espaço se preparando para receber. | Proximidade e prova de realidade. |
+| **Sáb 26/09** | **Reel** | **As pessoas por trás.** Donas, sócios e responsabilidades apresentados com espontaneidade. | Autoria e confiança. |
+| **Ter 29/09** | **Reel** | **Primeiro desejo de comida.** Textura, preparo, forno ou finalização de um item já validado. | Desejo gastronômico. |
+| **Qui 01/10** | **Carrossel** | **O que você encontra na Margô.** Café, cozinha, ambiente e tempo sem pressa. | Compreensão da experiência. |
+| **Dom 04/10** | **Reel** | **O espaço ganha forma.** Transformação perceptível, detalhes e atmosfera. | Imaginação de uso. |
+| **Ter 06/10** | **Reel** | **Produto âncora.** Um café, prato, doce ou combinação capaz de representar a casa. | Desejo e diferenciação. |
+| **Qui 08/10** | **Carrossel** | **Como visitar.** Data, horário, endereço, acesso e orientações confirmadas. | Serviço e planejamento. |
+| **Sáb 10/10** | **Reel** | **Portas abertas.** Convite direto e primeiras imagens da Margô em funcionamento. | Conversão em visita e registro do marco. |
 
-**Total da semana:** 4 publicações de feed, sendo 3 Reels e 1 carrossel. Como o início ocorreu na quarta-feira, a concentração é maior; se a captação de produto não estiver pronta, o Reel de comida pode ir para segunda-feira sem sacrificar qualidade.
-
-### Semana 2 — O que vamos viver na Margô
-
-**Objetivo:** transformar a apresentação institucional em desejo concreto. Café, comida e espaço precisam aparecer como partes de uma única experiência.
-
-| Data | Feed | Tema e conteúdo | Objetivo | CTA | Stories |
-| --- | --- | --- | --- | --- | --- |
-| **Seg 28/09** | **Carrossel fixado 2** | **O que você vai encontrar na Margô.** Quatro dimensões: cafés especiais, comida autoral, um lugar para desacelerar e uma Joinville mais criativa. | Explicar a experiência de maneira simples e salvável. | “Salve para lembrar e compartilhe com sua companhia de café.” | **2 blocos:** uma dimensão por sequência; enquete sobre o que mais desperta curiosidade. |
-| **Ter 29/09** | **Reel 4** | **V60: o tempo também faz parte do café.** Água quente sendo vertida no filtro, extração, vapor, jarra e serviço. Texto simples sobre preparo e descoberta sensorial. | Demonstrar especialidade sem tecnicismo e criar desejo visual. | “Você prefere cafés mais doces, frutados ou intensos?” | **2 blocos:** detalhe do método; enquete sobre preferências sensoriais. |
-| **Qua 30/09** | — | Sem feed. Perguntas sobre café. | Conhecer dúvidas e preparar conteúdos futuros. | Caixa “o que você sempre quis perguntar sobre café especial?”. | **1 bloco:** caixa de perguntas e resposta de uma pergunta simples. |
-| **Qui 01/10** | **Reel 5** | **A cozinha começa antes do prato chegar à mesa.** Testes, ingredientes, anotações, fogo, montagem e participação da Bruna. | Mostrar processo, cuidado e autoria. | “Marque quem escolheria o prato e depois pediria sobremesa.” | **1 bloco:** detalhe de ingrediente ou escolha de cardápio sem revelar preços provisórios. |
-| **Sex 02/10** | — | Sem feed. Pequena revelação gastronômica. | Manter desejo entre as publicações principais. | Slider de reação. | **1 bloco:** close ou fragmento de um item âncora. |
-| **Sáb 03/10** | **Reel 6** | **Um lugar para ficar.** Primeira revelação mais ampla do espaço: luz, mesas, detalhes, cores e atmosfera. Se o ambiente ainda não estiver pronto, usar transformação antes/depois. | Fazer o público se imaginar na Margô. | “Com quem você ocuparia essa mesa?” | **2 blocos:** detalhes do ambiente; Reel compartilhado com marcação de localização. |
-| **Dom 04/10** | — | Sem feed. Uma semana para a abertura. | Iniciar a contagem regressiva e preparar a semana de serviço. | Ativar lembrete. | **1 bloco:** “faltam 6 dias”, data e sticker de contagem regressiva. |
-
-**Total da semana:** 4 publicações de feed, sendo 3 Reels e 1 carrossel; 10 blocos de Stories.
-
-### Semana 3 — Agora você já pode se programar
-
-**Objetivo:** converter desejo em intenção de visita. A semana final concentra informações práticas, produtos, contagem regressiva e cobertura da abertura.
-
-| Data | Feed | Tema e conteúdo | Objetivo | CTA | Stories |
-| --- | --- | --- | --- | --- | --- |
-| **Seg 05/10** | **Carrossel fixado 3** | **A Margô abre em 10/10.** Data, endereço, horário, mapa simplificado, como chegar e orientações confirmadas sobre funcionamento. | Remover barreiras e transformar interesse em planejamento. | “Salve este post e combine sua visita.” | **2 blocos:** informações essenciais; caixa de dúvidas sobre a abertura. |
-| **Ter 06/10** | **Reel 7** | **Como escolher seu café na Margô.** Mostrar diferentes possibilidades sensoriais e a ajuda da equipe, sem usar número ou alegação ainda não validados. | Tornar a variedade acessível e reduzir intimidação. | “Conte como você gosta do seu café.” | **1 bloco:** enquete sensorial e chamada para o Reel. |
-| **Qua 07/10** | **Reel 8** | **Um sabor para querer chegar logo.** Apresentar um prato, doce ou combinação âncora com café, priorizando ação, textura e serviço. | Criar desejo gastronômico imediato. | “Salve para pedir quando vier.” | **1 bloco:** nome do item e bastidor curto, apenas se informações estiverem aprovadas. |
-| **Qui 08/10** | **Carrossel 4** | **Antes de vir, aqui está o que você precisa saber.** FAQ: horário, endereço, formato de atendimento, reservas/ordem de chegada, estacionamento, acessibilidade, pets, crianças e restrições — somente respostas confirmadas. | Reduzir ansiedade e volume de perguntas repetidas. | “Ficou alguma dúvida? Deixe nos comentários.” | **1 bloco:** respostas rápidas e reforço do post. |
-| **Sex 09/10** | **Reel 9** | **É amanhã.** Preparação final, equipe, mesas, cozinha, café e fachada. Encerrar com data, horário e endereço. | Criar urgência, emoção e compartilhamento. | “Amanhã a gente se encontra.” | **1 bloco:** bastidores finais + contagem regressiva. |
-| **Sáb 10/10** | **Reel 10** | **Hoje a Margô abre as portas.** Conteúdo curto, preparado com antecedência e finalizado com imagens da manhã. Informar abertura e convidar com clareza. | Converter atenção em visita e registrar o marco. | “Estamos te esperando.” | **4 blocos:** abertura do dia; serviço e produtos; movimento e experiência; agradecimento e orientação para próximos horários. |
-
-**Total da semana:** 6 publicações de feed, sendo 4 Reels e 2 carrosséis; 10 blocos de Stories.
+Nos dias intermediários, não existe obrigação de alimentar o feed. Stories podem complementar uma publicação, responder perguntas, mostrar uma mudança concreta na obra ou reforçar uma informação de serviço. Se não houver algo novo, o silêncio é preferível à repetição.
 
 ### Resumo quantitativo até a abertura
 
 | Entrega | Quantidade |
 | --- | ---: |
-| Reels | 10 |
-| Estáticos/carrosséis | 4 |
-| Total de feed | 14 |
+| Reels | 6 |
+| Carrosséis | 3 |
+| Total de feed | 9 |
 | Publicações fixadas | 3 |
-| Blocos de Stories | 30 |
+| Frequência de Stories | 3–4 dias por semana |
 
 ---
 
 ## 11. Conteúdos reservados para depois da abertura
 
-Os seis conteúdos restantes do escopo mensal não devem ser definidos com rigidez antes de termos imagens e respostas reais. A recomendação inicial é:
+Os conteúdos restantes do escopo mensal não devem ser definidos com rigidez antes de termos imagens e respostas reais. A recomendação inicial é:
 
 1. **Reel — como foi abrir as portas:** melhores momentos e agradecimento.
 2. **Reel — experiência real de um pedido:** chegada, escolha, café, comida e mesa.
@@ -502,7 +475,7 @@ Os seis conteúdos restantes do escopo mensal não devem ser definidos com rigid
 5. **Estático/carrossel — horários e rotina regular:** consolidar o funcionamento pós-inauguração.
 6. **Reel — motivo para voltar:** novo café, prato, agenda cultural ou ritual da casa.
 
-Esses conteúdos completam as 20 publicações mensais e evitam que o perfil perca força depois do pico de abertura.
+Esses conteúdos ajudam a aproveitar o volume contratado sem esgotar o repertório antes da abertura e evitam que o perfil perca força depois do pico inicial.
 
 ---
 
@@ -627,7 +600,7 @@ Caso alguma informação não esteja aprovada na data prevista, o conteúdo deve
 7. A Margô deseja incentivar home office ou apenas aceitar esse uso de maneira orgânica?
 8. Quais informações precisam permanecer fixadas depois da inauguração?
 9. Qual é a capacidade real de resposta em DMs durante a semana da abertura?
-10. O volume de 14 publicações antes da abertura e seis depois está adequado à capacidade de produção e aprovação?
+10. O calendário de nove publicações até a abertura deixa espaço suficiente para preservar novidades e atender ao escopo mensal depois de 10/10?
 
 ---
 
