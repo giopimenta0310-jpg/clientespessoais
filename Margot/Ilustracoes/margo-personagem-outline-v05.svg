@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1536" role="img" aria-labelledby="title desc">
+  <title id="title">Margô — personagem outline</title>
+  <desc id="desc">Personagem feminina de corpo inteiro em traço vinho, com cabelo e blusa preenchidos.</desc>
+  <defs>
+    <style>
+      .line { fill: none; stroke: #8d1720; stroke-width: 9; stroke-linecap: round; stroke-linejoin: round; }
+      .fine { fill: none; stroke: #8d1720; stroke-width: 6; stroke-linecap: round; stroke-linejoin: round; }
+      .fill { fill: #8d1720; stroke: #8d1720; stroke-width: 9; stroke-linecap: round; stroke-linejoin: round; }
+      .cut { fill: none; stroke: #fff8ec; stroke-width: 8; stroke-linecap: round; stroke-linejoin: round; }
+    </style>
+    <path id="face-shape" d="M424 184 C421 249 431 314 475 341 C505 359 547 350 574 321 C602 291 606 229 591 184 C548 150 468 149 424 184 Z"/>
+    <mask id="hair-cutout" maskUnits="userSpaceOnUse" x="0" y="0" width="1024" height="1536">
+      <rect width="1024" height="1536" fill="white"/>
+      <use href="#face-shape" fill="black"/>
+    </mask>
+  </defs>
+
+  <!-- cabelo: principal massa de cor -->
+  <path class="fill" mask="url(#hair-cutout)" d="M354 315 C300 260 305 170 369 131 C414 103 471 104 510 133 C558 92 640 110 674 158 C710 207 690 265 721 305 C750 342 727 407 677 423 C631 439 594 411 561 392 C526 414 474 416 431 394 C391 420 333 400 325 354 C321 337 334 323 354 315 Z"/>
+  <path class="cut" d="M400 181 C438 137 501 139 529 170"/>
+  <path class="cut" d="M557 156 C600 148 637 177 646 217"/>
+  <path class="cut" d="M374 251 C344 293 358 342 392 365"/>
+  <path class="cut" d="M650 250 C685 291 674 348 642 375"/>
+
+  <!-- rosto e identidade -->
+  <use href="#face-shape" class="line"/>
+  <path class="fill" d="M417 193 C443 150 484 139 521 151 C548 137 581 147 601 171 C562 169 544 193 522 208 C497 190 458 180 417 193 Z"/>
+  <path class="fine" d="M456 237 Q474 224 490 238"/>
+  <path class="fine" d="M535 238 Q552 225 567 239"/>
+  <circle cx="475" cy="241" r="5" fill="#8d1720"/>
+  <circle cx="551" cy="242" r="5" fill="#8d1720"/>
+  <path class="fine" d="M515 242 Q505 268 517 274"/>
+  <path class="fine" d="M482 292 Q515 310 546 289"/>
+  <circle class="line" cx="406" cy="267" r="28"/>
+  <circle class="line" cx="607" cy="267" r="28"/>
+  <path class="fine" d="M491 341 Q512 365 535 341"/>
+  <path class="fine" d="M512 365 L512 390"/>
+  <circle class="line" cx="512" cy="407" r="16"/>
+
+  <!-- jaqueta -->
+  <path class="line" d="M424 390 C365 397 314 432 284 491 C260 539 266 601 302 646 C326 676 358 672 376 647 L411 593"/>
+  <path class="line" d="M596 390 C660 401 709 437 738 491 C763 537 758 597 724 638 C699 668 666 667 648 642 L614 590"/>
+  <path class="line" d="M424 390 L394 476 L410 611 L469 626"/>
+  <path class="line" d="M596 390 L628 478 L612 610 L556 626"/>
+  <path class="fine" d="M299 532 Q342 554 388 544"/>
+  <path class="fine" d="M632 544 Q684 555 730 529"/>
+  <path class="fine" d="M309 580 Q348 601 392 590"/>
+  <path class="fine" d="M629 590 Q675 601 718 578"/>
+
+  <!-- blusa: segunda massa de cor -->
+  <path class="fill" d="M451 380 Q512 361 573 381 L596 530 L568 612 Q512 630 456 612 L429 530 Z"/>
+  <path class="cut" d="M463 399 Q512 420 562 399"/>
+  <path class="cut" d="M468 452 L470 566"/>
+  <path class="cut" d="M492 445 L493 574"/>
+  <path class="cut" d="M516 444 L516 576"/>
+  <path class="cut" d="M540 445 L539 574"/>
+  <path class="cut" d="M563 452 L560 566"/>
+
+  <!-- braços, mãos e tatuagens -->
+  <path class="line" d="M377 610 C360 681 346 752 333 825 C327 860 344 891 373 904 C394 913 412 897 412 875 L420 659"/>
+  <path class="line" d="M645 611 C661 658 675 703 689 745 C700 776 693 807 673 825 C657 839 639 829 637 809 L615 657"/>
+  <path class="fine" d="M360 695 Q385 719 404 749"/>
+  <path class="fine" d="M374 711 L362 687 M384 724 L402 704 M391 739 L370 740 M399 755 L412 741"/>
+  <circle class="fine" cx="655" cy="690" r="13"/>
+  <path class="fine" d="M655 665 L655 654 M655 726 L655 715 M630 690 L619 690 M691 690 L680 690 M637 672 L629 664 M681 716 L673 708 M674 672 L682 664 M637 708 L629 716"/>
+  <path class="fine" d="M657 716 Q644 751 651 782 M649 746 L632 730 M650 760 L668 742 M650 774 L634 762"/>
+  <path class="line" d="M369 902 Q391 925 414 902"/>
+  <path class="fine" d="M371 905 L357 925 M391 913 L384 938 M410 905 L414 928"/>
+  <circle class="fine" cx="389" cy="880" r="10"/>
+
+  <!-- calça ampla -->
+  <path class="line" d="M423 600 Q511 628 601 600 L628 691 L697 1307 Q659 1338 586 1331 L512 829 L445 1331 Q374 1337 331 1305 L397 690 Z"/>
+  <path class="fine" d="M397 690 Q512 718 628 690"/>
+  <path class="fine" d="M420 619 L414 677 M603 619 L610 677"/>
+  <circle cx="512" cy="653" r="8" fill="#8d1720"/>
+  <path class="fine" d="M512 663 L512 829"/>
+  <path class="fine" d="M445 1331 Q402 1318 357 1327"/>
+  <path class="fine" d="M586 1331 Q634 1319 676 1328"/>
+
+  <!-- tênis -->
+  <path class="line" d="M331 1305 C373 1301 416 1311 445 1331 L446 1385 C413 1413 348 1429 284 1420 C261 1417 254 1392 272 1378 Z"/>
+  <path class="line" d="M586 1331 C617 1310 660 1301 697 1307 L758 1379 C775 1399 762 1423 737 1425 C671 1430 618 1413 582 1387 Z"/>
+  <path class="fine" d="M300 1370 Q355 1394 426 1364"/>
+  <path class="fine" d="M601 1365 Q668 1393 738 1374"/>
+  <path class="fine" d="M330 1344 L389 1384 M360 1336 L408 1374"/>
+  <path class="fine" d="M623 1376 L674 1338 M644 1386 L704 1348"/>
+</svg>

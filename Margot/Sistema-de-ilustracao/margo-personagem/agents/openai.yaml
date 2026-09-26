@@ -1,0 +1,5 @@
+interface:
+  display_name: "Marg\u00F4 \u2014 Personagem e Ilustra\u00E7\u00F5es"
+  short_description: "Cria ilustra\u00E7\u00F5es consistentes do universo Marg\u00F4"
+  brand_color: "#81010E"
+  default_prompt: "Use $margo-personagem para criar uma nova pose da Marg\u00F4 mantendo sua identidade visual."
