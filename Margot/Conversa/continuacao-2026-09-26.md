@@ -1,0 +1,81 @@
+# Continuação do contexto — 26/09/2026
+
+Este arquivo registra a continuidade relevante após a exportação original de 13 a 23 de setembro. Chamadas de ferramenta, raciocínio privado, credenciais e dados operacionais foram excluídos.
+
+## 1. Recuperação e leitura do repositório
+
+Giovanna pediu que o repositório da Margô fosse recuperado para que as conversas futuras partissem de todo o contexto acumulado.
+
+O repositório foi clonado e analisado. Foram identificados briefing, histórico de 303 mensagens, diagnóstico, calendário, estruturas de apresentação, PDF, personagens, objetos ilustrados, fotografias da obra adaptadas e um sistema de ilustração anterior.
+
+A leitura estratégica consolidou:
+
+- Margô como cafeteria autoral de Joinville, unindo cafés especiais, cozinha, espaço, pessoas e cultura.
+- Abertura prevista para 10/10/2026.
+- Estratégia mais atual registrada no diagnóstico v0.4.
+- Necessidade de transformar expectativa em desejo concreto por produto e experiência.
+- Existência de uma inconsistência entre a personagem simples do mural e uma personagem detalhada em vinho registrada como oficial em documentos antigos.
+
+## 2. Painel Direcional no Figma
+
+Giovanna compartilhou o painel:
+
+https://www.figma.com/design/A1uRNS8uV6glBDIV1qxgQH/Painel-DIrecional---Marg%C3%B4?node-id=0-1
+
+O painel foi analisado em modo somente leitura. Ele confirmou:
+
+- mensagem “Um lugar que devolve tempo às pessoas”;
+- manifesto baseado em café com calma, comida boa, encontros e inesperado;
+- calendário enxuto até 10/10;
+- quatro frentes: desejo de produto, pessoas e autoria, espaço ganhando forma e informações para facilitar a visita;
+- paleta com creme, off-white, rosa, verde, roxo e magenta;
+- uso predominante de Montserrat;
+- personagem simples derivada do mural nas peças atuais.
+
+Giovanna confirmou explicitamente que a personagem aprovada e a paleta correta são as derivadas do mural, seguindo as aplicações do Figma.
+
+## 3. Informações pendentes para as donas
+
+Foi construída uma mensagem humanizada de WhatsApp para Bruna e Su. O objetivo é confirmar somente pontos que ainda interferem nas copys:
+
+- horários exatos;
+- dinâmica especial de abertura;
+- pets;
+- retirada, encomendas, delivery e reservas;
+- itens do cardápio a apresentar;
+- restrições alimentares;
+- cafés e métodos a destacar;
+- história que desejam contar e limites do que revelar;
+- foco da experiência neste momento;
+- feira de abertura;
+- prioridades da comunicação.
+
+Também foram registradas informações já conhecidas: abertura em 10/10, endereço e Maps confirmados, funcionamento de terça a domingo, crianças bem-vindas, estacionamento limitado e acesso por escadas.
+
+## 4. Planejamento-base de conteúdo
+
+Giovanna decidiu aguardar as respostas para escrever as copys, mas solicitou estruturas para os próximos dias e para outubro.
+
+Foi criado um plano em quatro fases:
+
+1. Pré-lançamento.
+2. Abertura e prova real.
+3. Produto e autoria.
+4. Experiência e retorno.
+
+A grade contém 20 ideias com formato, tema, estrutura e dependências. O documento textual está em `Entregaveis/planejamento-conteudos-outubro-2026.md`.
+
+## 5. Grade inserida no Figma
+
+Foi criada uma área independente do diagnóstico chamada **04 — Grade de próximos conteúdos**.
+
+Link direto:
+
+https://www.figma.com/design/A1uRNS8uV6glBDIV1qxgQH/Painel-DIrecional---Marg%C3%B4?node-id=95-141
+
+A grade possui quatro colunas e 20 cards. Cada card está sinalizado como:
+
+- **Pode estruturar**; ou
+- **Aguarda confirmação**.
+
+Não foram criadas copys finais. A próxima etapa começa após o retorno de Bruna e Su.

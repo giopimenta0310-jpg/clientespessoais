@@ -1,52 +1,40 @@
 # Bíblia da personagem Margô
 
+## Fonte oficial
+
+A personagem aprovada é a versão simples derivada do mural. Use como referência-mestre:
+
+`../../../Assets/Personagem/margo-personagem-principal-v01.png`
+
+Para ações existentes, use a pose mais próxima disponível em `../../../Assets/Personagem/`.
+
+As personagens detalhadas em vinho armazenadas em `Ilustracoes/` e em `assets/approved/` são explorações anteriores. Não use cabelo longo, tatuagens, argolas, jaqueta ou a paleta vinho como padrão da personagem vigente.
+
 ## Essência
 
-Margô é uma mulher brasileira adulta, na faixa dos 30 anos. Ela é urbana, criativa, progressista, feminista, independente e acolhedora. Gosta de cafés especiais, comida boa, livros, arte, fotografia, MPB, rock brasileiro e encontros sem pressa. Sua presença deve comunicar personalidade própria, liberdade, curiosidade e prazer nos pequenos rituais.
+Margô é adulta, urbana, criativa, progressista, independente e acolhedora. Gosta de cafés especiais, comida boa, livros, arte, música e encontros sem pressa. Sua presença deve comunicar curiosidade, personalidade e prazer nos pequenos rituais.
 
-Ela não é uma personagem infantil nem uma figura de moda. É uma pessoa reconhecível, segura da própria verdade e confortável no próprio corpo.
+Ela não é infantil, apesar da simplicidade do traço. Também não é uma figura de moda ou uma personagem excessivamente polida.
 
 ## Identificadores visuais obrigatórios
 
-- Rosto adulto arredondado, expressão confiante e amigável.
-- Franja curta e cabelo longo, volumoso e ondulado.
-- Cabelo como grande massa de preenchimento vinho, com mechas internas brancas simples.
-- Argolas grandes nas orelhas.
-- Colar fino com pingente circular.
-- Jaqueta ampla e aberta, com mangas dobradas ou acumuladas.
-- Blusa ajustada preenchida em vinho.
-- Calça de cintura alta, muito ampla e com barras dobradas.
-- Tênis baixos de desenho simples.
-- Tatuagens botânicas e cósmicas nos antebraços: ramos e folhas, lua, estrelas e sol. A pose pode ocultar partes, mas não deve substituir esse vocabulário por tatuagens aleatórias.
-
-## Corpo e proporções
-
-- Mulher adulta de estatura baixa.
+- Cabelo preto, curto e arredondado, com franja lateral.
+- Óculos escuros redondos.
+- Rosto simples e expressão tranquila.
+- Blusa ampla de mangas compridas.
+- Calça muito larga e comprida.
 - Silhueta compacta e aterrada.
-- Cabeça ligeiramente maior em relação ao corpo, sem parecer infantil.
-- Pernas curtas em relação ao tronco; nunca alongar para uma proporção de passarela.
-- Quadris e coxas presentes, com roupa ampla acompanhando o volume.
-- Gestos naturais, relaxados e expressivos.
+- Traço preto orgânico, simples e levemente imperfeito.
+- Base off-white/creme e acentos pontuais em rosa; verde pode aparecer em objetos e composições.
 
-## Expressão e atuação
+## Corpo, expressão e atuação
 
-A expressão-base é um sorriso discreto e autoconfiante. Ela pode demonstrar concentração, alegria, curiosidade, descanso ou entusiasmo, desde que permaneça calorosa e dona de si.
+- Cabeça levemente maior em relação ao corpo, sem infantilização.
+- Gestos cotidianos, naturais e legíveis.
+- Proporções simples; evitar anatomia realista ou pernas de passarela.
+- Expressão calma, curiosa, acolhedora ou divertida.
+- A ação deve ser compreendida sem depender de cenário completo.
 
-Ao criar ações:
+## Poses aprovadas
 
-- Prefira gestos cotidianos e espontâneos.
-- Faça a ação ser legível pela pose, sem depender de cenário.
-- Preserve a proporção compacta em pé, sentada ou em movimento.
-- Não sensualize nem infantilize.
-- Não transforme a personagem em uma representação genérica de “garota descolada”. Os identificadores acima devem permanecer.
-
-## Poses aprovadas disponíveis
-
-- Em pé: referência-mestre neutra.
-- Sentada à mesa tomando café.
-- Sentada no chão lendo com uma xícara ao lado.
-- Preparando café no V60.
-- Caminhando com café e bolsa de tecido.
-- Dançando com fones de ouvido.
-
-Use a pose mais próxima do novo pedido como referência secundária para postura e vocabulário gestual.
+Consulte `../../../Assets/Personagem/README.md`. As poses incluem personagem em pé, sentada com café, lendo, preparando V60, caminhando, dançando, apontando, apresentando uma área de texto e apoiada em mesa.
