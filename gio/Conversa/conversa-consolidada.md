@@ -115,3 +115,21 @@ Este registro reúne o contexto disponível em 26 de setembro de 2026. Novas dec
 ### Decisão registrada
 
 Os arquivos `Giovanna - em pé.svg` e `Suki.svg` enviados por Giovanna foram salvos como referências canônicas dos personagens. A versão manualmente modificada da Giovanna substitui as gerações anteriores como fonte de verdade; o desenho aprovado do Suki permanece inalterado. Todas as novas poses, expressões e cenas devem partir desses SVGs e respeitar as regras registradas em `Assets/Personagens/README.md`.
+
+## 8. Estrutura inicial do Instagram e do conteúdo
+
+### Giovanna
+
+> Eu quero começar a construir a ideia de estruturar o perfil, estruturar os destaques e os posts fixados e começar a pensar em um calendário de conteúdos.
+
+Giovanna pediu que os conteúdos fossem construídos a partir de sua forma real de falar, reunindo o contexto das conversas e a linguagem já presente no Instagram `@pmtgii`.
+
+### Direção construída
+
+- Foi consolidado um guia de voz próximo, observador, direto e sem fórmulas de marketing.
+- Foram definidos cinco destaques: `oi, sou a gio`, `projetos`, `processo`, `trabalho` e `referências`.
+- Foram roteirizados três posts fixados: apresentação da Gio, projeto por dentro e formas de trabalhar com ela.
+- Foi criado um calendário inicial de 30 dias com duas publicações semanais, articulando `Eu vivo`, `Eu observo`, `Eu penso` e `Eu faço`.
+- A nova camada profissional deve ser publicada antes da curadoria do feed antigo.
+
+Documentos relacionados: `06-guia-de-voz.md`, `07-estrutura-do-perfil-e-destaques.md`, `08-posts-fixados.md` e `09-calendario-inicial-de-conteudo.md`.

@@ -93,10 +93,14 @@ A coleção inicial está em [`Assets/Stickers`](Assets/Stickers). Ela contém 1
 ## Próximas ações recomendadas
 
 1. Atualizar nome, bio e link do perfil.
-2. Definir as capas e os conteúdos mínimos dos destaques.
-3. Produzir os três posts que ficarão fixados.
+2. Produzir as capas e os conteúdos mínimos dos cinco destaques definidos em [`07-estrutura-do-perfil-e-destaques.md`](07-estrutura-do-perfil-e-destaques.md).
+3. Produzir os três posts fixados roteirizados em [`08-posts-fixados.md`](08-posts-fixados.md).
 4. Só então fazer a curadoria do feed atual, arquivando o que não sustenta identidade, afeto ou confiança.
-5. Começar um ciclo de conteúdo de 90 dias e observar visitas ao perfil, cliques, respostas, salvamentos, compartilhamentos e contatos qualificados.
+5. Executar o primeiro ciclo de 30 dias registrado em [`09-calendario-inicial-de-conteudo.md`](09-calendario-inicial-de-conteudo.md) e usá-lo como início do plano de 90 dias.
+
+## Voz da marca
+
+O guia atual está em [`06-guia-de-voz.md`](06-guia-de-voz.md). A escrita deve preservar a oralidade da Giovanna: próxima, direta, observadora, afetiva e sem fórmulas de marketing. Textos profissionais podem ser mais organizados, mas não devem soar como se uma social media falasse por ela.
 
 ## Instrução para futuras conversas
 

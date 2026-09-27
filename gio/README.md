@@ -13,6 +13,10 @@ Esta pasta concentra o contexto estratégico construído para a marca pessoal de
 7. Leia [`Conversa/conversa-consolidada.md`](Conversa/conversa-consolidada.md) para acompanhar a origem das decisões.
 8. Use [`Assets/Personagens/README.md`](Assets/Personagens/README.md) e os SVGs oficiais antes de criar qualquer nova pose ou cena da Giovanna e do Suki.
 9. Consulte [`Assets/Stickers/README.md`](Assets/Stickers/README.md) para usar e ampliar a biblioteca de elementos gráficos da marca.
+10. Use [`06-guia-de-voz.md`](06-guia-de-voz.md) para preservar a linguagem natural da Giovanna.
+11. Use [`07-estrutura-do-perfil-e-destaques.md`](07-estrutura-do-perfil-e-destaques.md) para implementar a base do Instagram.
+12. Use [`08-posts-fixados.md`](08-posts-fixados.md) para produzir os três conteúdos de apresentação.
+13. Use [`09-calendario-inicial-de-conteudo.md`](09-calendario-inicial-de-conteudo.md) como primeiro ciclo editorial de 30 dias.
 
 ## Links centrais
 
@@ -30,6 +34,7 @@ Esta pasta concentra o contexto estratégico construído para a marca pessoal de
 - Direção do Instagram: definida.
 - Curadoria publicação por publicação: ainda não executada.
 - Reestruturação do perfil e produção dos primeiros conteúdos: próximos passos.
+- Guia de voz, estrutura dos destaques, roteiros dos posts fixados e calendário inicial: definidos.
 - Personagens Giovanna e Suki: referências visuais oficiais consolidadas em SVG.
 - Biblioteca de stickers: coleção inicial com 12 elementos em SVG e PNG transparente.
 
