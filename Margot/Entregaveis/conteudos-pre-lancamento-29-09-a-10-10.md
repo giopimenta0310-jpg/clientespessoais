@@ -14,18 +14,36 @@
 - Não mencionar reservas, ordem de chegada, delivery, retirada ou encomendas.
 - Não comunicar opções sem lactose ou sem glúten até a confirmação.
 
+## Critério para os conteúdos textuais
+
+O Instagram não distribui um conteúdo porque ele é um carrossel ou porque possui muitas telas. A plataforma tenta prever se a pessoa vai permanecer no post, gostar dele ou enviá-lo para alguém. Para a Margô, cada conteúdo textual precisa provocar pelo menos um comportamento real:
+
+- **enviar:** “vamos juntas?”, “esse sábado é a nossa cara”;
+- **salvar:** programação, endereço, horários e informações de visita;
+- **continuar deslizando:** a capa abre uma ideia que só se completa nas telas seguintes;
+- **reconhecer algo próprio:** Joinville, artistas locais, café, comida e uma ocasião concreta de encontro.
+
+Por isso, os carrosséis abaixo evitam manifestos genéricos e frases que poderiam pertencer a qualquer cafeteria. Cada peça tem um trabalho específico:
+
+1. **01/10 — desejo social:** fazer alguém imaginar e compartilhar o programa de abertura.
+2. **06/10 — planejamento:** transformar a programação em um roteiro simples para o sábado.
+3. **08/10 — utilidade:** reunir o que vale salvar antes da visita.
+4. **10/10 — urgência local:** lembrar Joinville de que a abertura é hoje.
+
+Não há peça estática nesta sequência. Mesmo o conteúdo de 10/10 funciona melhor como carrossel curto, porque precisa reunir convite, programação e localização sem sobrecarregar uma única arte.
+
 ## Calendário reorganizado
 
 | Data | Formato | Conteúdo | Função |
 | --- | --- | --- | --- |
 | 26/09 | Carrossel | A Margô ganha forma | Pronto; fora desta rodada de aprovação. |
 | 29/09 | Reel | A história da Margô | Storytelling conduzido pelas donas. |
-| 01/10 | Carrossel | O primeiro dia da Margô | Apresentar a abertura de forma conceitual e criar expectativa pela programação. |
+| 01/10 | Carrossel | Não venha só tomar café | Criar desejo pelo programa e incentivar o envio para uma companhia. |
 | 04/10 | Reel | A Margô ainda não abriu, mas… | Usar as captações já feitas de comidas e bebidas no cenário da obra. |
-| 06/10 | Carrossel | Programação completa | Organizar atrações, horários e serviço. |
-| 08/10 | Carrossel | Tudo para a primeira visita | Concentrar as informações práticas. |
+| 06/10 | Carrossel | Seu sábado já tem destino | Organizar atrações e horários em uma linha do tempo salvável. |
+| 08/10 | Carrossel | Salve antes de vir | Concentrar as informações práticas em formato de guia. |
 | 09/10 | Reel curto | É amanhã | Convite emocional e lembrete direto. |
-| 10/10 | Carrossel ou estático | É hoje | Comunicar a abertura sem depender de edição durante o evento. |
+| 10/10 | Carrossel curto | Joinville, é hoje | Comunicar a abertura com urgência local, programação e localização. |
 
 ---
 
@@ -181,57 +199,60 @@ No dia 10/10, essa história ganha uma casa aberta para vocês. 💗
 
 ---
 
-## 01/10 — Carrossel | O primeiro dia da Margô
+## 01/10 — Carrossel | Não venha só tomar café
 
 ### Ideia central
 
-Apresentar a programação de maneira conceitual antes do post de serviço. A mensagem é que o primeiro dia já mostra o tipo de lugar que a Margô quer ser: café e cozinha cercados por pessoas, arte, música e encontros.
+Criar vontade de compartilhar o post com alguém. Em vez de apenas dizer que a Margô terá café, comida e cultura, o carrossel convida a pessoa a imaginar como pode passar a tarde da abertura.
+
+**Comportamento esperado:** envio por DM com uma mensagem como “vamos?” ou “esse é o nosso programa”.
 
 ### Texto dos cards
 
 **Card 1 — capa**<br>
-O primeiro dia da Margô já conta muito sobre quem a gente quer ser.
+No dia 10/10,<br>
+não venha só tomar café.
 
 **Card 2**<br>
-Uma casa em que café e comida são motivos para chegar…
+Venha provar o que está saindo da nossa cozinha.
 
 **Card 3**<br>
-…e as pessoas, as conversas e os encontros são motivos para ficar.
+Descobrir o trabalho de 10 artistas locais.
 
 **Card 4**<br>
-Por isso, a nossa abertura também vai ter arte local ocupando espaço.
+Ouvir música ao vivo enquanto a tarde acontece.
 
 **Card 5**<br>
-Música ao vivo acompanhando a tarde.
+Encontrar gente, puxar uma cadeira e ficar mais um pouco.
 
 **Card 6**<br>
-E uma casa inteira finalmente pronta para receber vocês.
+Porque o primeiro dia da Margô não cabe só em uma xícara.
 
-**Card 7**<br>
-No dia 10/10, a Margô começa do jeito que sempre imaginamos: viva.
+**Card 7 — fechamento**<br>
+10/10 · das 13h às 19h<br>
 
-**Card 8 — fechamento**<br>
-Em breve, a programação completa.<br>
-Por enquanto, guarde a data: 10/10.
+A programação completa chega em breve.<br>
+Já sabe quem você quer encontrar por aqui?
 
 ### Legenda
 
-Desde o começo, a gente imaginou a Margô como um lugar vivo.
+No dia 10/10, você pode vir pelo café. Mas a gente espera que fique por tudo o que vai acontecer ao redor dele.
 
-Um lugar em que o café e a comida dividem espaço com pessoas, ideias, arte, música e tudo aquilo que só acontece quando existe tempo para ficar.
+Vai ter comida saindo da cozinha, 10 artistas locais ocupando a casa, música ao vivo acompanhando a tarde e um espaço finalmente pronto para virar encontro.
 
-Por isso, o nosso primeiro dia não poderia ser apenas sobre abrir as portas. Ele precisava mostrar um pouco do que queremos construir por aqui todos os dias.
+Esse primeiro dia diz muito sobre a Margô que queremos construir: uma cafeteria em que sempre existe algo para provar, descobrir ou compartilhar.
 
-Em 10/10, a Margô começa com café, cozinha, música ao vivo, uma feira de artistas locais e muita vontade de receber vocês.
+🗓️ 10/10, das 13h às 19h<br>
+📍 Rua Presidente de Gaulle, 3331 — Joinville
 
-Nos próximos dias, contamos a programação completa. Por enquanto, conta para a gente: quem vem viver esse começo com você?
+A programação completa chega nos próximos dias. Por enquanto, já dá para começar a combinar a tarde. 💗
 
 ### Direção visual
 
-- Usar composição editorial, com frases grandes e bastante respiro.
-- Combinar detalhes reais do espaço com elementos ilustrados do mural.
-- Sugerir música e arte por meio de objetos, gestos e textura, sem precisar revelar todos os participantes.
-- Evitar repetir o formato puramente informativo do carrossel de 06/10.
+- Construir cada card com uma imagem ou elemento próprio: comida, arte, música e espaço.
+- Usar frases grandes, curtas e legíveis; nenhuma tela deve parecer uma legenda diagramada.
+- Manter uma progressão visual que faça cada card acrescentar uma razão diferente para ir.
+- O carrossel de 01/10 vende a experiência; o de 06/10 organiza horários. Eles não devem usar a mesma capa nem a mesma hierarquia.
 
 ---
 
@@ -309,116 +330,121 @@ Os takes adicionais são complementares, não obrigatórios.
 
 ---
 
-## 06/10 — Carrossel | Programação da abertura
+## 06/10 — Carrossel | Seu sábado já tem destino
 
 ### Ideia central
 
-Apresentar a programação completa com clareza. Este é o conteúdo de serviço que deve ser salvo e compartilhado.
+Transformar a programação em um plano de sábado fácil de entender, salvar e enviar. A pessoa deve sair do carrossel sabendo quando chegar, o que acontece em cada horário e onde será.
+
+**Comportamento esperado:** salvar para consultar no dia e enviar para combinar a visita.
 
 ### Texto dos cards
 
 **Card 1 — capa**<br>
-10/10<br>
-A Margô abre as portas.
+Seu sábado de 10/10<br>
+já tem destino.
 
 **Card 2**<br>
-Das 13h às 19h<br>
-Primeiro dia da Margô
+13h<br>
+A Margô abre as portas.
 
-Cafés especiais, cozinha autoral e uma tarde inteira para conhecer a casa.
+Café, comida e uma casa inteira para conhecer.
 
 **Card 3**<br>
-Das 13h às 19h<br>
+13h–19h<br>
 Feira de artistas locais
 
-10 expositores ocupando a Margô com seus trabalhos.
+10 expositores para descobrir durante toda a tarde.
 
 **Card 4**<br>
-Das 16h às 19h<br>
-Música ao vivo com Lelê Marchioli
+16h–19h<br>
+Lelê Marchioli ao vivo
 
-Voz e violão para acompanhar o fim da tarde.
+Voz e violão acompanhando o fim da tarde.
 
 **Card 5**<br>
-Para comer e beber
+Durante toda a tarde
 
-Uma seleção especial do cardápio preparada para o nosso primeiro dia, com opções vegetarianas e veganas.
+Cafés especiais e uma seleção da cozinha, com opções vegetarianas e veganas.
 
 **Card 6**<br>
-Sábado, 10/10<br>
-Das 13h às 19h
+O plano está pronto:
 
+10/10 · 13h–19h<br>
 Rua Presidente de Gaulle, 3331<br>
 Joinville
 
 **Card 7 — fechamento**<br>
-Salve a programação.<br>
-Envie para quem vem viver esse começo com você.
+Salve para consultar no sábado.<br>
+Envie no grupo para combinar a visita.
 
 ### Legenda
 
-Agora podemos contar como vai ser o nosso primeiro dia. 💗
+Se alguém perguntar qual é o plano para sábado, pode enviar este post. 💗
 
-No sábado, 10/10, a Margô abre as portas das 13h às 19h com:
+No dia 10/10, a Margô abre as portas pela primeira vez. A programação começa às 13h e ocupa a tarde inteira:
 
-— feira com 10 artistas locais durante toda a tarde;<br>
-— música ao vivo com Lelê Marchioli, das 16h às 19h;<br>
-— cafés especiais e uma seleção da nossa cozinha para acompanhar tudo isso.
+13h — abertura da casa e início da feira com 10 artistas locais;<br>
+16h — música ao vivo com Lelê Marchioli, voz e violão;<br>
+durante toda a tarde — cafés especiais e uma seleção da nossa cozinha, com opções vegetarianas e veganas.
 
-Vai ser um dia de comida, café, arte, música e encontros — do jeitinho que imaginamos a Margô desde o começo.
+Você pode chegar para conhecer a casa, descobrir artistas, comer alguma coisa e deixar a tarde seguir por aqui.
 
 📍 Rua Presidente de Gaulle, 3331 — Joinville<br>
 🗓️ 10/10, das 13h às 19h
 
-Salve este post e marque quem vem com você.
+Salve a programação e envie para quem vem com você.
 
 ### Direção visual
 
-- Usar a foto oficial da Lelê assim que for recebida.
-- Dar a cada atração seu próprio espaço visual.
-- O card com data, horário e endereço deve funcionar sozinho quando compartilhado.
-- Se os nomes dos expositores forem divulgados, fazer isso em uma peça própria ou organicamente; não comprimir todos neste carrossel.
+- Tratar o carrossel como uma pequena linha do tempo, com os horários muito visíveis.
+- Usar a foto oficial da Lelê no card 4 assim que for recebida.
+- Dar à feira uma imagem ou composição própria; não representar artistas e música apenas com ícones genéricos.
+- O card 6 deve funcionar sozinho quando compartilhado.
+- Não comprimir os nomes dos 10 expositores neste post. Caso sejam divulgados, usar um conteúdo próprio ou publicação colaborativa.
 
 ---
 
-## 08/10 — Carrossel | Tudo para a sua primeira visita
+## 08/10 — Carrossel | Salve antes de vir
 
 ### Ideia central
 
-Reunir apenas as informações práticas que ajudam alguém a planejar a visita, sem entrar em reservas, estacionamento, delivery ou outras regras que não precisam ser comunicadas agora.
+Criar um guia curto que mereça ser salvo. Ele reúne somente as respostas que ajudam alguém a sair de casa e chegar à Margô, sem competir com o carrossel de programação.
+
+**Comportamento esperado:** salvamento para consulta e abertura do link de rota na bio.
 
 ### Texto dos cards
 
 **Card 1 — capa**<br>
-Vem conhecer a Margô?<br>
-Aqui está o que você precisa saber.
+Vai à abertura da Margô?<br>
+Salve este guia antes de vir.
 
 **Card 2**<br>
-Abertura
+Quando?
 
 Sábado, 10/10<br>
 Das 13h às 19h
 
 **Card 3**<br>
-Onde estamos
+Onde?
 
 Rua Presidente de Gaulle, 3331<br>
 Joinville
 
-O link da rota está na bio.
+Tem link direto para a rota na bio.
 
 **Card 4**<br>
-Para comer e beber
+O que vai ter?
 
-No primeiro dia, teremos uma seleção especial do cardápio, incluindo opções vegetarianas e veganas.
+Cafés especiais e uma seleção da cozinha preparada para a abertura, com opções vegetarianas e veganas.
 
 **Card 5**<br>
-Pode trazer companhia.
+Quem pode vir?
 
-Crianças e pets são bem-vindos por aqui. 💗
+Crianças e pets também são bem-vindos. 💗
 
 **Card 6**<br>
-Depois da abertura, funcionamos:
+E nos outros dias?
 
 Terça a sábado<br>
 13h às 19h
@@ -430,12 +456,12 @@ Segunda<br>
 fechado
 
 **Card 7 — fechamento**<br>
-Agora é só combinar a visita.<br>
-Nos vemos na Margô.
+Guarde este guia.<br>
+E nos vemos no sábado.
 
 ### Legenda
 
-Está quase na hora. Então reunimos aqui as informações para a sua primeira visita à Margô:
+Este é o post para salvar agora e abrir quando estiver saindo de casa:
 
 🗓️ Abertura: sábado, 10/10<br>
 ⏰ Das 13h às 19h<br>
@@ -443,9 +469,16 @@ Está quase na hora. Então reunimos aqui as informações para a sua primeira v
 🐾 Pets são bem-vindos<br>
 💗 Crianças também são bem-vindas
 
-No dia da abertura, teremos uma seleção especial do cardápio, incluindo opções vegetarianas e veganas.
+No dia da abertura, teremos cafés especiais e uma seleção da cozinha preparada para a ocasião, incluindo opções vegetarianas e veganas.
 
-O caminho até aqui está no link da bio. Salve este post para consultar no dia — e nos vemos em breve.
+O caminho até aqui está no link da bio. Salve para consultar no sábado e envie para quem vai com você.
+
+### Direção visual
+
+- Usar perguntas grandes no início de cada card para permitir leitura rápida.
+- Hierarquizar data, horário e endereço acima dos textos complementares.
+- Evitar parágrafos e ilustrações meramente decorativas; cada tela precisa responder uma dúvida.
+- Manter o link da bio atualizado e testar a rota antes da publicação.
 
 ---
 
@@ -495,29 +528,30 @@ Foram muitos dias imaginando esse momento. Agora falta só vocês chegarem. 💗
 
 ---
 
-## 10/10 — Carrossel ou estático | É hoje
+## 10/10 — Carrossel curto | Joinville, é hoje
 
 ### Ideia central
 
-Ter uma peça pronta para publicar no dia da abertura, sem depender da edição de imagens captadas durante o evento. A cobertura espontânea pode acontecer separadamente.
+Criar urgência local e uma peça fácil de enviar no próprio dia. O carrossel fica pronto com antecedência e não depende da edição das imagens da abertura.
 
-### Opção A — carrossel
+**Comportamento esperado:** envio para moradores de Joinville e pessoas que ainda podem decidir visitar naquele sábado.
+
+### Texto dos cards
 
 **Card 1 — capa**<br>
-É hoje.<br>
-A Margô abre as portas.
+Joinville, é hoje.<br>
+A Margô abre às 13h.
 
 **Card 2**<br>
-Das 13h às 19h
-
-Café, comida e feira com 10 artistas locais durante toda a tarde.
+Você chega para o café e a comida.<br>
+E encontra uma feira com 10 artistas locais durante toda a tarde.
 
 **Card 3**<br>
-Das 16h às 19h
-
-Música ao vivo com Lelê Marchioli — voz e violão.
+Das 16h às 19h,<br>
+Lelê Marchioli entra com voz e violão.
 
 **Card 4**<br>
+Hoje · 13h–19h<br>
 Rua Presidente de Gaulle, 3331<br>
 Joinville
 
@@ -525,19 +559,9 @@ Joinville
 A casa está pronta.<br>
 Agora falta você chegar. 💗
 
-### Opção B — peça estática
-
-**Texto principal:**<br>
-É hoje.<br>
-A Margô abre as portas.
-
-**Serviço:**<br>
-10/10 · 13h às 19h<br>
-Rua Presidente de Gaulle, 3331 · Joinville
-
 ### Legenda
 
-É hoje. 💗
+Joinville, é hoje. 💗
 
 Às 13h, a Margô abre as portas pela primeira vez.
 
@@ -549,6 +573,15 @@ Que este seja o primeiro de muitos por aqui.
 
 ⏰ Hoje, das 13h às 19h<br>
 📍 Rua Presidente de Gaulle, 3331 — Joinville
+
+Se ainda faltava decidir o programa de hoje, está decidido. Nos vemos por aqui.
+
+### Direção visual
+
+- Usar “Joinville, é hoje” como o maior elemento da capa; a informação local ajuda a interromper a rolagem de quem pode realmente visitar.
+- Manter o carrossel curto e direto. No dia da abertura, não há espaço para uma narrativa longa.
+- Misturar identidade gráfica com fotos reais já disponíveis da casa, comida e café.
+- Não depender de nenhuma imagem captada no próprio evento.
 
 ---
 
@@ -590,3 +623,17 @@ Que este seja o primeiro de muitos por aqui.
 - Capacidade ou previsão de lotação.
 - Promessas específicas de acessibilidade.
 - Roteiros fechados de Stories.
+
+## Base da revisão
+
+- A Meta informa que seus sistemas tentam prever ações de valor, entre elas o compartilhamento de uma publicação; não existe um único “algoritmo do Instagram” nem um formato premiado automaticamente.
+- Em explicações públicas de 2025, Adam Mosseri destacou tempo de visualização, curtidas por alcance e envios por alcance como sinais centrais. Para alcançar pessoas que ainda não seguem a conta, os envios ganham importância especial.
+- Em 2026, a Meta informou que 75% das recomendações do Instagram nos Estados Unidos já vinham de publicações originais. Isso reforça o uso de imagens próprias da obra, das donas, da cozinha, da feira e do espaço.
+- O crescimento das conversas por DM, dos reposts e das superfícies de descoberta favorece peças que alguém realmente queira mandar para outra pessoa, não chamadas artificiais de engajamento.
+
+Fontes consultadas:
+
+- https://about.fb.com/news/2023/06/how-ai-ranks-content-on-facebook-and-instagram/
+- https://about.fb.com/news/2025/08/new-instagram-features-help-you-connect/
+- https://about.fb.com/news/2026/01/2026-ai-drives-performance/
+- https://about.fb.com/br/news/2024/04/ajudando-o-criador-de-conteudo-a-encontrar-novos-publicos/

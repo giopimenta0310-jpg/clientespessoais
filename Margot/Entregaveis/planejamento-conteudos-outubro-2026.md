@@ -14,12 +14,12 @@
 | --- | --- | --- | --- | --- |
 | 26/09 | Carrossel | A Margô ganha forma | Peça já produzida; não depende de aprovação de copy. | Pronto |
 | 29/09 | Reel | A história da Margô | Storytelling aberto sobre Coara, BC na Cozinha, feiras e a criação da casa. | Roteiro-base pronto |
-| 01/10 | Carrossel | O primeiro dia da Margô | Apresentação conceitual da abertura, da arte, da música e dos encontros. | Copy pronta |
+| 01/10 | Carrossel | Não venha só tomar café | Convite pensado para ser enviado a quem pode acompanhar a pessoa na abertura. | Copy revisada |
 | 04/10 | Reel | A Margô ainda não abriu, mas… | Comidas e bebidas no cenário da obra; usar a captação existente e acrescentar takes somente se desejado. | Parcialmente captado; roteiro pronto |
-| 06/10 | Carrossel | Programação da abertura | Feira de artistas locais, música com Lelê Marchioli e serviço completo. | Copy pronta; aguarda foto |
-| 08/10 | Carrossel | Tudo para a primeira visita | Horários, endereço, Maps, cardápio da abertura, pets e crianças. | Copy pronta |
+| 06/10 | Carrossel | Seu sábado já tem destino | Programação apresentada como linha do tempo para salvar e compartilhar. | Copy revisada; aguarda foto |
+| 08/10 | Carrossel | Salve antes de vir | Guia prático com data, rota, oferta, pets, crianças e horários regulares. | Copy revisada |
 | 09/10 | Reel curto | É amanhã | Preparação final, programação e convite direto. | Roteiro pronto |
-| 10/10 | Carrossel/Estático | É hoje | Convite e serviço prontos antes do evento. | Copy pronta |
+| 10/10 | Carrossel curto | Joinville, é hoje | Urgência local, programação resumida e localização. | Copy revisada |
 
 ## 2. Abertura e prova real — 11 a 17/10
 

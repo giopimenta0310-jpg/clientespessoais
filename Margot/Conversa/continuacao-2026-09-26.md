@@ -109,3 +109,9 @@ Também ficou definido que Stories serão usados organicamente, sem planejamento
 O calendário e o documento de copys foram refeitos com essas orientações.
 
 Para o Reel de 04/10, Giovanna esclareceu que já existem captações parciais de comidas e bebidas dentro do espaço ainda em obra. O conceito passa a explorar exatamente esse contraste: “a Margô ainda não abriu, mas já tem muita comida e bebida gostosa por aqui”. Novos takes são opcionais e devem ser sugeridos apenas como complemento ao material existente.
+
+## 8. Revisão estratégica dos conteúdos textuais
+
+Antes de produzir as peças gráficas, Giovanna pediu uma avaliação do que faz sentido para o Instagram atual e observou que as versões anteriores estavam pobres. A revisão passou a considerar permanência no conteúdo, curtidas e principalmente envios, além do valor de originalidade e da função local de uma cafeteria.
+
+Os carrosséis foram separados por comportamento desejado: envio para companhia em 01/10, salvamento e planejamento da programação em 06/10, utilidade prática em 08/10 e urgência local em 10/10. Frases institucionais genéricas foram substituídas por capas com tensão, informações concretas e chamadas coerentes com cada peça. A possibilidade de peça estática em 10/10 foi descartada; toda a sequência textual passa a usar carrosséis.
