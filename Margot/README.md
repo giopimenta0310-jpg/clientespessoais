@@ -10,7 +10,7 @@ Este diretório concentra o histórico do trabalho feito para a Margô, permitin
 - `CONTEXTO_ATUAL.md`: fonte rápida para decisões vigentes, fontes de verdade e pendências.
 - `briefing-estrategico-margo-cafes-especiais.md`: briefing que já existia no repositório.
 - `Entregaveis/planejamento-conteudos-outubro-2026.md`: grade-base de conteúdos do pré-lançamento e de outubro.
-- `Entregaveis/copys-pre-lancamento-26-09-a-10-10.md`: textos de tela, roteiros, legendas, Stories e direção de captação até a abertura.
+- `Entregaveis/conteudos-pre-lancamento-29-09-a-10-10.md`: roteiros-base, copys de feed e direção de captação até a abertura.
 - `Assets/Personagem/`: personagem principal da Margô e suas poses aprovadas.
 - `Assets/Obra-com-personagens/`: fotografias da obra adaptadas com personagens ilustrados.
 - `Assets/Elementos/`: biblioteca de objetos do café no estilo visual da Margô.

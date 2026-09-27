@@ -1,7 +1,7 @@
 # Planejamento-base de conteúdos — outubro de 2026
 
 **Status:** copys de pré-lançamento produzidas até 10/10.
-**Documento de produção:** `copys-pre-lancamento-26-09-a-10-10.md`
+**Documento de produção:** `conteudos-pre-lancamento-29-09-a-10-10.md`
 **Grade visual:** [Figma — Grade de próximos conteúdos](https://www.figma.com/design/A1uRNS8uV6glBDIV1qxgQH/Painel-DIrecional---Marg%C3%B4?node-id=95-141)
 
 ## Lógica do mês
@@ -12,16 +12,14 @@
 
 | Data | Formato | Tema | Estrutura | Status |
 | --- | --- | --- | --- | --- |
-| 26/09 | Carrossel | A Margô ganha forma | Obra, personagem e evolução do espaço, sem repetir o Reel anterior. | Copy pronta |
-| 29/09 | Reel | Um encontro que começou nas feiras | Origem da Margô a partir do encontro entre BC na Cozinha e Café Coara. | Copy pronta |
-| 30/09 | Stories | Faltam 10 dias | Primeira menção ampla à feira, à música, ao café e à comida. | Copy pronta |
-| 01/10 | Reel | Primeiro desejo de comida | Red Velvet; usar alternativa genérica se o item não for confirmado. | Copy pronta; produto pendente |
-| 03/10 | Stories/Reel opcional | Café passado Coara | Ritual, tempo e presença do Coara na história da Margô. | Copy pronta; produto pendente |
-| 04/10 | Carrossel | O que cabe na Margô | Café, cozinha, trabalho, espaço, encontros e cultura. | Copy pronta |
+| 26/09 | Carrossel | A Margô ganha forma | Peça já produzida; não depende de aprovação de copy. | Pronto |
+| 29/09 | Reel | A história da Margô | Storytelling aberto sobre Coara, BC na Cozinha, feiras e a criação da casa. | Roteiro-base pronto |
+| 01/10 | Carrossel | O primeiro dia da Margô | Apresentação conceitual da abertura, da arte, da música e dos encontros. | Copy pronta |
+| 04/10 | Reel | Antes de chegar à mesa | Diferentes preparos e texturas para criar interesse pela cozinha como um todo. | Roteiro pronto |
 | 06/10 | Carrossel | Programação da abertura | Feira de artistas locais, música com Lelê Marchioli e serviço completo. | Copy pronta; aguarda foto |
 | 08/10 | Carrossel | Tudo para a primeira visita | Horários, endereço, Maps, cardápio da abertura, pets e crianças. | Copy pronta |
-| 09/10 | Stories/Reel curto | É amanhã | Preparação final, programação e convite direto. | Copy pronta |
-| 10/10 | Reel/Stories | Portas abertas | Convite direto e cobertura real do primeiro dia. | Copy pronta; depende da captação |
+| 09/10 | Reel curto | É amanhã | Preparação final, programação e convite direto. | Roteiro pronto |
+| 10/10 | Carrossel/Estático | É hoje | Convite e serviço prontos antes do evento. | Copy pronta |
 
 ## 2. Abertura e prova real — 11 a 17/10
 
@@ -61,4 +59,4 @@
 
 ## Regra de produção
 
-As copys de pré-lançamento estão prontas. Antes de publicar, validar apenas os itens assinalados como pendentes e conferir se as informações operacionais continuam corretas. Reservas, delivery, retirada e encomendas permanecem fora da comunicação até nova orientação.
+As copys de feed do pré-lançamento estão prontas. Stories serão produzidos organicamente, sem roteiro editorial fechado. Antes de publicar, validar os itens assinalados como pendentes e conferir se as informações operacionais continuam corretas. Reservas, delivery, retirada e encomendas permanecem fora da comunicação até nova orientação.

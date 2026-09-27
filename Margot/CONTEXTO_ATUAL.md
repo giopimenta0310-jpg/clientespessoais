@@ -49,6 +49,7 @@
 - Na abertura, será oferecida uma seleção reduzida do cardápio.
 - As prioridades narrativas são espaço, pessoas, encontros e cultura, sem deixar café e comida de fora.
 - Não mencionar reservas, ordem de chegada, delivery, retirada ou encomendas neste momento.
+- Stories devem permanecer orgânicos; não criar uma grade ou roteiro fechado para o formato.
 
 ## Aguardando retorno de Bruna e Su
 
@@ -68,4 +69,4 @@ Foi criada uma grade editorial separada do diagnóstico no Figma, com 20 estrutu
 
 Link direto: https://www.figma.com/design/A1uRNS8uV6glBDIV1qxgQH/Painel-DIrecional---Marg%C3%B4?node-id=95-141
 
-As copys de 26/09 a 10/10 foram produzidas em `Entregaveis/copys-pre-lancamento-26-09-a-10-10.md`. As pendências restantes foram tratadas com alternativas seguras ou marcadas para validação antes da publicação.
+Os conteúdos de feed de 29/09 a 10/10 foram reorganizados em `Entregaveis/conteudos-pre-lancamento-29-09-a-10-10.md`. O carrossel de 26/09 já está pronto e ficou fora da rodada de aprovação. As pendências restantes foram marcadas para validação antes da publicação.

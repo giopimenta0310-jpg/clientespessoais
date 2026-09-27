@@ -96,6 +96,14 @@ Bruna e Su confirmaram:
 
 Giovanna orientou que reservas e ordem de chegada não sejam mencionadas neste momento e que nenhuma promessa seja feita sobre delivery, retirada ou encomendas.
 
-Foram produzidas as copys completas de 26/09 a 10/10, incluindo textos de carrosséis, roteiros de Reels, legendas, Stories e orientações de captação. O arquivo está em `Entregaveis/copys-pre-lancamento-26-09-a-10-10.md`.
+Foram produzidas as copys completas de 26/09 a 10/10, incluindo textos de carrosséis, roteiros de Reels, legendas, Stories e orientações de captação. Essa primeira versão foi posteriormente reorganizada e substituída pelo arquivo `Entregaveis/conteudos-pre-lancamento-29-09-a-10-10.md`.
 
 Permanecem pendentes apenas o cardápio, a confirmação final do Red Velvet e do café passado Coara como destaques, as informações sobre opções sem lactose e sem glúten e a foto da Lelê.
+
+## 7. Reorganização dos conteúdos até a abertura
+
+Giovanna definiu que o carrossel de 26/09 já está pronto e não precisa passar por aprovação de copy. O Reel de 29/09 deve funcionar como um roteiro-base de storytelling para que as donas contem a história com suas próprias palavras, acompanhado de perguntas-guia e direcionamento detalhado de captação.
+
+Também ficou definido que Stories serão usados organicamente, sem planejamento ou roteiro fechado. O anúncio inicial da programação passa a ser um carrossel de feed em 01/10. O Reel culinário seguinte deve gerar interesse pela cozinha como um todo, mostrando diferentes preparos, texturas e gestos, sem focar em um prato específico.
+
+O calendário e o documento de copys foram refeitos com essas orientações.
