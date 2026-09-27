@@ -86,6 +86,10 @@ Giovanna e seu gato Suki fazem parte do universo ilustrado da marca. As referên
 
 Em novas poses ou cenas, os SVGs oficiais prevalecem sobre qualquer geração anterior. A Giovanna deve sempre ter cinco dedos em cada mão visível, rosto natural e poses naturais. O Suki deve preservar os olhos verde-claros e o padrão singular da cauda: escuro, anel branco, trecho escuro e ponta final branca. As regras completas estão em [`Assets/Personagens/README.md`](Assets/Personagens/README.md).
 
+## Biblioteca de stickers
+
+A coleção inicial está em [`Assets/Stickers`](Assets/Stickers). Ela contém 12 elementos vetoriais e suas exportações em PNG transparente, organizados em formas de assinatura, repertório/processo e stickers editoriais. A linguagem usa formas planas e orgânicas, contorno creme e a paleta vinho, rosa, coral, lilás, amarelo, creme e tinta. Novas coleções devem preservar essa lógica sem obrigar todos os elementos a usar todas as cores.
+
 ## Próximas ações recomendadas
 
 1. Atualizar nome, bio e link do perfil.

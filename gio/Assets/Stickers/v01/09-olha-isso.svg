@@ -1,0 +1,8 @@
+<svg width="320" height="320" viewBox="0 0 320 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M46 65C46 45 62 30 82 30H239C259 30 275 46 275 66V205C275 225 259 241 239 241H154L94 289L103 241H82C62 241 46 225 46 205V65Z" fill="#F29AC2" stroke="#F6F0E8" stroke-width="22" stroke-linejoin="round" paint-order="stroke fill"/>
+  <path d="M46 65C46 45 62 30 82 30H239C259 30 275 46 275 66V205C275 225 259 241 239 241H154L94 289L103 241H82C62 241 46 225 46 205V65Z" stroke="#6B1738" stroke-width="5" stroke-linejoin="round"/>
+  <text x="160" y="128" fill="#6B1738" text-anchor="middle" font-family="Instrument Sans, Arial, sans-serif" font-size="40" font-weight="750">olha</text>
+  <text x="160" y="176" fill="#6B1738" text-anchor="middle" font-family="Instrument Sans, Arial, sans-serif" font-size="40" font-weight="750">isso!</text>
+  <circle cx="236" cy="72" r="12" fill="#F4C95D"/>
+</svg>
+
