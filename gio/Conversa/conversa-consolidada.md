@@ -105,3 +105,13 @@ Foi criada a pasta `gio` com:
 ## Nota de atualização
 
 Este registro reúne o contexto disponível em 26 de setembro de 2026. Novas decisões devem ser incorporadas aos documentos temáticos e adicionadas cronologicamente ao final deste arquivo.
+
+## 7. Consolidação dos personagens oficiais
+
+### Giovanna
+
+> fiz algumas modificações no da Giovanna, o do suki mantive igual. salve essas referências do que é o personagem correto para depois conseguirmos criar direitinho
+
+### Decisão registrada
+
+Os arquivos `Giovanna - em pé.svg` e `Suki.svg` enviados por Giovanna foram salvos como referências canônicas dos personagens. A versão manualmente modificada da Giovanna substitui as gerações anteriores como fonte de verdade; o desenho aprovado do Suki permanece inalterado. Todas as novas poses, expressões e cenas devem partir desses SVGs e respeitar as regras registradas em `Assets/Personagens/README.md`.

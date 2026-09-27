@@ -11,6 +11,7 @@ Esta pasta concentra o contexto estratégico construído para a marca pessoal de
 5. Use [`04-curadoria-do-feed.md`](04-curadoria-do-feed.md) antes de arquivar ou manter publicações.
 6. Consulte [`05-painel-direcional.md`](05-painel-direcional.md) para acessar o painel montado no Figma.
 7. Leia [`Conversa/conversa-consolidada.md`](Conversa/conversa-consolidada.md) para acompanhar a origem das decisões.
+8. Use [`Assets/Personagens/README.md`](Assets/Personagens/README.md) e os SVGs oficiais antes de criar qualquer nova pose ou cena da Giovanna e do Suki.
 
 ## Links centrais
 
@@ -28,6 +29,7 @@ Esta pasta concentra o contexto estratégico construído para a marca pessoal de
 - Direção do Instagram: definida.
 - Curadoria publicação por publicação: ainda não executada.
 - Reestruturação do perfil e produção dos primeiros conteúdos: próximos passos.
+- Personagens Giovanna e Suki: referências visuais oficiais consolidadas em SVG.
 
 ## Princípio central
 

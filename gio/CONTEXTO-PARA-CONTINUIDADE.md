@@ -77,6 +77,15 @@ Posts fixados:
   - creme `#F6F0E8`
   - tinta `#21171C`
 
+## Personagens oficiais
+
+Giovanna e seu gato Suki fazem parte do universo ilustrado da marca. As referências canônicas atuais estão em [`Assets/Personagens/Referencias-oficiais`](Assets/Personagens/Referencias-oficiais):
+
+- `giovanna-em-pe-oficial.svg`: versão da Giovanna modificada e aprovada manualmente.
+- `suki-oficial.svg`: versão aprovada do Suki, mantida sem alterações.
+
+Em novas poses ou cenas, os SVGs oficiais prevalecem sobre qualquer geração anterior. A Giovanna deve sempre ter cinco dedos em cada mão visível, rosto natural e poses naturais. O Suki deve preservar os olhos verde-claros e o padrão singular da cauda: escuro, anel branco, trecho escuro e ponta final branca. As regras completas estão em [`Assets/Personagens/README.md`](Assets/Personagens/README.md).
+
 ## Próximas ações recomendadas
 
 1. Atualizar nome, bio e link do perfil.
