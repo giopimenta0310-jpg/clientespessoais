@@ -79,3 +79,23 @@ A grade possui quatro colunas e 20 cards. Cada card está sinalizado como:
 - **Aguarda confirmação**.
 
 Não foram criadas copys finais. A próxima etapa começa após o retorno de Bruna e Su.
+
+## 6. Retorno das donas e copys até a abertura
+
+Bruna e Su confirmaram:
+
+- pets são bem-vindos;
+- haverá opções vegetarianas e veganas;
+- a história pode contar como BC na Cozinha e Café Coara se conheceram nas feiras;
+- a Margô pode ser apresentada como lugar para trabalho, encontros e experiências culturais;
+- funcionamento de terça a sábado, das 13h às 19h, e domingo, das 9h às 16h;
+- abertura em 10/10, das 13h às 19h;
+- feira com 10 artistas locais, das 13h às 19h;
+- música ao vivo com Lelê Marchioli, voz e violão, das 16h às 19h;
+- seleção reduzida do cardápio no dia da abertura.
+
+Giovanna orientou que reservas e ordem de chegada não sejam mencionadas neste momento e que nenhuma promessa seja feita sobre delivery, retirada ou encomendas.
+
+Foram produzidas as copys completas de 26/09 a 10/10, incluindo textos de carrosséis, roteiros de Reels, legendas, Stories e orientações de captação. O arquivo está em `Entregaveis/copys-pre-lancamento-26-09-a-10-10.md`.
+
+Permanecem pendentes apenas o cardápio, a confirmação final do Red Velvet e do café passado Coara como destaques, as informações sobre opções sem lactose e sem glúten e a foto da Lelê.

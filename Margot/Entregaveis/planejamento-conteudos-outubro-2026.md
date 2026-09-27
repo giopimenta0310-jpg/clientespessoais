@@ -1,7 +1,7 @@
 # Planejamento-base de conteúdos — outubro de 2026
 
-**Status:** estruturas editoriais; copys ainda não produzidas.  
-**Dependência:** retorno de Bruna e Su sobre operação, produtos, história e prioridades.  
+**Status:** copys de pré-lançamento produzidas até 10/10.
+**Documento de produção:** `copys-pre-lancamento-26-09-a-10-10.md`
 **Grade visual:** [Figma — Grade de próximos conteúdos](https://www.figma.com/design/A1uRNS8uV6glBDIV1qxgQH/Painel-DIrecional---Marg%C3%B4?node-id=95-141)
 
 ## Lógica do mês
@@ -12,14 +12,16 @@
 
 | Data | Formato | Tema | Estrutura | Status |
 | --- | --- | --- | --- | --- |
-| 26/09 | Carrossel | A Margô ganha forma | Obra, personagem e evolução do espaço, sem repetir o Reel anterior. | Pode estruturar |
-| 29/09 | Reel | Pessoas por trás | Quem está criando a Margô, papéis e história que desejam contar agora. | Aguarda confirmação |
-| 01/10 | Reel | Primeiro desejo de comida | Preparo, textura, finalização e resultado de um item da abertura. | Aguarda confirmação |
-| 04/10 | Carrossel | O que você encontra | Café, cozinha, espaço, encontros e experiência. | Aguarda prioridades |
-| 06/10 | Reel | Produto âncora | Café, prato, doce ou combinação que represente a casa. | Aguarda confirmação |
-| 08/10 | Carrossel | Como visitar | Horários, endereço, Maps e orientações práticas confirmadas. | Aguarda informações |
-| 09/10 | Stories/Reel curto | É amanhã | Preparação final, espaço e dinâmica da abertura. | Aguarda confirmação |
-| 10/10 | Reel | Portas abertas | Convite direto, espaço pronto e primeiros preparos. | Aguarda programação |
+| 26/09 | Carrossel | A Margô ganha forma | Obra, personagem e evolução do espaço, sem repetir o Reel anterior. | Copy pronta |
+| 29/09 | Reel | Um encontro que começou nas feiras | Origem da Margô a partir do encontro entre BC na Cozinha e Café Coara. | Copy pronta |
+| 30/09 | Stories | Faltam 10 dias | Primeira menção ampla à feira, à música, ao café e à comida. | Copy pronta |
+| 01/10 | Reel | Primeiro desejo de comida | Red Velvet; usar alternativa genérica se o item não for confirmado. | Copy pronta; produto pendente |
+| 03/10 | Stories/Reel opcional | Café passado Coara | Ritual, tempo e presença do Coara na história da Margô. | Copy pronta; produto pendente |
+| 04/10 | Carrossel | O que cabe na Margô | Café, cozinha, trabalho, espaço, encontros e cultura. | Copy pronta |
+| 06/10 | Carrossel | Programação da abertura | Feira de artistas locais, música com Lelê Marchioli e serviço completo. | Copy pronta; aguarda foto |
+| 08/10 | Carrossel | Tudo para a primeira visita | Horários, endereço, Maps, cardápio da abertura, pets e crianças. | Copy pronta |
+| 09/10 | Stories/Reel curto | É amanhã | Preparação final, programação e convite direto. | Copy pronta |
+| 10/10 | Reel/Stories | Portas abertas | Convite direto e cobertura real do primeiro dia. | Copy pronta; depende da captação |
 
 ## 2. Abertura e prova real — 11 a 17/10
 
@@ -59,4 +61,4 @@
 
 ## Regra de produção
 
-As estruturas podem receber roteiro visual e lista de captação antes do retorno. Copys, alegações técnicas, itens de cardápio, horários, regras de atendimento e programação só devem ser finalizados depois da validação das donas.
+As copys de pré-lançamento estão prontas. Antes de publicar, validar apenas os itens assinalados como pendentes e conferir se as informações operacionais continuam corretas. Reservas, delivery, retirada e encomendas permanecem fora da comunicação até nova orientação.

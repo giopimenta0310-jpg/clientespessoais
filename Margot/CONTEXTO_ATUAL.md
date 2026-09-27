@@ -34,26 +34,28 @@
 ## Informações já confirmadas
 
 - Abertura em 10/10/2026.
-- O horário da abertura será o horário regular de funcionamento.
-- A casa não funcionará às segundas-feiras.
+- Horário da abertura: 13h às 19h, seguindo o horário regular de sábado.
+- Funcionamento regular: terça a sábado, das 13h às 19h; domingo, das 9h às 16h; segunda-feira, fechado.
 - Endereço e link do Google Maps estão confirmados.
 - Existe estacionamento, mas com poucas vagas; não há decisão de comunicar isso como destaque.
 - O acesso possui escadas e a acessibilidade é limitada; não há decisão de transformar isso em conteúdo espontâneo.
 - Crianças são bem-vindas.
+- Pets são bem-vindos.
+- Haverá opções vegetarianas e veganas.
+- A Margô pode ser apresentada como lugar para trabalhar, encontrar pessoas e viver experiências culturais.
+- A história de origem deve contar como BC na Cozinha e Café Coara se conheceram por meio das feiras.
+- A feira de artistas locais está confirmada para a abertura, com 10 expositores, das 13h às 19h.
+- Haverá música ao vivo com Lelê Marchioli, voz e violão, das 16h às 19h.
+- Na abertura, será oferecida uma seleção reduzida do cardápio.
+- As prioridades narrativas são espaço, pessoas, encontros e cultura, sem deixar café e comida de fora.
+- Não mencionar reservas, ordem de chegada, delivery, retirada ou encomendas neste momento.
 
 ## Aguardando retorno de Bruna e Su
 
-- Horários exatos de funcionamento.
-- Existência de programação ou dinâmica especial na abertura.
-- Política para pets.
-- Retirada, encomendas, delivery e reservas.
-- Itens do cardápio que devem aparecer antes da abertura.
-- Opções vegetarianas, veganas, sem lactose e sem glúten que podem ser comunicadas.
-- Cafés, métodos ou experiências disponíveis na abertura e o que deve ser apresentado primeiro.
-- O que desejam contar agora sobre Margô, Coara, BC na Cozinha e pessoas envolvidas; e o que preferem deixar para depois.
-- Se a comunicação pode falar de trabalho com calma, encontros e experiências culturais ou se deve focar inicialmente em café, comida e abertura.
-- Confirmação da feira de abertura e autorização para divulgá-la.
-- Ordem de prioridade entre café, comida, espaço, pessoas, encontros e cultura.
+- Cardápio reduzido da abertura e cardápio completo.
+- Confirmação definitiva do Red Velvet e do café passado Coara como destaques antes da abertura.
+- Confirmação de opções sem lactose e sem glúten.
+- Foto de Lelê Marchioli para a divulgação da programação.
 
 ## Grade de próximos conteúdos
 
@@ -66,4 +68,4 @@ Foi criada uma grade editorial separada do diagnóstico no Figma, com 20 estrutu
 
 Link direto: https://www.figma.com/design/A1uRNS8uV6glBDIV1qxgQH/Painel-DIrecional---Marg%C3%B4?node-id=95-141
 
-Os cards distinguem o que já pode ser estruturado do que aguarda confirmação. As copys finais só serão produzidas após o retorno das donas.
+As copys de 26/09 a 10/10 foram produzidas em `Entregaveis/copys-pre-lancamento-26-09-a-10-10.md`. As pendências restantes foram tratadas com alternativas seguras ou marcadas para validação antes da publicação.
