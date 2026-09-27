@@ -1,6 +1,6 @@
 # Contexto atual — Margô Cafés Especiais
 
-**Atualizado em:** 26/09/2026  
+**Atualizado em:** 27/09/2026
 **Fase:** pré-lançamento  
 **Abertura confirmada:** 10/10/2026  
 **Instagram:** `@margocafesespeciais`  
@@ -70,3 +70,14 @@ Foi criada uma grade editorial separada do diagnóstico no Figma, com 20 estrutu
 Link direto: https://www.figma.com/design/A1uRNS8uV6glBDIV1qxgQH/Painel-DIrecional---Marg%C3%B4?node-id=95-141
 
 Os conteúdos de feed de 29/09 a 10/10 foram reorganizados em `Entregaveis/conteudos-pre-lancamento-29-09-a-10-10.md`. O carrossel de 26/09 já está pronto e ficou fora da rodada de aprovação. As pendências restantes foram marcadas para validação antes da publicação.
+
+### Revisão estratégica do calendário em 27/09
+
+- 29/09 permanece como Reel de pessoas e autoria, com perguntas-guia para as donas contarem a história com as próprias palavras.
+- 01/10 passa a apresentar o que a Margô quer significar como espaço: café, comida, tempo, encontros, trabalho e cultura.
+- 04/10 passa a ser explicitamente um Reel de desejo de produto, usando Marcos preparando café, pessoas tomando café e comidas sendo produzidas na obra.
+- 06/10 concentra a programação completa como convite para viver a abertura, valorizando a feira e a apresentação de Lelê Marchioli.
+- 08/10 fica restrito às informações que facilitam a primeira visita e não repete a programação.
+- 09/10 permanece como Reel curto de véspera.
+- 10/10 passa de carrossel para peça estática com chamado direto: “Joinville, é hoje”.
+- Informações de cardápio podem ser incorporadas quando forem recebidas, mas conteúdos não devem mencionar opções sem lactose ou sem glúten antes de confirmação.
