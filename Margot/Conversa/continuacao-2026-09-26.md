@@ -107,3 +107,5 @@ Giovanna definiu que o carrossel de 26/09 já está pronto e não precisa passar
 Também ficou definido que Stories serão usados organicamente, sem planejamento ou roteiro fechado. O anúncio inicial da programação passa a ser um carrossel de feed em 01/10. O Reel culinário seguinte deve gerar interesse pela cozinha como um todo, mostrando diferentes preparos, texturas e gestos, sem focar em um prato específico.
 
 O calendário e o documento de copys foram refeitos com essas orientações.
+
+Para o Reel de 04/10, Giovanna esclareceu que já existem captações parciais de comidas e bebidas dentro do espaço ainda em obra. O conceito passa a explorar exatamente esse contraste: “a Margô ainda não abriu, mas já tem muita comida e bebida gostosa por aqui”. Novos takes são opcionais e devem ser sugeridos apenas como complemento ao material existente.

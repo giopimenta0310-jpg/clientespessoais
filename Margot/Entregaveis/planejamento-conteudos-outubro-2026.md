@@ -15,7 +15,7 @@
 | 26/09 | Carrossel | A Margô ganha forma | Peça já produzida; não depende de aprovação de copy. | Pronto |
 | 29/09 | Reel | A história da Margô | Storytelling aberto sobre Coara, BC na Cozinha, feiras e a criação da casa. | Roteiro-base pronto |
 | 01/10 | Carrossel | O primeiro dia da Margô | Apresentação conceitual da abertura, da arte, da música e dos encontros. | Copy pronta |
-| 04/10 | Reel | Antes de chegar à mesa | Diferentes preparos e texturas para criar interesse pela cozinha como um todo. | Roteiro pronto |
+| 04/10 | Reel | A Margô ainda não abriu, mas… | Comidas e bebidas no cenário da obra; usar a captação existente e acrescentar takes somente se desejado. | Parcialmente captado; roteiro pronto |
 | 06/10 | Carrossel | Programação da abertura | Feira de artistas locais, música com Lelê Marchioli e serviço completo. | Copy pronta; aguarda foto |
 | 08/10 | Carrossel | Tudo para a primeira visita | Horários, endereço, Maps, cardápio da abertura, pets e crianças. | Copy pronta |
 | 09/10 | Reel curto | É amanhã | Preparação final, programação e convite direto. | Roteiro pronto |

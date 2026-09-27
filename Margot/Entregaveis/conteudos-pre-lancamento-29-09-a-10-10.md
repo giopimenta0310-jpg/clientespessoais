@@ -21,7 +21,7 @@
 | 26/09 | Carrossel | A Margô ganha forma | Pronto; fora desta rodada de aprovação. |
 | 29/09 | Reel | A história da Margô | Storytelling conduzido pelas donas. |
 | 01/10 | Carrossel | O primeiro dia da Margô | Apresentar a abertura de forma conceitual e criar expectativa pela programação. |
-| 04/10 | Reel | A cozinha antes de abrir | Gerar desejo culinário sem focar em um único prato. |
+| 04/10 | Reel | A Margô ainda não abriu, mas… | Usar as captações já feitas de comidas e bebidas no cenário da obra. |
 | 06/10 | Carrossel | Programação completa | Organizar atrações, horários e serviço. |
 | 08/10 | Carrossel | Tudo para a primeira visita | Concentrar as informações práticas. |
 | 09/10 | Reel curto | É amanhã | Convite emocional e lembrete direto. |
@@ -235,53 +235,76 @@ Nos próximos dias, contamos a programação completa. Por enquanto, conta para 
 
 ---
 
-## 04/10 — Reel | Antes de chegar à mesa
+## 04/10 — Reel | A Margô ainda não abriu, mas…
 
 ### Ideia central
 
-Criar interesse culinário mostrando que a cozinha da Margô está nos detalhes: diferentes preparos, texturas, mãos, tempo e finalizações. Não apresentar um prato como protagonista nem depender do cardápio final.
+Usar as captações que já existem de comidas e bebidas dentro do espaço ainda em obra. O contraste é o centro do Reel: a Margô ainda não abriu oficialmente, mas os sabores e as bebidas já começaram a ocupar a casa.
+
+O vídeo não precisa focar em um único prato nem apresentar o cardápio. A ideia é criar desejo mostrando diferentes coisas gostosas aparecendo em meio à construção.
+
+**Status da captação:** este Reel já está parcialmente captado. O primeiro passo é montar a edição com o material existente. Novos takes são opcionais e podem ser adicionados apenas se elas quiserem enriquecer o vídeo ou se faltar alguma imagem para conectar a narrativa.
 
 ### Roteiro visual
 
-**Cena 1 — ingredientes ou bancada sendo preparada**<br>
-Antes de chegar à mesa…
+**Cena 1 — plano da obra ou detalhe do espaço ainda em construção**<br>
+A Margô ainda não abriu…
 
-**Cena 2 — mãos misturando, cortando ou modelando**<br>
-…tem escolha.
+**Cena 2 — primeira comida ou bebida aparecendo no espaço**<br>
+…mas já tem muita coisa gostosa acontecendo por aqui.
 
-**Cena 3 — forno, chapa, panela ou transformação do preparo**<br>
-Tem tempo.
+**Cena 3 — sequência de comidas diferentes**<br>
+Tem receita ganhando forma.
 
-**Cena 4 — texturas diferentes em cortes rápidos**<br>
-Tem cuidado em cada detalhe.
+**Cena 4 — cafés e outras bebidas**<br>
+Tem bebida chegando no copo.
 
-**Cena 5 — duas ou três finalizações, sem revelar tudo**<br>
-E tem muita coisa gostosa quase pronta para encontrar vocês.
+**Cena 5 — alternância entre detalhes da obra, pratos e bebidas**<br>
+E uma casa inteira se preparando para receber vocês.
 
-**Cena 6 — mesa com mais de um item ou equipe provando**<br>
-Cozinha autoral da Margô.<br>
-A partir de 10/10.
+**Cena 6 — melhor take de comida e bebida ou plano da equipe no espaço**<br>
+Falta pouco.<br>
+Abrimos em 10/10.
 
 ### Legenda
 
-A cozinha da Margô começa muito antes de alguma coisa chegar à mesa.
+A Margô ainda não abriu, mas já tem muita coisa gostosa passando por aqui. 👀
 
-Começa nas escolhas, nos testes, no tempo de cada preparo e naquele cuidado que quase não aparece — mas muda tudo quando a primeira mordida chega.
+Entre um detalhe da obra e outro, as receitas vão ganhando forma, os cafés começam a ocupar as mesas e a casa vai mostrando um pouco do que vocês vão encontrar quando as portas abrirem.
 
-Por aqui, os últimos dias antes da abertura têm sido assim: receitas ganhando forma, ideias sendo ajustadas e uma cozinha inteira se preparando para receber vocês.
+Ainda não vamos revelar tudo. Por enquanto, fica só um gostinho do que já está acontecendo por aqui.
 
-Ainda não vamos mostrar tudo. Mas já dá para sentir a vontade chegando, né?
-
-Abrimos em 10/10. 💗
+Dia 10/10, vocês finalmente vão poder provar. 💗
 
 ### Direção de captação
 
-- Captar pelo menos três preparos diferentes para o Reel não parecer dedicado a um único prato.
-- Priorizar ações: misturar, cortar, abrir massa, servir, finalizar, retirar do forno e provar.
-- Buscar variedade de planos: bancada inteira, mãos, textura bem próxima e resultado parcial.
-- Não é necessário revelar pratos completos nem usar seus nomes.
-- Gravar alguns momentos com a equipe provando e reagindo naturalmente.
-- Manter sons reais de cozinha sempre que funcionarem: faca, forno, mistura, crocância e louça.
+- Começar pela seleção do material já captado. Não é necessário refazer as cenas existentes.
+- Priorizar takes em que a comida ou a bebida apareça claramente dentro do cenário da obra; esse contraste dá sentido ao vídeo.
+- Misturar planos do espaço em construção com closes de texturas, pratos, cafés e outras bebidas.
+- Usar diferentes comidas e bebidas para que o Reel represente a experiência culinária como um todo.
+- Não é necessário revelar nomes, ingredientes ou pratos completos.
+- Se o material existente já sustentar o roteiro, o Reel pode ser finalizado sem uma nova diária de captação.
+
+### Takes extras opcionais
+
+Caso elas queiram adicionar imagens, captar apenas o que estiver faltando na montagem:
+
+- plano geral da obra que situe o espaço;
+- prato ou bebida entrando no quadro com a obra ao fundo;
+- mão servindo uma bebida ou colocando um prato sobre a mesa;
+- detalhes de duas ou três comidas diferentes;
+- café sendo passado ou chegando à xícara;
+- pessoas da equipe provando ou dividindo algo no espaço;
+- um plano final que reúna comida, bebida e algum elemento reconhecível da Margô.
+
+Os takes adicionais são complementares, não obrigatórios.
+
+### Orientação de edição
+
+- Abrir com a obra para criar contexto e revelar a comida logo em seguida.
+- Trabalhar cortes curtos, alternando espaço, comida e bebida.
+- Se houver bom áudio original, aproveitar sons de café sendo servido, louça e reações espontâneas.
+- Não montar como vídeo de receita; o foco é a sensação de que a Margô já está sendo experimentada antes mesmo de abrir.
 - Duração sugerida: 18 a 25 segundos.
 
 ---
@@ -538,12 +561,12 @@ Que este seja o primeiro de muitos por aqui.
 - Elementos que representem Coara e BC na Cozinha.
 - Interação entre as duas no espaço.
 
-### Para 04/10 — cozinha
+### Para 04/10 — material já parcialmente captado
 
-- Pelo menos três preparos diferentes.
-- Ações, texturas, transformação e finalizações.
-- Equipe provando e ajustando receitas.
-- Som real da cozinha.
+- Selecionar primeiro as imagens existentes de comidas e bebidas dentro da obra.
+- Verificar se já há variedade suficiente de planos, produtos e detalhes do espaço.
+- Se necessário ou desejado, complementar com os takes opcionais indicados no roteiro.
+- Não é necessária uma nova captação completa para produzir o Reel.
 
 ### Para 09/10 — véspera
 
