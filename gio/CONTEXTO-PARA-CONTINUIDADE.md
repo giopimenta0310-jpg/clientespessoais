@@ -55,9 +55,10 @@ Destaques:
 
 - Sobre
 - Projetos
-- Processo
 - Trabalho
 - Referências
+
+Processo é uma linha editorial transversal, não um destaque separado. Ele aparece em projetos, bastidores, decisões e conteúdos de trabalho.
 
 Posts fixados:
 
@@ -93,7 +94,7 @@ A coleção inicial está em [`Assets/Stickers`](Assets/Stickers). Ela contém 1
 ## Próximas ações recomendadas
 
 1. Atualizar nome, bio e link do perfil.
-2. Produzir as capas e os conteúdos mínimos dos cinco destaques definidos em [`07-estrutura-do-perfil-e-destaques.md`](07-estrutura-do-perfil-e-destaques.md).
+2. Produzir as capas e os conteúdos mínimos dos quatro destaques definidos em [`07-estrutura-do-perfil-e-destaques.md`](07-estrutura-do-perfil-e-destaques.md).
 3. Produzir os três posts fixados roteirizados em [`08-posts-fixados.md`](08-posts-fixados.md).
 4. Só então fazer a curadoria do feed atual, arquivando o que não sustenta identidade, afeto ou confiança.
 5. Executar o primeiro ciclo de 30 dias registrado em [`09-calendario-inicial-de-conteudo.md`](09-calendario-inicial-de-conteudo.md) e usá-lo como início do plano de 90 dias.

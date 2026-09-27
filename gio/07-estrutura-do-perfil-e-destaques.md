@@ -20,7 +20,7 @@ trabalhos e portfólio ↓
 
 ## Destaques
 
-A estrutura inicial terá cinco destaques. Eles não precisam nascer completos: cada um pode começar com três a cinco stories realmente úteis e crescer com o trabalho real.
+A estrutura inicial terá quatro destaques. Eles não precisam nascer completos: cada um pode começar com três a cinco stories realmente úteis e crescer com o trabalho real.
 
 ### 1. oi, sou a gio
 
@@ -48,20 +48,7 @@ Estrutura repetível por projeto:
 
 Começar com três projetos que mostrem frentes diferentes e tenham imagens fortes.
 
-### 3. processo
-
-Função: mostrar que existe raciocínio por trás do resultado.
-
-Conteúdos iniciais:
-
-- recortes de pesquisa e referências;
-- testes que não foram escolhidos;
-- decisões de cor e tipografia;
-- antes e depois;
-- tela ou mesa de trabalho;
-- pequenos comentários sobre o que mudou no caminho.
-
-### 4. trabalho
+### 3. trabalho
 
 Função: ajudar alguém interessado a entender se pode conversar com a Gio.
 
@@ -75,7 +62,7 @@ Sequência inicial:
 
 Não colocar no destaque explicações operacionais que pertencem à reunião de alinhamento.
 
-### 5. referências
+### 4. referências
 
 Função: tornar visível o repertório que já existe na vida da Giovanna.
 
@@ -90,10 +77,22 @@ Pode reunir:
 
 Adicionar sempre uma observação curta para não virar apenas uma pasta de imagens: “gostei disso por causa de...”, “olha essa combinação”, “salvei pela tipografia”.
 
+## Processo como linha editorial
+
+Processo não será um destaque separado. Ele deve atravessar o conteúdo de forma natural, aparecendo em:
+
+- projetos por dentro;
+- bastidores nos stories;
+- versões que não foram escolhidas;
+- decisões de cor, tipografia e composição;
+- antes e depois;
+- aprendizados e mudanças de direção.
+
+Assim, o processo ajuda a construir confiança sem exigir uma pasta fixa ou virar uma categoria isolada do restante do trabalho.
+
 ## Capas
 
 - Usar formas simples e um símbolo por destaque.
 - Preservar a paleta da `gio.`.
 - Evitar escrever nomes inteiros dentro das capas; o nome já aparece abaixo.
 - Usar a biblioteca de stickers como ponto de partida, sem repetir o mesmo elemento em todas.
-

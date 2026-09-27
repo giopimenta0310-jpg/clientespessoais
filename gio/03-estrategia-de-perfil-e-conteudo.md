@@ -46,9 +46,10 @@ Apontar diretamente para [portfoliogio.vercel.app](https://portfoliogio.vercel.a
 
 - **Sobre:** apresentação curta, visão e personalidade.
 - **Projetos:** seleção de trabalhos e resultados.
-- **Processo:** bastidores, raciocínio e etapas.
 - **Trabalho:** serviços, disponibilidade e contato.
 - **Referências:** repertório visual, lugares, livros, música e observações.
+
+Processo funciona como linha editorial transversal. Bastidores, raciocínio, testes e escolhas podem aparecer dentro de projetos, posts e stories, sem exigir um destaque próprio.
 
 ### Posts fixados
 
