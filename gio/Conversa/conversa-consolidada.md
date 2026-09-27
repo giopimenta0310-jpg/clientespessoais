@@ -129,7 +129,8 @@ Giovanna pediu que os conteúdos fossem construídos a partir de sua forma real 
 - Foi consolidado um guia de voz próximo, observador, direto e sem fórmulas de marketing.
 - Foram definidos quatro destaques: `oi, sou a gio`, `projetos`, `trabalho` e `referências`.
 - `Processo` foi retirado dos destaques e passou a ser uma linha editorial transversal, presente em projetos, bastidores, escolhas e versões.
-- Foram roteirizados três posts fixados: apresentação da Gio, projeto por dentro e formas de trabalhar com ela.
+- O post `um projeto por dentro` também foi retirado dos fixados e mantido como formato editorial recorrente.
+- Foram roteirizados três posts fixados: apresentação da Gio, frentes de atuação mostradas por trabalhos reais e formas de trabalhar com ela.
 - Foi criado um calendário inicial de 30 dias com duas publicações semanais, articulando `Eu vivo`, `Eu observo`, `Eu penso` e `Eu faço`.
 - A nova camada profissional deve ser publicada antes da curadoria do feed antigo.
 

@@ -1,6 +1,6 @@
 # Posts fixados — roteiros iniciais
 
-Os três posts devem funcionar juntos: conhecer a Giovanna, confiar no trabalho e entender como começar uma conversa.
+Os três posts devem funcionar juntos: conhecer a Giovanna, entender o que ela faz e saber como começar uma conversa. Conteúdos de processo e estudos de caso continuam importantes, mas entram na linha editorial regular em vez de ocupar um espaço fixo.
 
 ## Fixado 1 — oi, eu sou a Gio
 
@@ -49,52 +49,61 @@ vai continuar tendo vida real, música, arte, viagens e coisas que eu achei boni
 acho que vai ficar mais inteiro assim 🌷
 ```
 
-## Fixado 2 — um projeto por dentro
+## Fixado 2 — o que eu faço
 
-### Projeto a escolher
+### Função
 
-Usar um projeto com bom material visual e uma história clara. A escolha não deve ser apenas pelo mockup mais bonito: precisamos conseguir mostrar contexto, decisões e resultado.
+Apresentar as frentes de atuação da Gio por meio de trabalhos reais, sem transformar o post em uma lista fria de serviços.
 
 ### Formato
 
-Carrossel de 8 slides.
+Carrossel de 7 slides, combinando imagens de diferentes projetos com textos breves.
 
-### Roteiro adaptável
+### Roteiro
 
 **Slide 1**  
-`[nome do projeto] por dentro`
+`algumas das coisas que eu gosto de colocar no mundo.`
 
 **Slide 2**  
-`quando esse projeto chegou, a questão principal era...`
+`branding + identidade`
+
+Marcas, projetos, eventos e ideias que precisam encontrar uma expressão visual própria.
 
 **Slide 3**  
-`antes de desenhar, eu precisava entender...`
+`social media`
+
+Direção visual e conteúdo para construir uma presença coerente sem parecer engessada.
 
 **Slide 4**  
-Referências ou caminhos explorados: `a direção começou por aqui.`
+`web design`
+
+Sites e landing pages que organizam informação e apresentam uma ideia com clareza.
 
 **Slide 5**  
-Decisão central: `a ideia que organizou o projeto inteiro foi...`
+`editorial`
+
+Publicações, apresentações e materiais em que conteúdo e leitura precisam funcionar juntos.
 
 **Slide 6**  
-Aplicações e sistema: `não era só sobre uma peça funcionar. tudo precisava conversar.`
+`embalagem`
+
+Projetos que dão forma, presença e personalidade ao que chega nas mãos das pessoas.
 
 **Slide 7**  
-Detalhe favorito ou dificuldade real: `essa foi a parte que mais mudou no processo — e também uma das que eu mais gostei.`
+`no fim, eu gosto mesmo é de fazer tudo conversar.`
 
-**Slide 8**  
-Resultado + `tem mais desse projeto no meu portfólio.`
+Portfólio completo no link da bio.
 
-### Legenda-base
+### Legenda
 
 ```text
-eu gosto muito de ver um projeto pronto, claro. mas gosto ainda mais de olhar pra ele e lembrar de tudo que precisou acontecer até chegar ali.
+demorei um pouco pra conseguir responder “o que você faz?” sem transformar a resposta numa lista enorme 😅
 
-esse começou com [contexto real]. no caminho, a gente testou [caminho ou hipótese], mudou [decisão] e chegou em uma direção que conseguia [resultado].
+porque eu gosto de trabalhar com coisas diferentes: uma identidade pode ir parar num site, numa embalagem, numa publicação ou nas redes. e, mesmo mudando de formato, tudo ainda precisa parecer parte da mesma ideia.
 
-separei algumas partes do processo porque acho que elas explicam o projeto melhor do que mostrar só os mockups finais.
+nesse carrossel eu reuni algumas das frentes em que trabalho e alguns projetos que já passaram por aqui.
 
-depois eu mostro mais dele por aqui — e o projeto completo tá no meu portfólio.
+tem mais no meu portfólio, no link da bio 🌷
 ```
 
 ## Fixado 3 — como trabalhar comigo
@@ -148,6 +157,6 @@ coloquei no carrossel um resumo das formas como a gente pode trabalhar junto. te
 ## Direção visual do trio
 
 - O primeiro post deve ter mais rosto e intimidade.
-- O segundo deve priorizar o projeto e as provas de processo.
+- O segundo deve usar trabalhos reais para apresentar as frentes de atuação.
 - O terceiro pode ser mais gráfico e usar os stickers da marca.
 - As três capas precisam se relacionar, mas não devem parecer três peças produzidas pelo mesmo template.

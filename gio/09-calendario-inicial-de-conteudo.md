@@ -15,11 +15,11 @@
 - Objetivo: apresentar a nova fase sem anunciar uma “grande mudança de marca”.
 - Formato: carrossel.
 
-### Post 2 — fixado: um projeto por dentro
+### Post 2 — fixado: o que eu faço
 
-- Dimensões: Eu penso + Eu faço.
-- Objetivo: criar a primeira prova profissional forte.
-- Formato: carrossel de caso.
+- Dimensão: Eu faço.
+- Objetivo: apresentar as frentes de atuação por meio de trabalhos reais.
+- Formato: carrossel de portfólio.
 
 ### Stories
 
@@ -50,13 +50,13 @@
 
 ## Semana 3 — opinião e vida real
 
-### Post 5 — uma marca não é só o logo
+### Post 5 — um projeto por dentro
 
-- Dimensão: Eu penso.
-- Objetivo: apresentar o pensamento sistêmico da Gio com um exemplo concreto.
-- Formato: carrossel curto de 5 slides.
-- Gancho: `eu gosto de logo. mas o que faz uma marca parecer inteira quase nunca é só ele.`
-- Desenvolvimento: mostrar o mesmo projeto em dois ou três pontos de contato e explicar como tipografia, cor, imagem, texto e aplicação constroem reconhecimento.
+- Dimensões: Eu penso + Eu faço.
+- Objetivo: transformar processo e raciocínio em prova profissional, sem ocupar um post fixado.
+- Formato: carrossel de caso.
+- Gancho: `[nome do projeto] por dentro.`
+- Desenvolvimento: contexto, questão principal, caminhos explorados, decisão central, aplicações e resultado.
 
 ### Post 6 — registro pessoal com contexto
 
@@ -98,6 +98,7 @@
 
 ## Banco para os meses seguintes
 
+- “uma marca não é só o logo”;
 - “coisas que eu quase nunca mostro de um projeto”;
 - “o detalhe que organizou esse trabalho inteiro”;
 - “3 referências que não parecem relacionadas, mas foram parar no mesmo projeto”;
@@ -121,4 +122,3 @@ Ao final de cada mês, verificar se o conjunto mostrou:
 - um caminho claro para contratar.
 
 Não é necessário distribuir as quatro dimensões igualmente em cada semana. O equilíbrio deve aparecer no conjunto do mês.
-
