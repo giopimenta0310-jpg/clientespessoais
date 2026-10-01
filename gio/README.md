@@ -17,6 +17,7 @@ Esta pasta concentra o contexto estratégico construído para a marca pessoal de
 11. Use [`07-estrutura-do-perfil-e-destaques.md`](07-estrutura-do-perfil-e-destaques.md) para implementar a base do Instagram.
 12. Use [`08-posts-fixados.md`](08-posts-fixados.md) para produzir os três conteúdos de apresentação.
 13. Use [`09-calendario-inicial-de-conteudo.md`](09-calendario-inicial-de-conteudo.md) como primeiro ciclo editorial de 30 dias.
+14. Siga [`10-fluxo-de-continuidade.md`](10-fluxo-de-continuidade.md) para registrar no repositório todas as decisões e entregas futuras da marca.
 
 ## Links centrais
 

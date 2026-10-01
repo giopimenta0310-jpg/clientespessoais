@@ -106,3 +106,5 @@ O guia atual está em [`06-guia-de-voz.md`](06-guia-de-voz.md). A escrita deve p
 ## Instrução para futuras conversas
 
 Ao propor qualquer mudança, preserve a tensão produtiva que define a marca: Giovanna precisa parecer profissional sem parecer montada, estratégica sem perder espontaneidade e autoral sem ficar inacessível. Não proponha apagar a personalidade para alcançar coerência visual.
+
+Toda decisão ou entrega relevante produzida em conversas futuras deve ser incorporada a esta pasta e enviada ao repositório. O fluxo completo está documentado em [`10-fluxo-de-continuidade.md`](10-fluxo-de-continuidade.md).

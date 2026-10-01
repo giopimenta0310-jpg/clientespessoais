@@ -135,3 +135,15 @@ Giovanna pediu que os conteúdos fossem construídos a partir de sua forma real 
 - A nova camada profissional deve ser publicada antes da curadoria do feed antigo.
 
 Documentos relacionados: `06-guia-de-voz.md`, `07-estrutura-do-perfil-e-destaques.md`, `08-posts-fixados.md` e `09-calendario-inicial-de-conteudo.md`.
+
+## 9. Regra de continuidade do projeto
+
+### Giovanna
+
+> Tudo que nós conversarmos aqui tem que ser subido no repositório. Vamos criar um projeto dentro do Codex com o nome Marca Pessoal Giovanna, para que também fique fácil de acessar.
+
+### Decisão registrada
+
+A pasta `gio` permanece como fonte de verdade. Toda conversa que gere decisões ou materiais relevantes deve atualizar os documentos temáticos, o contexto de continuidade e, quando necessário, este histórico. As mudanças devem ser enviadas à branch `main` do repositório `clientespessoais`.
+
+O nome definido para organização no Codex é **Marca Pessoal Giovanna**.
