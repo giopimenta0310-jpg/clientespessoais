@@ -1,6 +1,6 @@
 # Contexto atual — Margô Cafés Especiais
 
-**Atualizado em:** 27/09/2026
+**Atualizado em:** 01/10/2026
 **Fase:** pré-lançamento  
 **Abertura confirmada:** 10/10/2026  
 **Instagram:** `@margocafesespeciais`  
@@ -10,8 +10,17 @@
 ## Fontes de verdade
 
 - O [Painel Direcional no Figma](https://www.figma.com/design/A1uRNS8uV6glBDIV1qxgQH/Painel-DIrecional---Marg%C3%B4?node-id=0-1) é a fonte principal para identidade visual e peças já materializadas.
-- `Entregaveis/diagnostico-e-planejamento-lancamento-margo-v03.md` é a fonte principal para estratégia e calendário.
+- A [plataforma de aprovação](https://plataformadeaprovacaogio.vercel.app/?c=09d3417e-4eff-40da-a56b-72859f864732) é a fonte principal para as copies de pré-lançamento já aprovadas.
+- `Entregaveis/conteudos-pre-lancamento-29-09-a-10-10.md` e `Entregaveis/Margo-conteudos-pre-lancamento-atualizado.docx` registram a versão de trabalho consolidada para produção.
 - Este arquivo registra decisões posteriores e prevalece quando houver conflito com explorações antigas.
+
+## Links de trabalho
+
+- **Instagram:** https://www.instagram.com/margocafesespeciais/
+- **Figma — Painel Direcional:** https://www.figma.com/design/A1uRNS8uV6glBDIV1qxgQH/Painel-DIrecional---Marg%C3%B4?node-id=0-1
+- **Figma — grade editorial:** https://www.figma.com/design/A1uRNS8uV6glBDIV1qxgQH/Painel-DIrecional---Marg%C3%B4?node-id=95-141
+- **Plataforma de aprovação:** https://plataformadeaprovacaogio.vercel.app/?c=09d3417e-4eff-40da-a56b-72859f864732
+- **GitHub — pasta Margot:** https://github.com/giopimenta0310-jpg/clientespessoais/tree/main/Margot
 
 ## Identidade visual confirmada
 
@@ -81,3 +90,9 @@ Os conteúdos de feed de 29/09 a 10/10 foram reorganizados em `Entregaveis/conte
 - 09/10 permanece como Reel curto de véspera.
 - 10/10 passa de carrossel para peça estática com chamado direto: “Joinville, é hoje”.
 - Informações de cardápio podem ser incorporadas quando forem recebidas, mas conteúdos não devem mencionar opções sem lactose ou sem glúten antes de confirmação.
+
+## Sistema de conteúdo e continuidade — 01/10
+
+- O fluxo local `Sistema-de-conteudo/margo-social-workflow/` centraliza a voz da Margô, os quatro pilares e a revisão de conteúdo para Instagram.
+- As skills complementares registradas em `Sistema-de-conteudo/README.md` apoiam legendas, calendário, reaproveitamento, tendências e adequação de formato. Tendências só devem ser pesquisadas quando solicitadas e precisam passar por encaixe com a marca, segurança e timing.
+- O projeto local do Codex/ChatGPT está conectado à pasta do repositório. Para preservar a continuidade entre computadores, trabalhar dentro de `Margot/`, sincronizar o repositório antes de iniciar uma rodada e enviar os materiais aprovados ao GitHub ao final.

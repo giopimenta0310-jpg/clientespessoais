@@ -8,6 +8,7 @@ Este diretório concentra o histórico do trabalho feito para a Margô, permitin
 - `Conversa/conversa-completa.jsonl`: a mesma conversa em formato estruturado, com data, papel e conteúdo de cada mensagem.
 - `Conversa/continuacao-2026-09-26.md`: decisões e trabalhos realizados após a exportação original.
 - `CONTEXTO_ATUAL.md`: fonte rápida para decisões vigentes, fontes de verdade e pendências.
+- `Sistema-de-conteudo/`: fluxo local de conteúdo, contexto da marca e registro das skills de apoio.
 - `briefing-estrategico-margo-cafes-especiais.md`: briefing que já existia no repositório.
 - `Entregaveis/planejamento-conteudos-outubro-2026.md`: grade-base de conteúdos do pré-lançamento e de outubro.
 - `Entregaveis/conteudos-pre-lancamento-29-09-a-10-10.md`: roteiros-base, copys de feed e direção de captação até a abertura.
@@ -18,7 +19,7 @@ Este diretório concentra o histórico do trabalho feito para a Margô, permitin
 ## Fontes de verdade atuais
 
 1. **Identidade visual e peças materializadas:** [Painel Direcional no Figma](https://www.figma.com/design/A1uRNS8uV6glBDIV1qxgQH/Painel-DIrecional---Marg%C3%B4?node-id=0-1).
-2. **Estratégia e calendário:** `Entregaveis/diagnostico-e-planejamento-lancamento-margo-v03.md`.
+2. **Pré-lançamento — copies aprovadas:** [plataforma de aprovação](https://plataformadeaprovacaogio.vercel.app/?c=09d3417e-4eff-40da-a56b-72859f864732) e `Entregaveis/conteudos-pre-lancamento-29-09-a-10-10.md`.
 3. **Decisões e contexto vigente:** `CONTEXTO_ATUAL.md`.
 4. **Histórico:** arquivos da pasta `Conversa/`.
 
