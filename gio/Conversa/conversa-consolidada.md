@@ -147,3 +147,17 @@ Documentos relacionados: `06-guia-de-voz.md`, `07-estrutura-do-perfil-e-destaque
 A pasta `gio` permanece como fonte de verdade. Toda conversa que gere decisões ou materiais relevantes deve atualizar os documentos temáticos, o contexto de continuidade e, quando necessário, este histórico. As mudanças devem ser enviadas à branch `main` do repositório `clientespessoais`.
 
 O nome definido para organização no Codex é **Marca Pessoal Giovanna**.
+
+## 10. Pesquisa e absorção de skills para conteúdo
+
+### Giovanna
+
+> Quero skills para pesquisar conteúdos virais, tendências e referências do mesmo nicho, mas sempre dentro do objetivo, da ideia e do tom de voz da minha marca pessoal.
+
+### Decisão registrada
+
+Foi pesquisado o pacote indicado no Reddit e outras coleções públicas de skills. Em vez de instalar bibliotecas completas ou aceitar promessas genéricas de viralização, foram selecionadas habilidades complementares para pesquisa com fontes, análise de perfis, engenharia reversa de conteúdo e criação de Reels, carrosséis e Stories.
+
+Foi criada a skill `gio-social-workflow`, que usa esta pasta como fonte de verdade e filtra toda pesquisa e criação pelos fundamentos da marca, pelas dimensões **Eu vivo, Eu observo, Eu penso, Eu faço** e pelo guia de voz. Tendências passam a ser tratadas como insumo: só entram quando houver encaixe natural e possibilidade de adaptação autoral.
+
+Documento relacionado: `11-sistema-de-skills-para-conteudo.md`.

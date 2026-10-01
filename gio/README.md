@@ -18,6 +18,7 @@ Esta pasta concentra o contexto estratégico construído para a marca pessoal de
 12. Use [`08-posts-fixados.md`](08-posts-fixados.md) para produzir os três conteúdos de apresentação.
 13. Use [`09-calendario-inicial-de-conteudo.md`](09-calendario-inicial-de-conteudo.md) como primeiro ciclo editorial de 30 dias.
 14. Siga [`10-fluxo-de-continuidade.md`](10-fluxo-de-continuidade.md) para registrar no repositório todas as decisões e entregas futuras da marca.
+15. Consulte [`11-sistema-de-skills-para-conteudo.md`](11-sistema-de-skills-para-conteudo.md) para entender o sistema de pesquisa de tendências, referências e criação de conteúdo da `gio.`.
 
 ## Links centrais
 
@@ -38,6 +39,7 @@ Esta pasta concentra o contexto estratégico construído para a marca pessoal de
 - Guia de voz, estrutura dos destaques, roteiros dos posts fixados e calendário inicial: definidos.
 - Personagens Giovanna e Suki: referências visuais oficiais consolidadas em SVG.
 - Biblioteca de stickers: coleção inicial com 12 elementos em SVG e PNG transparente.
+- Sistema de skills para pesquisa, tendências e criação social: configurado, com uma camada específica da `gio.`.
 
 ## Princípio central
 

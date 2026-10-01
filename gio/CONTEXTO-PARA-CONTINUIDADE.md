@@ -99,6 +99,12 @@ A coleção inicial está em [`Assets/Stickers`](Assets/Stickers). Ela contém 1
 4. Só então fazer a curadoria do feed atual, arquivando o que não sustenta identidade, afeto ou confiança.
 5. Executar o primeiro ciclo de 30 dias registrado em [`09-calendario-inicial-de-conteudo.md`](09-calendario-inicial-de-conteudo.md) e usá-lo como início do plano de 90 dias.
 
+## Sistema de pesquisa e criação de conteúdo
+
+O projeto conta com uma skill orquestradora própria, `gio-social-workflow`, documentada em [`11-sistema-de-skills-para-conteudo.md`](11-sistema-de-skills-para-conteudo.md). Ela combina pesquisa atual, leitura de tendências, análise de perfis e formatos de criação, mas subordina todas as recomendações aos fundamentos, às quatro dimensões editoriais e ao guia de voz da `gio.`.
+
+Regra permanente: tendência é insumo, não direção de marca. Não copiar execuções; extrair mecanismos transferíveis e adaptá-los de forma autoral.
+
 ## Voz da marca
 
 O guia atual está em [`06-guia-de-voz.md`](06-guia-de-voz.md). A escrita deve preservar a oralidade da Giovanna: próxima, direta, observadora, afetiva e sem fórmulas de marketing. Textos profissionais podem ser mais organizados, mas não devem soar como se uma social media falasse por ela.
