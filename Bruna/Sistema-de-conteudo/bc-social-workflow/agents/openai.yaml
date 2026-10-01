@@ -1,0 +1,6 @@
+interface:
+  display_name: "BC na Cozinha — Conteudo"
+  short_description: "Pesquisa e cria conteudo fiel a marca"
+  brand_color: "#3D0000"
+  default_prompt: "Use $bc-social-workflow para pesquisar, planejar ou criar este conteudo da BC na Cozinha."
+
