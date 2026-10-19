@@ -1,0 +1,615 @@
+{
+  "repository": "giopimenta0310-jpg/clientespessoais",
+  "branch": "main",
+  "commit": "6884e5383a2b1036eadd12cffc86597ddbb9989e",
+  "source_directory": "Margot",
+  "local_directory": "Margô",
+  "imported_at": "2026-10-08",
+  "files": [
+    {
+      "path": "Assets/Elementos/README.md",
+      "sha": "617631fecef6b3fae1c640e82577c0985a4ffe7c",
+      "size": 646
+    },
+    {
+      "path": "Assets/Elementos/elemento-cadeira.png",
+      "sha": "8743c610fb228031bd1695d4280cb3f94ca3db9b",
+      "size": 1279161
+    },
+    {
+      "path": "Assets/Elementos/elemento-chaleira.png",
+      "sha": "dccb03d50adb64d0185389e3a52145cea3d4b53a",
+      "size": 990600
+    },
+    {
+      "path": "Assets/Elementos/elemento-cookie.png",
+      "sha": "d90b1740cbf100f61a69e998017b5b98a9d0144f",
+      "size": 828115
+    },
+    {
+      "path": "Assets/Elementos/elemento-fachada.png",
+      "sha": "79a2afdc5bd958847f6b41951dec1acc84c4e0f4",
+      "size": 1451412
+    },
+    {
+      "path": "Assets/Elementos/elemento-focaccia.png",
+      "sha": "edf00811db83de6d5c479f0ed63c4b1456d93ff0",
+      "size": 1426082
+    },
+    {
+      "path": "Assets/Elementos/elemento-jarra-cafe.png",
+      "sha": "8cbc1cf7267042c2e6ea529efde6ffee8baa0e7d",
+      "size": 834549
+    },
+    {
+      "path": "Assets/Elementos/elemento-jarra-molho.png",
+      "sha": "7a271014f366690b9ae316c7f30a57c6c628c4e2",
+      "size": 403925
+    },
+    {
+      "path": "Assets/Elementos/elemento-livro.png",
+      "sha": "3ddf49bcd1f24c54dd1d741c7df2f429d8baa464",
+      "size": 1202499
+    },
+    {
+      "path": "Assets/Elementos/elemento-luminaria.png",
+      "sha": "0f91551774c9691223d421e9937c8c2dffdc1115",
+      "size": 808023
+    },
+    {
+      "path": "Assets/Elementos/elemento-maquina-espresso.png",
+      "sha": "f14a1db459985b58b5b5bc3f6a11ab8a01a47ec4",
+      "size": 1107407
+    },
+    {
+      "path": "Assets/Elementos/elemento-mesa.png",
+      "sha": "aea648a47e3dcade0cacab0f4c9646896d5f863d",
+      "size": 474747
+    },
+    {
+      "path": "Assets/Elementos/elemento-planta.png",
+      "sha": "795bb11a7ec3f0931d38e03a215287f1aa45c9ac",
+      "size": 1385094
+    },
+    {
+      "path": "Assets/Elementos/elemento-v60.png",
+      "sha": "349db6e9892cad380e199c7c05e33131a5b1eb28",
+      "size": 810817
+    },
+    {
+      "path": "Assets/Elementos/elemento-vinil.png",
+      "sha": "a7c272890aff5492990e5b169a62f91494584ec1",
+      "size": 634559
+    },
+    {
+      "path": "Assets/Elementos/elemento-xicara-espresso.png",
+      "sha": "ec8bf0303ee4d982a3efafa276239e2d34ac2bcd",
+      "size": 574978
+    },
+    {
+      "path": "Assets/Obra-com-personagens/README.md",
+      "sha": "4af796af77195b111df27bff89194784ed3a2fb9",
+      "size": 623
+    },
+    {
+      "path": "Assets/Obra-com-personagens/margo-fachada-convite-v01.png",
+      "sha": "94785d813d25cf2cbc704fb83108cb545e47ca03",
+      "size": 2260211
+    },
+    {
+      "path": "Assets/Obra-com-personagens/margo-obra-balcao-v01.png",
+      "sha": "b261c9ac0390ffeaca1f8e548166b5c73d913e62",
+      "size": 2103082
+    },
+    {
+      "path": "Assets/Obra-com-personagens/margo-obra-maquina-cafe-v01.png",
+      "sha": "e3b314fd07377ffbcce5813e886ddd93ee2898bb",
+      "size": 1925306
+    },
+    {
+      "path": "Assets/Obra-com-personagens/margo-obra-sala-conversa-v01.png",
+      "sha": "24c4f1ba2c300391e5289a4efe78eb1cf21b494c",
+      "size": 1731586
+    },
+    {
+      "path": "Assets/Obra-com-personagens/margo-obra-sala-ocupada-v01.png",
+      "sha": "0fc4bacfbc86ce40abffa08add0bd634fe75f56c",
+      "size": 1978781
+    },
+    {
+      "path": "Assets/Personagem/README.md",
+      "sha": "33348e27b6fc6058c7ee3eeee6edee6c54f7360e",
+      "size": 1155
+    },
+    {
+      "path": "Assets/Personagem/margo-personagem-apoiada-mesa-v01.png",
+      "sha": "0a96595a88724995718f4c1ef3c386708db12c3f",
+      "size": 1073249
+    },
+    {
+      "path": "Assets/Personagem/margo-personagem-apoiada-mesa-v02.png",
+      "sha": "a03b054c45979dc93043810df501af40c384befa",
+      "size": 1122702
+    },
+    {
+      "path": "Assets/Personagem/margo-personagem-caminhando-v01.png",
+      "sha": "1dd9e820168259b5fdd789a251fa39df96590ee7",
+      "size": 1260306
+    },
+    {
+      "path": "Assets/Personagem/margo-personagem-dancando-v01.png",
+      "sha": "89e7f09b9837a25b42ae0fd63c504d8d5eeda1e7",
+      "size": 1342583
+    },
+    {
+      "path": "Assets/Personagem/margo-personagem-lendo-v01.png",
+      "sha": "bf9f385febc97889235936477b62b25cf44b10a4",
+      "size": 1184706
+    },
+    {
+      "path": "Assets/Personagem/margo-personagem-principal-v01.png",
+      "sha": "58e1d9cef0a08d6316c40cb99c4c5ad1a94f89b3",
+      "size": 1150019
+    },
+    {
+      "path": "Assets/Personagem/margo-personagem-sentada-apontando-v01.png",
+      "sha": "e100b59771e548979d6a857568f7bab642b2c8f3",
+      "size": 1159815
+    },
+    {
+      "path": "Assets/Personagem/margo-personagem-sentada-cafe-v01.png",
+      "sha": "c3bb8a3a6a2fc87c8c35c2f53b24eeee234b8cfe",
+      "size": 1184119
+    },
+    {
+      "path": "Assets/Personagem/margo-personagem-sentada-mao-aberta-v02.png",
+      "sha": "8fd7997eb50a836572161ce68baa9ca77ccc51bd",
+      "size": 1159719
+    },
+    {
+      "path": "Assets/Personagem/margo-personagem-v60-v01.png",
+      "sha": "7c93d93753c738b5d6d58f2383a21771ddeca59d",
+      "size": 1261983
+    },
+    {
+      "path": "Assets/Personagem/margo-personagem-xicaras-laptop-v02.png",
+      "sha": "c67bcdaa8471508ab1d12ba923149e80668101b7",
+      "size": 1119036
+    },
+    {
+      "path": "CONTEXTO_ATUAL.md",
+      "sha": "906ddb85ab7c8ed906b9887a9579db7336b3178b",
+      "size": 6860
+    },
+    {
+      "path": "Conversa/continuacao-2026-09-26.md",
+      "sha": "e6eca9901f606f01e688235ea82b14bcb36afad4",
+      "size": 6902
+    },
+    {
+      "path": "Conversa/continuacao-2026-10-01.md",
+      "sha": "a1d4bcb25470861c4334524ba5c22303d6bfd73d",
+      "size": 1217
+    },
+    {
+      "path": "Conversa/conversa-completa.jsonl",
+      "sha": "a95ee0d2a6edbfb2c49b37704088ec295b11049f",
+      "size": 207994
+    },
+    {
+      "path": "Conversa/conversa-completa.md",
+      "sha": "a52cfbdb8018811d354b54bcd1dbce7623af655f",
+      "size": 175929
+    },
+    {
+      "path": "Entregaveis/Margo-conteudos-pre-lancamento-atualizado.docx",
+      "sha": "827d45782e99f8f9feadfe26fe319db0458b770e",
+      "size": 32329
+    },
+    {
+      "path": "Entregaveis/briefing-estrategico-margo-cafes-especiais.md",
+      "sha": "38ab46660b7d83876b186888f526f79b4abb3d63",
+      "size": 14558
+    },
+    {
+      "path": "Entregaveis/conteudos-pre-lancamento-29-09-a-10-10.md",
+      "sha": "65e7fef82301bee11f40cc2707875114c96d38ab",
+      "size": 27830
+    },
+    {
+      "path": "Entregaveis/copies-destaques-instagram.md",
+      "sha": "87122d2b24bce7bac5ad42089cf5717adadcdde6",
+      "size": 12604
+    },
+    {
+      "path": "Entregaveis/diagnostico-e-planejamento-lancamento-margo-v03.md",
+      "sha": "86d66fdae993b15f517e6156c741498ba6dcd676",
+      "size": 35159
+    },
+    {
+      "path": "Entregaveis/diagnostico-lancamento-social-media-margo-v01.md",
+      "sha": "34c54a7060514b1beb55cae8c766af3b416922dd",
+      "size": 25098
+    },
+    {
+      "path": "Entregaveis/diagnostico-planejamento-lancamento-margo.pdf",
+      "sha": "db668bef7bf1584e3176e620d8e02d81c2b378f7",
+      "size": 43349
+    },
+    {
+      "path": "Entregaveis/estrutura-diagnostico-margo-slides-v02-referencia-bc.md",
+      "sha": "850aebc6e92cbbb48d4ea8815b035ea041d7b325",
+      "size": 34499
+    },
+    {
+      "path": "Entregaveis/estrutura-diagnostico-margo-textos-para-slides.md",
+      "sha": "36ae84d92068fa272936f853c0176357336e60f2",
+      "size": 26646
+    },
+    {
+      "path": "Entregaveis/planejamento-conteudos-outubro-2026.md",
+      "sha": "8ab22515400eae43a42cb0dee94d9de726470408",
+      "size": 4189
+    },
+    {
+      "path": "Ilustracoes/margo-acao-caminhando-v09.png",
+      "sha": "d7b66e30d90f721c0fe5d00a15e7a23c9119fc8a",
+      "size": 1543666
+    },
+    {
+      "path": "Ilustracoes/margo-acao-dancando-v10.png",
+      "sha": "e0156dcc7deb82a021af06e3b14ac91665be7282",
+      "size": 1588376
+    },
+    {
+      "path": "Ilustracoes/margo-acao-lendo-v07.png",
+      "sha": "44c80a26da3fc611816b687b2a5eb4f848a47fb6",
+      "size": 1270471
+    },
+    {
+      "path": "Ilustracoes/margo-acao-v60-v08.png",
+      "sha": "98a2a1dfad1bdb55f5c6d36987a3326302daa720",
+      "size": 1564910
+    },
+    {
+      "path": "Ilustracoes/margo-ilustracao-cafe-transparente.png",
+      "sha": "09ec5a0c9729d35c59b3142f4e56efbae2ea6832",
+      "size": 861710
+    },
+    {
+      "path": "Ilustracoes/margo-ilustracao-preparo-v60-alpha.png",
+      "sha": "b47e713d04afd259db9d608f4ec576d07c9741ac",
+      "size": 2513551
+    },
+    {
+      "path": "Ilustracoes/margo-ilustracao-preparo-v60-transparente.png",
+      "sha": "8dd278dd426eb42234cdaf78d8e4304808b01ff6",
+      "size": 2157358
+    },
+    {
+      "path": "Ilustracoes/margo-ilustracao-v60-alta-qualidade-transparente.png",
+      "sha": "387207593c7064d7f49c727b3851d836c2ba6cfa",
+      "size": 2318532
+    },
+    {
+      "path": "Ilustracoes/margo-ilustracao-v60-transparente.png",
+      "sha": "41e6ca50012ec13ba0d11f1b93a87604251d5b87",
+      "size": 2159302
+    },
+    {
+      "path": "Ilustracoes/margo-mural-camiseta-logo-preto-v20.png",
+      "sha": "118d9eadae0c568e93775b5c0ed3d36122d47665",
+      "size": 460294
+    },
+    {
+      "path": "Ilustracoes/margo-mural-camiseta-logo-sem-brinco-v19.png",
+      "sha": "93e70ad0a799768cba062c1e03561a064a3c3db1",
+      "size": 869256
+    },
+    {
+      "path": "Ilustracoes/margo-mural-camiseta-manga-curta-logo-v18.png",
+      "sha": "da322188938bab8ab75a0f9374a3dfa14833031e",
+      "size": 1005002
+    },
+    {
+      "path": "Ilustracoes/margo-negativa-caminhando.png",
+      "sha": "887efd5aec7d6e4bd444e24efd547e82b5378923",
+      "size": 285683
+    },
+    {
+      "path": "Ilustracoes/margo-negativa-dancando.png",
+      "sha": "083c858c825914e06401099c4eb98c4fad68c604",
+      "size": 310133
+    },
+    {
+      "path": "Ilustracoes/margo-negativa-em-pe.png",
+      "sha": "f459e399d4ebe6d68d481a1c9fff4592afcb0905",
+      "size": 341402
+    },
+    {
+      "path": "Ilustracoes/margo-negativa-lendo.png",
+      "sha": "5a476af56b9ee93be863e34fc689117c36449518",
+      "size": 381898
+    },
+    {
+      "path": "Ilustracoes/margo-negativa-sentada-cafe.png",
+      "sha": "a00bf9d9809b648cdd5cefaa1d12348506266b74",
+      "size": 336039
+    },
+    {
+      "path": "Ilustracoes/margo-negativa-v60.png",
+      "sha": "330185251db157830ace4cd984807ac0a9f4580b",
+      "size": 312217
+    },
+    {
+      "path": "Ilustracoes/margo-negativa-vinho-caminhando.png",
+      "sha": "efc928a4cf8965f35d1e1cca1d38f1c625b40d9a",
+      "size": 286599
+    },
+    {
+      "path": "Ilustracoes/margo-negativa-vinho-dancando.png",
+      "sha": "86fdbe236444415c8fe9a73fb55bb17387817e9a",
+      "size": 311521
+    },
+    {
+      "path": "Ilustracoes/margo-negativa-vinho-em-pe.png",
+      "sha": "e4bac35b805d3230bd939e6c666b4476c9dee23c",
+      "size": 341691
+    },
+    {
+      "path": "Ilustracoes/margo-negativa-vinho-lendo.png",
+      "sha": "79d7c52c10888bc5c1a5c5f7b5e7e3a4dcbae770",
+      "size": 385217
+    },
+    {
+      "path": "Ilustracoes/margo-negativa-vinho-sentada-cafe.png",
+      "sha": "f7a59c8043c76059f885b886184596e5032b17ec",
+      "size": 337449
+    },
+    {
+      "path": "Ilustracoes/margo-negativa-vinho-v60.png",
+      "sha": "8903d88b086b6e2204649fce876813b755c31807",
+      "size": 312382
+    },
+    {
+      "path": "Ilustracoes/margo-negativas-preview.jpg",
+      "sha": "fb8b49d4ab01c5663455036e7e2af7955caf88a3",
+      "size": 502812
+    },
+    {
+      "path": "Ilustracoes/margo-negativas-vinho-preview.jpg",
+      "sha": "1740a9014ff5fac80824b008a0402ee9e5b6abcf",
+      "size": 485576
+    },
+    {
+      "path": "Ilustracoes/margo-personagem-estilo-mural-simplificada-v17.png",
+      "sha": "fc126ef170c38d9b15d60f1e628558bedd260835",
+      "size": 889273
+    },
+    {
+      "path": "Ilustracoes/margo-personagem-meio-termo-muralista-v16.png",
+      "sha": "af9e19407bdee5575c5bd733fdeafb376f96026a",
+      "size": 1160003
+    },
+    {
+      "path": "Ilustracoes/margo-personagem-naif-oculos-v13.png",
+      "sha": "0c286125536dba1fa31d6aacf0260475bda8ce1c",
+      "size": 1257740
+    },
+    {
+      "path": "Ilustracoes/margo-personagem-naif-simplificada-v12.png",
+      "sha": "0b4f1567e39df2501922e5419517bf61701075d3",
+      "size": 1293842
+    },
+    {
+      "path": "Ilustracoes/margo-personagem-outline-v04.png",
+      "sha": "ff078e371981ef5a392d008c7f05c8c904f1bb0d",
+      "size": 1498091
+    },
+    {
+      "path": "Ilustracoes/margo-personagem-outline-v05.png",
+      "sha": "af21901b3f239f81a8587932919380c9e602aa93",
+      "size": 1467970
+    },
+    {
+      "path": "Ilustracoes/margo-personagem-outline-v05.svg",
+      "sha": "aeef5bb9fc03f1d611a42b6ee696f6aa89397705",
+      "size": 5464
+    },
+    {
+      "path": "Ilustracoes/margo-personagem-regata-logo-branco-v15.png",
+      "sha": "758dc2adb9cb27d31fc878b7e34b16d05ab64f8b",
+      "size": 1789982
+    },
+    {
+      "path": "Ilustracoes/margo-personagem-sentada-cafe-v06.png",
+      "sha": "9646d208e4dbff8000873727f04354c090ed4512",
+      "size": 1634384
+    },
+    {
+      "path": "Ilustracoes/margo-personagem-simplificada-v11.png",
+      "sha": "c853130855e79a80d8f15e6f3f7276db0356a0bf",
+      "size": 1330757
+    },
+    {
+      "path": "Ilustracoes/margo-personagem-v01.png",
+      "sha": "ff0ce7689810ece353d73abc85663306e97ea666",
+      "size": 2070124
+    },
+    {
+      "path": "Ilustracoes/margo-personagem-v02.png",
+      "sha": "0b3dd1191cbf7dee0f833da43c3506a9c2048f9e",
+      "size": 1874453
+    },
+    {
+      "path": "Ilustracoes/margo-personagem-v03.png",
+      "sha": "0eb6593df26963a776f7305cc6f9eaec552a36f6",
+      "size": 1718176
+    },
+    {
+      "path": "Ilustracoes/persona-margo-referencia.png",
+      "sha": "c9d8424467970d231de9e12481165abf3dbdbcf4",
+      "size": 3070665
+    },
+    {
+      "path": "README.md",
+      "sha": "8b24c75e0b223562021c9d08b4269db6e5706b8d",
+      "size": 2959
+    },
+    {
+      "path": "Sistema-de-conteudo/README.md",
+      "sha": "86267a1e990511adf27237b0d43e9b8d2fad5eb6",
+      "size": 1110
+    },
+    {
+      "path": "Sistema-de-conteudo/margo-social-workflow/SKILL.md",
+      "sha": "a5a357b76c0aa4364c9317e01da7c996143f5f8c",
+      "size": 4070
+    },
+    {
+      "path": "Sistema-de-conteudo/margo-social-workflow/agents/openai.yaml",
+      "sha": "c651c29cff91fcf717358fc5c0f4fd6b5bc45084",
+      "size": 109
+    },
+    {
+      "path": "Sistema-de-conteudo/margo-social-workflow/references/margo-brand-context.md",
+      "sha": "f4902194d6d515f47795d3b3fdd42576f486be62",
+      "size": 2015
+    },
+    {
+      "path": "Sistema-de-ilustracao/margo-personagem/SKILL.md",
+      "sha": "b20272c7d9b58ed318bffbd9cd6243165a5aa6e0",
+      "size": 3857
+    },
+    {
+      "path": "Sistema-de-ilustracao/margo-personagem/agents/openai.yaml",
+      "sha": "816fcd34893c9fc3da38838172e14e1716f838b2",
+      "size": 330
+    },
+    {
+      "path": "Sistema-de-ilustracao/margo-personagem/assets/approved/negative-burgundy/margo-negativa-vinho-caminhando.png",
+      "sha": "efc928a4cf8965f35d1e1cca1d38f1c625b40d9a",
+      "size": 286599
+    },
+    {
+      "path": "Sistema-de-ilustracao/margo-personagem/assets/approved/negative-burgundy/margo-negativa-vinho-dancando.png",
+      "sha": "86fdbe236444415c8fe9a73fb55bb17387817e9a",
+      "size": 311521
+    },
+    {
+      "path": "Sistema-de-ilustracao/margo-personagem/assets/approved/negative-burgundy/margo-negativa-vinho-em-pe.png",
+      "sha": "e4bac35b805d3230bd939e6c666b4476c9dee23c",
+      "size": 341691
+    },
+    {
+      "path": "Sistema-de-ilustracao/margo-personagem/assets/approved/negative-burgundy/margo-negativa-vinho-lendo.png",
+      "sha": "79d7c52c10888bc5c1a5c5f7b5e7e3a4dcbae770",
+      "size": 385217
+    },
+    {
+      "path": "Sistema-de-ilustracao/margo-personagem/assets/approved/negative-burgundy/margo-negativa-vinho-sentada-cafe.png",
+      "sha": "f7a59c8043c76059f885b886184596e5032b17ec",
+      "size": 337449
+    },
+    {
+      "path": "Sistema-de-ilustracao/margo-personagem/assets/approved/negative-burgundy/margo-negativa-vinho-v60.png",
+      "sha": "8903d88b086b6e2204649fce876813b755c31807",
+      "size": 312382
+    },
+    {
+      "path": "Sistema-de-ilustracao/margo-personagem/assets/approved/negative-white/margo-negativa-caminhando.png",
+      "sha": "887efd5aec7d6e4bd444e24efd547e82b5378923",
+      "size": 285683
+    },
+    {
+      "path": "Sistema-de-ilustracao/margo-personagem/assets/approved/negative-white/margo-negativa-dancando.png",
+      "sha": "083c858c825914e06401099c4eb98c4fad68c604",
+      "size": 310133
+    },
+    {
+      "path": "Sistema-de-ilustracao/margo-personagem/assets/approved/negative-white/margo-negativa-em-pe.png",
+      "sha": "f459e399d4ebe6d68d481a1c9fff4592afcb0905",
+      "size": 341402
+    },
+    {
+      "path": "Sistema-de-ilustracao/margo-personagem/assets/approved/negative-white/margo-negativa-lendo.png",
+      "sha": "5a476af56b9ee93be863e34fc689117c36449518",
+      "size": 381898
+    },
+    {
+      "path": "Sistema-de-ilustracao/margo-personagem/assets/approved/negative-white/margo-negativa-sentada-cafe.png",
+      "sha": "a00bf9d9809b648cdd5cefaa1d12348506266b74",
+      "size": 336039
+    },
+    {
+      "path": "Sistema-de-ilustracao/margo-personagem/assets/approved/negative-white/margo-negativa-v60.png",
+      "sha": "330185251db157830ace4cd984807ac0a9f4580b",
+      "size": 312217
+    },
+    {
+      "path": "Sistema-de-ilustracao/margo-personagem/assets/approved/positive/margo-caminhando.png",
+      "sha": "d7b66e30d90f721c0fe5d00a15e7a23c9119fc8a",
+      "size": 1543666
+    },
+    {
+      "path": "Sistema-de-ilustracao/margo-personagem/assets/approved/positive/margo-dancando.png",
+      "sha": "e0156dcc7deb82a021af06e3b14ac91665be7282",
+      "size": 1588376
+    },
+    {
+      "path": "Sistema-de-ilustracao/margo-personagem/assets/approved/positive/margo-em-pe.png",
+      "sha": "af21901b3f239f81a8587932919380c9e602aa93",
+      "size": 1467970
+    },
+    {
+      "path": "Sistema-de-ilustracao/margo-personagem/assets/approved/positive/margo-lendo.png",
+      "sha": "44c80a26da3fc611816b687b2a5eb4f848a47fb6",
+      "size": 1270471
+    },
+    {
+      "path": "Sistema-de-ilustracao/margo-personagem/assets/approved/positive/margo-sentada-cafe.png",
+      "sha": "9646d208e4dbff8000873727f04354c090ed4512",
+      "size": 1634384
+    },
+    {
+      "path": "Sistema-de-ilustracao/margo-personagem/assets/approved/positive/margo-v60.png",
+      "sha": "98a2a1dfad1bdb55f5c6d36987a3326302daa720",
+      "size": 1564910
+    },
+    {
+      "path": "Sistema-de-ilustracao/margo-personagem/assets/contact-sheets/negative-burgundy.jpg",
+      "sha": "1740a9014ff5fac80824b008a0402ee9e5b6abcf",
+      "size": 485576
+    },
+    {
+      "path": "Sistema-de-ilustracao/margo-personagem/assets/contact-sheets/negative-white.jpg",
+      "sha": "fb8b49d4ab01c5663455036e7e2af7955caf88a3",
+      "size": 502812
+    },
+    {
+      "path": "Sistema-de-ilustracao/margo-personagem/references/character-bible.md",
+      "sha": "3a4a77229224d7100e6c87a2c3c5e92ef2f9eb1e",
+      "size": 1928
+    },
+    {
+      "path": "Sistema-de-ilustracao/margo-personagem/references/illustration-system.md",
+      "sha": "0d542e30098993f456ff4ff59eb129557d72d895",
+      "size": 2496
+    },
+    {
+      "path": "Sistema-de-ilustracao/margo-personagem/references/prompt-recipes.md",
+      "sha": "cb955f68c83a3fb76a44c64d0e6817b4d9660c6d",
+      "size": 2023
+    },
+    {
+      "path": "Sistema-de-ilustracao/margo-personagem/scripts/make_negative.py",
+      "sha": "813a472ea35dbab04d41b7563979b8523e05f600",
+      "size": 2002
+    },
+    {
+      "path": "briefing-estrategico-margo-cafes-especiais.md",
+      "sha": "38ab46660b7d83876b186888f526f79b4abb3d63",
+      "size": 14558
+    }
+  ]
+}

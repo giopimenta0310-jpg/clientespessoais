@@ -1,13 +1,17 @@
 # Contexto atual — Margô Cafés Especiais
 
-**Atualizado em:** 01/10/2026
-**Fase:** pré-lançamento  
+**Atualizado em:** 19/10/2026
+**Fase:** operação e atração de visitas; a inauguração já aconteceu.
 **Abertura confirmada:** 10/10/2026  
 **Instagram:** `@margocafesespeciais`  
 **Endereço:** Rua Presidente de Gaulle, 3331, Joinville  
 **Google Maps:** https://share.google/Ucknxjqq5JECkXUXs
 
 ## Fontes de verdade
+
+- **Calendário e copies vigentes:** [versão aprovada em 19/10](Entregaveis/Replanejamento-19-outubro/CALENDARIO_E_COPIES_APROVADAS.md). Prevalece sobre todas as grades anteriores.
+- **Continuidade entre computadores:** [guia de sincronização](CONTINUIDADE.md).
+- **Registro das decisões de outubro:** [continuação da conversa](Conversa/continuacao-2026-10.md).
 
 - O [Painel Direcional no Figma](https://www.figma.com/design/A1uRNS8uV6glBDIV1qxgQH/Painel-DIrecional---Marg%C3%B4?node-id=0-1) é a fonte principal para identidade visual e peças já materializadas.
 - A [plataforma de aprovação](https://plataformadeaprovacaogio.vercel.app/?c=09d3417e-4eff-40da-a56b-72859f864732) é a fonte principal para as copies de pré-lançamento já aprovadas.
@@ -60,7 +64,34 @@
 - Não mencionar reservas, ordem de chegada, delivery, retirada ou encomendas neste momento.
 - Stories devem permanecer orgânicos; não criar uma grade ou roteiro fechado para o formato.
 
-## Aguardando retorno de Bruna e Su
+## Operação e decisões vigentes — 19/10
+
+- Objetivo: conseguir visitas para o dia a dia pela atmosfera, pessoas, encontros, café e comida. Ainda não há base para priorizar um dia fraco ou um produto por desempenho.
+- Grade aprovada da semana: **20/10 mesinha (carrossel), 22/10 choux com Bruna (Reel), 23/10 date (Reel), 25/10 crianças e pets (estático)**. Textos aprovados no arquivo v05 indicado acima.
+- Guardar para a próxima semana: carrossel Croque Meu Senhor + red velvet + café e possível Reel do café coado. Sem datas fechadas.
+- Próxima captação prevista para **sábado, 24/10**, incluindo os favoritos da Bruna, do Marcos e da Suelen. Confirmar presença para essa nova visita e levantar as escolhas; não confundir com a presença confirmada para a visita anterior.
+- Série de favoritos: um carrossel por pessoa, 2 ou 3 itens preferidos, retrato com pedido e motivos das escolhas. Não foi captada; sem data vigente. As sugestões de 22/10, 29/10 e 05/11 da v03 foram substituídas.
+- A sugestão intermediária de seis posts de terça a domingo foi descartada. Frequência de quatro nesta semana; base anterior de três por semana, ajustável ao banco real.
+- Crianças e pets: uma foto estática da dupla; a família autorizou publicar, segundo Giovanna. Não anunciar espaço kids ou recreação inexistentes.
+- Choux: doce francês apresentado pela Bruna, à venda na vitrine. A fotografada é chocolate; também há versões pistache, frutas vermelhas e café. Sabores podem variar no dia. Não afirmar exclusividade regional.
+- Nomes confirmados nas fotos: **Croque Meu Senhor** e **red velvet**. Bebidas da mesinha: comunicar apenas **café**, conforme orientação da Giovanna.
+- Pasta de captação `17-10`: **78 fotos e 14 vídeos**. Índice e folhas de contato em `Entregaveis/Replanejamento-19-outubro/inspecao/`. Originais de foto/vídeo ficam fora do Git; ver continuidade.
+- Material da cliente entrando: apoio/Stories, não post obrigatório. Vitrine e cenas extras também podem alimentar Stories orgânicos.
+- Vídeo de inauguração com depoimentos e desejos foi finalizado pela Giovanna em 16/10, destinado a 17/10. Publicação efetiva não foi verificada.
+
+## Pendências atuais
+
+- Produzir a composição da personagem na foto da mesinha, mantendo o desenho oficial do mural.
+- Editar os Reels; ouvir e transcrever a fala integral da Bruna antes da legendagem. A inspeção de 19/10 foi visual por fotos e quadros dos vídeos, não uma auditoria de áudio.
+- Selecionar a foto estática de crianças e pets e as imagens finais do carrossel.
+- Organizar a captação de sábado e depois fechar a grade da semana seguinte.
+- Opções sem lactose e sem glúten continuam sem confirmação específica neste registro.
+
+## Histórico de planejamento — até 01/10
+
+Os blocos abaixo preservam a origem do planejamento. Menções a “haverá”, “aguardando” e datas de pré-lançamento são históricas; as decisões de 19/10 acima prevalecem. O contexto anterior integral também está em `Conversa/contexto-arquivado-2026-10-01.md`.
+
+### Aguardando retorno de Bruna e Su — registro histórico
 
 - Cardápio reduzido da abertura e cardápio completo.
 - Confirmação definitiva do Red Velvet e do café passado Coara como destaques antes da abertura.

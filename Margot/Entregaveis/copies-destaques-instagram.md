@@ -160,37 +160,15 @@ A versão mais atual estará sempre por aqui.
 
 **Cafés**
 
-### Sequência de stories
+### Produção agora
 
-**Story 1 — abertura**
+Criar apenas a capa. Não produzir uma sequência inicial de stories.
 
-A gente leva café a sério.  
-Mas ele não precisa ser complicado.
+### Preenchimento ao longo do tempo
 
-**Story 2 — proposta**
+Fotos e vídeos dos cafés servidos, métodos de preparo, grãos disponíveis e orientações da equipe.
 
-Aqui, o café especial é um convite para descobrir sabores com calma.
-
-**Story 3 — variedade**
-
-Mais doce, frutado, intenso ou delicado: cada café pode contar uma história diferente.
-
-**Story 4 — acolhimento**
-
-Você não precisa entender de método ou perfil sensorial para escolher.
-
-**Story 5 — orientação**
-
-Conte pra gente do que você gosta.  
-A gente ajuda a encontrar um café com a sua cara.
-
-**Story 6 — experiência**
-
-Cada grão e cada preparo entregam uma experiência diferente. Descobrir também faz parte.
-
-**Story 7 — encerramento**
-
-Qual vai ser o seu café no Margô?
+Adicionar ao destaque os stories publicados conforme houver conteúdo real. Os modelos abaixo são referências para essas publicações futuras.
 
 ### Modelo para apresentar um café
 
@@ -226,7 +204,7 @@ Se tiver dúvida, a gente ajuda você a escolher.
 
 - Atualizar quando entrar ou sair um café.
 - Evitar deixar em destaque cafés que não estejam mais disponíveis.
-- Manter alguns stories institucionais e renovar os stories de produtos conforme o estoque.
+- Adicionar os stories publicados e renovar os registros de produtos conforme a disponibilidade.
 
 ---
 
@@ -236,31 +214,15 @@ Se tiver dúvida, a gente ajuda você a escolher.
 
 **Pra comer**
 
-### Sequência de stories
+### Produção agora
 
-**Story 1 — abertura**
+Criar apenas a capa. Não produzir uma sequência inicial de stories.
 
-Vai comer o quê com o café?
+### Preenchimento ao longo do tempo
 
-**Story 2 — desejo**
+Fotos e vídeos dos pratos, doces, bastidores da cozinha, novidades e combinações com bebidas.
 
-A resposta muda conforme a fome, a vontade e o tempo que você quer ficar.
-
-**Story 3 — pequenos desejos**
-
-Tem escolha para acompanhar o café, adoçar a tarde e pedir mais cinco minutinhos na mesa.
-
-**Story 4 — comida de verdade**
-
-E tem comida para quando a vontade é sentar e comer de verdade.
-
-**Story 5 — autoria**
-
-A cozinha tem a assinatura da Bruna: comida gostosa, feita com cuidado e cheia de personalidade.
-
-**Story 6 — encerramento**
-
-Vamos guardar aqui os pratos, os doces, as novidades e as combinações que merecem ser provadas.
+Adicionar ao destaque os stories publicados conforme houver conteúdo real. Os modelos abaixo são referências para essas publicações futuras.
 
 ### Modelo para apresentar um item
 
@@ -311,19 +273,15 @@ Vem provar no Margô.
 
 **Agenda**
 
-### Sequência de stories
+### Produção agora
 
-**Story 1 — abertura**
+Criar apenas a capa. Não produzir uma sequência inicial de stories.
 
-O Margô também quer ser lugar de encontro.
+### Preenchimento ao longo do tempo
 
-**Story 2 — proposta**
+Divulgação de eventos confirmados, lembretes e informações práticas de cada encontro.
 
-Arte, música, feiras, conversas e iniciativas que movimentam a cidade podem passar por aqui.
-
-**Story 3 — orientação**
-
-Quando tiver algo acontecendo, você encontra todas as informações neste destaque.
+Adicionar ao destaque os stories publicados conforme houver conteúdo real. Os modelos abaixo são referências para essas publicações futuras.
 
 ### Modelo para divulgar um evento
 

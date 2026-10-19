@@ -1,0 +1,63 @@
+{
+  "status": "aprovado",
+  "approved_on": "2026-10-19",
+  "posts": [
+    {
+      "date": "20/10/2026",
+      "day": "terça-feira",
+      "format": "Carrossel",
+      "title": "A mesinha da janela",
+      "slides": [
+        "essa mesa combina com uma pausa sua.",
+        "um café, uma coisa gostosa…",
+        "e tempo pra olhar lá fora.",
+        "vem fazer companhia pra Margô."
+      ],
+      "caption": "Tem uma mesinha na janela que dá vontade de puxar a cadeira e ficar. 💚\n\nO café chega, a conversa acontece e, entre uma mordida e outra, a gente fica olhando a vida lá fora.\n\nPode vir com companhia ou aproveitar um tempo só seu. Como seria a sua pausa por aqui?",
+      "visual": "Fotos da mesinha e do pedido. Última imagem: cliente com a personagem Margô na cadeira ao lado, se a composição ficar natural. Usar sempre a personagem derivada do mural.",
+      "assets": "Sobre a mesa que mais tem clientes: IMG_2985/2988, uma de IMG_2995–3006, detalhes de IMG_2990–2992; selecionar sem repetir imagens parecidas."
+    },
+    {
+      "date": "22/10/2026",
+      "day": "quinta-feira",
+      "format": "Reel",
+      "title": "Bruna apresenta a choux",
+      "slides": [
+        "você já provou uma choux?",
+        "essa aqui é de chocolate. 🤎"
+      ],
+      "caption": "Esse doce francês tem nome curtinho e bastante coisa boa pra descobrir. A Bruna te apresenta a choux — uma das especialidades que você encontra na nossa vitrine. 🤎\n\nA que aparece no vídeo é de chocolate. Também fazemos versões de pistache, frutas vermelhas e café; os sabores disponíveis podem variar no dia.\n\nJá conhecia ou vai ser sua primeira choux?",
+      "visual": "Primeira frase na capa; segunda no detalhe do doce aberto. Explicação com a Bruna e legendagem da fala real, sem inventar frases para ela.",
+      "assets": "Vídeo da Bruna falando sobre a Croux: A001_10171608_C021.MOV e fotos IMG_3056–3066. Nome correto para publicar: choux."
+    },
+    {
+      "date": "23/10/2026",
+      "day": "sexta-feira",
+      "format": "Reel",
+      "title": "Um date sem pressa",
+      "slides": [
+        "nosso próximo date pode ser assim?"
+      ],
+      "caption": "O plano: sair pra tomar um café e acabar ficando mais um pouquinho.\n\nPedir uma coisa gostosa, provar do pedido do outro e conversar sem ficar olhando a hora. 💚\n\nManda pra pessoa que vai dividir essa mesa com você.",
+      "visual": "Uma única frase principal na capa e abertura. Montagem dinâmica de chegada, mãos dadas, mesa, conversa, pedido e sobremesa. Selecionar planos que convivam bem apesar da mudança de luz.",
+      "assets": "Casal/IMG_3048–3055.MOV. A sequência detalhada e as durações constam no inventário da pasta inspecao."
+    },
+    {
+      "date": "25/10/2026",
+      "day": "domingo",
+      "format": "Estático · uma foto",
+      "title": "Crianças e pets",
+      "slides": [
+        "a boa companhia vem de todo tamanho."
+      ],
+      "caption": "Tem visita que chega de mãos dadas. Tem visita que chega de guia. E a gente adora receber as duas. 💚\n\nCrianças e pets são bem-vindos na Margô. Essa dupla já passou por aqui e deixou o nosso dia mais gostoso.\n\nNo próximo passeio em família, vem fazer uma pausa com a gente.",
+      "visual": "Uma única foto da criança com o cachorro. Frase pequena, deixando os dois como protagonistas. Família autorizou a publicação, conforme confirmação da Giovanna.",
+      "assets": "Pet e Kid Friendly: escolher uma entre IMG_3038, IMG_3040 ou IMG_3041 após conferir nitidez e enquadramento em tamanho completo."
+    }
+  ],
+  "reserve": [
+    "Croque Meu Senhor, red velvet e café — carrossel",
+    "Antes do primeiro gole — vídeo de coado, condicionado à edição"
+  ],
+  "next_capture": "2026-10-24"
+}

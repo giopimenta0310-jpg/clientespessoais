@@ -1,5 +1,11 @@
 # Margô Cafés Especiais
 
+**Atualizado em 19/10/2026 · operação pós-abertura.**
+
+Comece pelo [contexto vigente](CONTEXTO_ATUAL.md), pelo [calendário e copies aprovadas de 20–25/10](Entregaveis/Replanejamento-19-outubro/CALENDARIO_E_COPIES_APROVADAS.md) e pelo [guia de continuidade entre computadores](CONTINUIDADE.md). Os calendários anteriores são históricos. O [registro de outubro](Conversa/continuacao-2026-10.md) explica as mudanças.
+
+O projeto Remotion está em [Motion/whatsapp-inauguracao](Motion/whatsapp-inauguracao/README.md). Código, imagens utilizadas e sons são versionados; brutos e renders grandes precisam ser transferidos separadamente, conforme o guia de continuidade.
+
 Este diretório concentra o histórico do trabalho feito para a Margô, permitindo recuperar o contexto em outro computador por meio do GitHub.
 
 ## Estrutura

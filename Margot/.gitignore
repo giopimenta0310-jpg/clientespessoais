@@ -1,0 +1,16 @@
+.DS_Store
+node_modules/
+out/
+.remotion/
+docx-build/
+.build-*/
+*.log
+.env
+.env.*
+!.env.example
+*.mov
+*.MOV
+*.mp4
+*.MP4
+*.heic
+*.HEIC
