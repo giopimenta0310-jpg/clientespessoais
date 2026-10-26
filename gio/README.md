@@ -22,6 +22,10 @@ Esta pasta concentra o contexto estratégico construído para a marca pessoal de
 
 ## Links centrais
 
+Guia de produção vigente após o retorno de Giovanna: [gravação a partir de agora, sem depender de acervo](13-guia-de-gravacao-do-zero-2026-10-22.md).
+
+Proposta em discussão, de 22/10/2026: [calendário de duas semanas, pesquisa e plano de captação](12-calendario-proposto-duas-semanas-2026-10-22.md). Seis posts principais e duas reservas; não aprovado nem publicado.
+
 - [Marca pessoal — arquivo principal no Figma](https://www.figma.com/design/o3jkN0S4VvbR9RJdLfxYa6/Marca-Pessoal---Giovanna?node-id=0-1&t=l8hrATK2ttdDIvT8-1)
 - [Painel Direcional — gio.](https://www.figma.com/design/o3jkN0S4VvbR9RJdLfxYa6/Marca-Pessoal---Giovanna?node-id=108-3)
 - [Portfólio](https://portfoliogio.vercel.app)

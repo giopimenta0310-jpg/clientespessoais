@@ -1,5 +1,9 @@
 # Contexto para continuidade
 
+## Atualização de produção — 22/10/2026
+
+Giovanna gostou da proposta de produzir em lote, mas retirou as ideias “olha o que muda quando sai da tela”, “essa versão não foi escolhida” e “a cliente da vez sou eu”. Pediu um guia considerando gravações a partir de agora, sem depender de qualquer acervo. O guia `13-guia-de-gravacao-do-zero-2026-10-22.md` operacionaliza essa restrição com seis conteúdos principais, duas reservas e cenas de apoio. A nova lista de assuntos e os textos permanecem propostas. Essa restrição prevalece sobre o calendário anterior e sobre sugestões históricas de reaproveitar materiais.
+
 Use este documento como fonte de verdade ao retomar o projeto em outro computador, chat ou ferramenta.
 
 ## Quem é a marca

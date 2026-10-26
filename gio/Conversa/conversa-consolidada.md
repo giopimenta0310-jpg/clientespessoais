@@ -161,3 +161,15 @@ Foi pesquisado o pacote indicado no Reddit e outras coleções públicas de skil
 Foi criada a skill `gio-social-workflow`, que usa esta pasta como fonte de verdade e filtra toda pesquisa e criação pelos fundamentos da marca, pelas dimensões **Eu vivo, Eu observo, Eu penso, Eu faço** e pelo guia de voz. Tendências passam a ser tratadas como insumo: só entram quando houver encaixe natural e possibilidade de adaptação autoral.
 
 Documento relacionado: `11-sistema-de-skills-para-conteudo.md`.
+
+## 11. Proposta de primeiro lote de conteúdos — 22/10/2026
+
+### Correção posterior da Giovanna
+
+Giovanna gostou da proposta, mas não gostou dos temas “olha o que muda quando sai da tela”, “essa versão não foi escolhida” e “a cliente da vez sou eu”. Explicou que não gravou esses processos e pediu para desconsiderar qualquer material existente: precisa começar a gravar a partir de agora. Foi criado o guia `13-guia-de-gravacao-do-zero-2026-10-22.md`, com captação por conteúdo, falas-guia, fotos para estático/carrossel, cenas extras e ordem de sessão. Os novos temas são propostas, ainda não aprovadas individualmente.
+
+Giovanna quer começar a produzir e gravar em lote para sustentar duas a três semanas de presença, misturando Reels, estáticos e carrosséis. Ela gosta da ideia de abordar a saída do emprego, mas está insegura sobre a continuidade; não decidiu descartar a ideia.
+
+Foi solicitada pesquisa atual com o fluxo da marca e um calendário de duas semanas, com duas a três publicações semanais e seis a oito ideias, priorizando Reels.
+
+Foi preparada a proposta `12-calendario-proposto-duas-semanas-2026-10-22.md`: seis conteúdos principais (quatro Reels, um carrossel e um estático), mais duas reservas (um Reel e um carrossel). O arquivo reúne fontes e limites da pesquisa, datas sugeridas, roteiros, captações e produção em lote. É um rascunho para discussão, ainda não aprovado nem publicado. A direção sugerida não depende de contagem regressiva financeira ou de anunciar a demissão.
