@@ -56,3 +56,51 @@ Síntese das decisões e entregas conhecidas até 19/10/2026. Não é uma transc
 ## Sincronização solicitada em 19/10
 
 Giovanna pediu atualizar o GitHub com o trabalho e as decisões para continuar em outros computadores. A organização mantém fontes, assets e documentos, exclui dependências, caches e renders grandes, e explica quais brutos precisam ser transferidos à parte em CONTINUIDADE.md. Outros clientes do repositório não fazem parte dessa atualização.
+
+## Consulta à plataforma — 22/10/2026
+
+Após verificar que o último commit da main ainda era f086bc6, Giovanna pediu consultar a plataforma porque os posts novos já haviam sido feitos. Foi realizada leitura do quadro e das artes, sem aprovar, comentar, mover cards ou alterar dados.
+
+- Mesinha da janela, data cadastrada 20/10: carrossel de três imagens produzido, com a Margô inserida na cena. Status “Post para aprovação”. Há um comentário de cliente de 19/10 elogiando e relatando sobreposição na segunda foto. A segunda imagem realmente apresenta partes duplicadas/sobrepostas do pedido e talheres. Correção ainda pendente no material consultado.
+- Bruna apresenta a choux, 22/10: status “Aprovado”; capa com o doce aberto, ilustração de choux, pergunta e indicação de chocolate.
+- Um date sem pressa, 23/10: status “Aprovado”; capa com mãos dadas, frase aprovada e coração rosa.
+- Crianças e pets, 25/10: estático aprovado; foto da criança e do cachorro, com a personagem no canto inferior e frase em rosa/creme.
+- O quadro lista 13 conteúdos como publicados, incluindo o vídeo de desejos para o futuro da casa de 17/10, o affogato de 16/10 e registros/agradecimentos da inauguração. Esse é o status informado pela plataforma; não houve confirmação independente no Instagram.
+- Foram conferidos cards, legendas, capas e as três imagens da mesinha. Não foram reproduzidos os Reels completos. Os posts devem ser tratados como produzidos e com os status acima, não como pautas ainda a criar.
+- Mudanças no conteúdo da plataforma não geram automaticamente commits neste repositório. Este registro é uma atualização local de contexto; não houve novo envio ao GitHub nesta consulta.
+
+
+## Cadastro e atualização da plataforma — 22/10/2026
+
+Após as confirmações da Giovanna e acesso administrativo autorizado, foram criados dois cards em **Copy e roteiro**, pendentes de aprovação: Open Coffee (divulgação sugerida 24/10) e oficina de crochê com Silvia Citrini (divulgação sugerida 28/10). Contêm texto de arte, legenda e hashtags; sem artes finais anexadas. As datas são propostas, não agendamento no Instagram.
+
+- Open Coffee: início 27/10, terças e quartas 13h–19h, R$ 65 por pessoa, bebidas selecionadas à vontade, comida à parte, sem reserva.
+- Oficina: domingo 01/11, 10h–16h, entrada R$ 15, inscrição pelo link da bio. Materiais, nível e limite de vagas não anunciados.
+- Instagram confirmou mesinha e choux publicados. Ambos movidos para **Publicado** na plataforma; date e crianças/pets continuam **Aprovado**.
+- Conferência após recarregar: 19 cards, sendo 15 publicados, 2 aprovados e 2 em copy. Grid já respeitava a ordem real dos publicados, com choux mais recente que mesinha; ordem preservada.
+- Esta atualização substitui os status da consulta anterior acima. Arquivos locais atualizados; sem novo envio ao GitHub nesta rodada. Nenhuma credencial registrada.
+
+
+## Open Coffee — ajuste de 23/10
+
+Giovanna pediu reduzir o volume de texto da capa e transformar a peça em carrossel de duas lâminas: primeira para chamar, segunda para informar. Cadastro existente atualizado na plataforma, preservando legenda e demais campos; tipo Carrossel e novo roteiro confirmados após recarregar. Continua em Copy e roteiro, aguardando aprovação, sem arte final. Oficina não alterada.
+
+
+## Calendário ajustado e novo Reel — 23/10
+
+Giovanna pediu Open Coffee domingo 25/10, oficina terça 27/10 e pets sexta 30/10; datas atualizadas na plataforma sem mudar textos ou aprovações. Quinta 29/10 reservada para Reel novo. Pediu proposta baseada em trends, para captar sábado 24/10. Proposta de mini vlog com horários reais, baseada no formato Vlog timestamps citado pela Later em 23/10. Não é conceito aprovado. Guia no calendário atualizado.
+
+
+### Ordem visual do grid — 23/10
+
+A pedido da Giovanna, pets movido para a posição mais recente do grid, após oficina e Open Coffee na cronologia. Grid exibe ordem inversa: pets 30/10, oficina 27/10, Open Coffee 25/10, date já publicado. Apenas posição alterada; datas, artes e aprovações preservadas. Confirmado após recarregar. Reel 29/10 ainda é proposta sem arte no grid.
+
+
+## Oficina — prazo e vagas, 25/10
+
+Giovanna enviou comentário das sócias pedindo vagas limitadas e inscrições até sábado 31/10 às 13h. Avisos incluídos no roteiro da arte e na legenda do card existente na plataforma, conferidos após recarregar. Formato, mídias e data preservados. Imagens da arte não foram editadas nesta rodada; falta aplicar o aviso no arquivo visual.
+
+
+## Sincronização solicitada — 26/10
+
+Giovanna pediu atualizar o Git com as mudanças recentes: calendário, textos e confirmações de Open Coffee/oficina, ajustes de grid, proposta de Reel e guia de captação, novos stickers de notebook e crochê e composições da Margô trabalhando no salão. Fontes de continuidade atualizadas para apontar ao calendário vigente. Materiais restritos à pasta Margot; pasta local da plataforma não incluída. Nenhuma nova confirmação de captação ou publicação foi inferida.

@@ -1,0 +1,7 @@
+# Elemento notebook — v01
+
+Criado em 23/10/2026 com image_gen integrado. PNG com fundo transparente, seguindo os stickers de agenda e máquina de espresso da biblioteca.
+
+## Prompt
+
+Create ONE isolated open laptop sticker that belongs to exactly the same illustrated object family as the two provided reference stickers (calendar and coffee machine). References are STYLE ONLY, do not include their objects. Hand-drawn simple organic bold black slightly irregular outlines with rounded ends, broad flat creamy off-white filled shapes, muted sage green #A3AD82 screen, tiny pastel pink #FFADC9 accents on a few keyboard keys. Open notebook computer viewed in a gentle three-quarter front view so both screen and keyboard are clearly recognizable. Friendly slightly imperfect handmade proportions, compact wide silhouette, simplified keyboard with few rows of rounded small keys, single simple trackpad. Screen mostly plain sage green with one tiny cream coffee-cup icon at center drawn in the same black outline style, no text or brand logo. Match reference line weight, simplicity, restrained cream/black/pink/green palette. Clean professional transparent PNG asset for Margô café social posts, high resolution, centered whole object with margin around outline. Only laptop, no hands, person, mouse, table, background, sparkles, lettering or surrounding decorations. True transparent alpha outside the drawn object, opaque fills inside laptop. No white sticker border, no drop shadow, glow, halo, gradient, photorealism, 3D, glossy highlights or backdrop.

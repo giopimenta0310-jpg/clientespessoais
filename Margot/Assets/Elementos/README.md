@@ -24,9 +24,11 @@ Biblioteca de objetos isolados em PNG transparente, criada no mesmo estilo do mu
 - `elemento-luminaria.png`
 - `elemento-planta.png`
 - `elemento-livro.png`
+- `elemento-notebook-v01.png` — notebook aberto com tela verde e detalhes rosa, fundo transparente.
 
 ## Cultura e comida
 
+- `elemento-croche-v01.png` — novelo rosa e agulha de crochê, PNG transparente.
 - `elemento-vinil.png`
 - `elemento-fachada.png`
 - `elemento-focaccia.png`

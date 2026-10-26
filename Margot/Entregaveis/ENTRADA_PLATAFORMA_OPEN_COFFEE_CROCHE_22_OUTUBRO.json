@@ -1,0 +1,46 @@
+{
+  "status_envio": "Salvo na plataforma em 22/10/2026 e verificado após recarregar: dois cards em Copy e roteiro, pendentes de aprovação; mesinha e choux marcados como publicados.",
+  "novos_cards": [
+    {
+      "titulo": "Open Coffee — terças e quartas",
+      "tipo": "carrossel",
+      "data_prevista": "2026-10-25",
+      "etapa": "copy",
+      "copy_status": "pendente",
+      "status": "pendente",
+      "roteiro": "LÂMINA 1 — CONVITE\n\nOPEN COFFEE\nsua tarde de trabalho com café à vontade.\n\nLÂMINA 2 — COMO FUNCIONA\n\nComo funciona\n\nTerças e quartas · 13h às 19h\nA partir de 27/10\nR$ 65 por pessoa\n\nPeça e repita as bebidas do menu:\nV60 · prensa francesa · cold brew\nEspresso duplo · carioca · latte\nChás gelados · Mate Margô\n\nAlimentação à parte. É só chegar, sem reserva.\n\nDIREÇÃO: carrossel de duas lâminas. Primeira com título e convite, bastante respiro e foto de café + notebook na casa. Segunda com hierarquia clara para dias, horário e preço por pessoa; menu em bloco separado. Assinar com a logo da casa, sem escrever Margô como substituição da logo. Manter Montserrat e os acentos tipográficos da identidade. Sem artes finais produzidas nesta atualização. Data de divulgação sugerida, a aprovar.",
+      "legenda": "Tem uma tarde de trabalho pela frente? Pode trazer o notebook pra Margô. ☕\n\nA partir de 27/10, nossas terças e quartas ganham o Open Coffee: por R$ 65 por pessoa, você pode pedir e repetir as bebidas do menu selecionado, das 13h às 19h.\n\nPra colocar as tarefas em dia, encontrar alguém para uma reunião e fazer uma pausa entre uma coisa e outra.\n\nEstão incluídos: filtrados V60, prensa francesa, cold brew, espresso duplo, carioca, latte, chás gelados e Mate Margô.\n\nAlimentação paga à parte. Não precisa reservar: é só chegar.\n\n📍 Rua Presidente de Gaulle, 3331, Joinville.\n\n#Joinville #CafeteriaJoinville #TrabalhoRemoto #HomeOffice #OpenCoffee",
+      "id_plataforma": "22d0a9c0-16af-45c4-bd1e-1aeda1dc5f39"
+    },
+    {
+      "titulo": "Oficina de crochê com Silvia Citrini — 01/11",
+      "tipo": "post",
+      "data_prevista": "2026-10-27",
+      "etapa": "copy",
+      "copy_status": "pendente",
+      "status": "pendente",
+      "roteiro": "OFICINA DE CROCHÊ\ncom Silvia Citrini\n\num domingo para criar com as mãos.\n\nDomingo, 01/11 · 10h às 16h\nEntrada: R$ 15\n\nVagas limitadas.\nInscrições até sábado, 31/10, às 13h.\nPelo link da bio.\n\nDIREÇÃO: aplicar os novos avisos na arte existente, preservando seu formato atual. Assinar com a logo da casa; ilustração simples de fios e agulha, no estilo da marca. Vagas limitadas e prazo de inscrição confirmados em 25/10. Não anunciar materiais incluídos, nível da turma ou quantidade de vagas sem confirmação. Data de publicação sugerida, a aprovar.",
+      "legenda": "Separe um tempinho para criar com as mãos. \n\nNo domingo, 1º de novembro, a Margô recebe Silvia Citrini para uma oficina de crochê por aqui. Um encontro entre fios, conversa e tempo para fazer alguma coisa com calma.\n\nDomingo, 01/11\nDas 10h às 16h\nEntrada: R$ 15\nRua Presidente de Gaulle, 3331, Joinville.\n\nAs vagas são limitadas! Inscreva-se pelo link da bio até sábado, 31/10, às 13h, e vem passar esse momento com a gente.\n\n#Joinville #CrocheJoinville #OficinaDeCroche #Croche #FeitoAMao",
+      "id_plataforma": "68460cb5-2566-4ae1-b89a-a4d29ec06a91"
+    }
+  ],
+  "publicados_confirmados": [
+    {
+      "titulo": "Bruna apresenta a choux",
+      "etapa": "publicado",
+      "status": "publicado",
+      "evidencia": "https://www.instagram.com/margocafesespeciais/reel/DezM8c_FTTE/"
+    },
+    {
+      "titulo": "A mesinha da janela",
+      "etapa": "publicado",
+      "status": "publicado",
+      "evidencia": "https://www.instagram.com/margocafesespeciais/p/DeuDUIDlWFP/"
+    }
+  ],
+  "ordem_publicados_instagram": "Choux é mais recente que mesinha. Manter demais posts e não alterar status de date/crianças-pets sem evidência.",
+  "data_oficina": "2026-11-01",
+  "horario_oficina": "10h às 16h",
+  "observacoes": "Datas de publicação dos dois cards são sugestões para aprovação, não agendamento de publicação no Instagram. Sem artes geradas nesta rodada.",
+  "ultima_atualizacao": "25/10: oficina com vagas limitadas e inscrições até 31/10 às 13h; texto e legenda atualizados na plataforma. Arte existente não foi editada."
+}

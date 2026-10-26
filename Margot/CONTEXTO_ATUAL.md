@@ -1,6 +1,6 @@
 # Contexto atual — Margô Cafés Especiais
 
-**Atualizado em:** 19/10/2026
+**Atualizado em:** 26/10/2026
 **Fase:** operação e atração de visitas; a inauguração já aconteceu.
 **Abertura confirmada:** 10/10/2026  
 **Instagram:** `@margocafesespeciais`  
@@ -9,7 +9,12 @@
 
 ## Fontes de verdade
 
-- **Calendário e copies vigentes:** [versão aprovada em 19/10](Entregaveis/Replanejamento-19-outubro/CALENDARIO_E_COPIES_APROVADAS.md). Prevalece sobre todas as grades anteriores.
+- **Revisão de datas de 23/10:** [calendário vigente de 25–30/10](Entregaveis/CALENDARIO_ATUALIZADO_25_A_30_OUTUBRO.md): Open Coffee 25/10, oficina 27/10, novo Reel 29/10 (proposta a discutir), crianças/pets 30/10. Datas dos três cards atualizadas na plataforma; aprovações preservadas. Reel reservado como proposta em Copy e roteiro. Essas datas prevalecem sobre as grades anteriores.
+
+- **Estado atualizado em 22/10:** mesinha e choux conferidos no Instagram e marcados como **Publicado** na plataforma. Date e crianças/pets permanecem **Aprovado**, sem evidência de publicação. Open Coffee e oficina de crochê cadastrados em **Copy e roteiro**, pendentes de aprovação, sem arte final. Atualizações confirmadas após recarregar a página. O comentário anterior de sobreposição na segunda imagem da mesinha permanece como histórico; a peça publicada não foi alterada.
+- A consulta de 22/10 examinou as capas e as três imagens da mesinha; os arquivos completos dos Reels não foram reproduzidos. O cadastro informa que o vídeo de desejos de 17/10 já foi publicado. A plataforma tem dados próprios; cadastrar posts nela não gera automaticamente commits no repositório de contexto.
+
+- **Copies dos conteúdos de 19/10:** [versão aprovada](Entregaveis/Replanejamento-19-outubro/CALENDARIO_E_COPIES_APROVADAS.md). Para datas e novos conteúdos, prevalecem o calendário de 25–30/10 e os textos de Open Coffee/oficina indicados neste arquivo.
 - **Continuidade entre computadores:** [guia de sincronização](CONTINUIDADE.md).
 - **Registro das decisões de outubro:** [continuação da conversa](Conversa/continuacao-2026-10.md).
 
@@ -64,13 +69,20 @@
 - Não mencionar reservas, ordem de chegada, delivery, retirada ou encomendas neste momento.
 - Stories devem permanecer orgânicos; não criar uma grade ou roteiro fechado para o formato.
 
-## Operação e decisões vigentes — 19/10
+## Open Coffee e oficina — confirmações de 22/10
+
+- Open Coffee: início em **27 e 28/10**, terças e quartas, 13h–19h, **R$ 65 por pessoa**, bebidas do menu reduzido à vontade; comida à parte; **sem reserva**. Bebidas: V60, prensa francesa, cold brew, espresso duplo, carioca, latte, chás gelados e Mate Margô. Em 23/10, formato alterado para **carrossel de duas lâminas**: convite na primeira, informações na segunda. Roteiro e tipo atualizados na plataforma; pendente de aprovação. Vídeo em outra etapa.
+- Oficina de crochê com Silvia Citrini: **domingo, 01/11/2026, 10h–16h, entrada R$ 15**, inscrição pelo **link da bio**. Em 25/10, confirmadas **vagas limitadas** e **inscrições até sábado, 31/10, às 13h**. Roteiro e legenda atualizados na plataforma; aviso ainda precisa ser aplicado na arte visual. Não anunciar materiais incluídos, nível ou quantidade de vagas sem informação adicional.
+- Textos registrados em `Entregaveis/OPEN_COFFEE_E_OFICINA_CROCHE_COPIES_ATUALIZADAS.md` e cadastrados na plataforma em **Copy e roteiro**, com legendas e hashtags. Divulgação definida pela Giovanna para **25/10 (Open Coffee)** e **27/10 (oficina)**, substituindo as sugestões de 24/10 e 28/10. Na leitura de 23/10, ambos já tinham artes na etapa de aprovação; formato da oficina identificado como carrossel. O comentário de 25/10 pediu incluir vagas limitadas e prazo: roteiro e legenda ajustados, imagem ainda não editada nesta rodada.
+- Instagram conferido diretamente: choux em https://www.instagram.com/margocafesespeciais/reel/DezM8c_FTTE/ e mesinha em https://www.instagram.com/margocafesespeciais/p/DeuDUIDlWFP/ já estão publicados. Choux é mais recente que mesinha. Ambos marcados como **Publicado** na plataforma em 22/10. Grid conferido: choux antes de mesinha entre os publicados; ordem já correta e preservada. Plataforma com 19 cards: 15 publicados, 2 aprovados e 2 em copy.
+
+## Operação e decisões — base de 19/10, com atualizações posteriores acima
 
 - Objetivo: conseguir visitas para o dia a dia pela atmosfera, pessoas, encontros, café e comida. Ainda não há base para priorizar um dia fraco ou um produto por desempenho.
 - Grade aprovada da semana: **20/10 mesinha (carrossel), 22/10 choux com Bruna (Reel), 23/10 date (Reel), 25/10 crianças e pets (estático)**. Textos aprovados no arquivo v05 indicado acima.
 - Guardar para a próxima semana: carrossel Croque Meu Senhor + red velvet + café e possível Reel do café coado. Sem datas fechadas.
-- Próxima captação prevista para **sábado, 24/10**, incluindo os favoritos da Bruna, do Marcos e da Suelen. Confirmar presença para essa nova visita e levantar as escolhas; não confundir com a presença confirmada para a visita anterior.
-- Série de favoritos: um carrossel por pessoa, 2 ou 3 itens preferidos, retrato com pedido e motivos das escolhas. Não foi captada; sem data vigente. As sugestões de 22/10, 29/10 e 05/11 da v03 foram substituídas.
+- Captação que estava prevista para **sábado, 24/10** (realização e novos arquivos ainda não confirmados neste registro), incluindo os favoritos da Bruna, do Marcos e da Suelen. Confirmar presença para essa nova visita e levantar as escolhas; não confundir com a presença confirmada para a visita anterior.
+- Série de favoritos: um carrossel por pessoa, 2 ou 3 itens preferidos, retrato com pedido e motivos das escolhas. Captação ainda não confirmada neste registro; sem data vigente. As sugestões de 22/10, 29/10 e 05/11 da v03 foram substituídas.
 - A sugestão intermediária de seis posts de terça a domingo foi descartada. Frequência de quatro nesta semana; base anterior de três por semana, ajustável ao banco real.
 - Crianças e pets: uma foto estática da dupla; a família autorizou publicar, segundo Giovanna. Não anunciar espaço kids ou recreação inexistentes.
 - Choux: doce francês apresentado pela Bruna, à venda na vitrine. A fotografada é chocolate; também há versões pistache, frutas vermelhas e café. Sabores podem variar no dia. Não afirmar exclusividade regional.
@@ -81,9 +93,10 @@
 
 ## Pendências atuais
 
-- Produzir a composição da personagem na foto da mesinha, mantendo o desenho oficial do mural.
-- Editar os Reels; ouvir e transcrever a fala integral da Bruna antes da legendagem. A inspeção de 19/10 foi visual por fotos e quadros dos vídeos, não uma auditoria de áudio.
-- Selecionar a foto estática de crianças e pets e as imagens finais do carrossel.
+- Composição da personagem na foto da mesinha e arte de crianças/pets já vistas na plataforma em 22/10. Não recriar esses conteúdos como se ainda estivessem sem arte.
+- Mesinha já publicada: comentário anterior sobre sobreposição preservado. Nenhuma correção da arte publicada foi solicitada ou realizada nesta rodada.
+- Choux já publicada. Date e crianças/pets aprovados; publicação ainda não confirmada. Edição integral dos Reels não foi auditada; não afirmar que áudio ou montagem foram revisados.
+- Aguardar aprovação dos textos de Open Coffee e oficina, depois produzir o carrossel de Open Coffee e o estático da oficina.
 - Organizar a captação de sábado e depois fechar a grade da semana seguinte.
 - Opções sem lactose e sem glúten continuam sem confirmação específica neste registro.
 

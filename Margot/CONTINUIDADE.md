@@ -3,7 +3,7 @@
 ## Começar pelo que está vigente
 
 1. Abra `CONTEXTO_ATUAL.md`.
-2. Leia `Entregaveis/Replanejamento-19-outubro/CALENDARIO_E_COPIES_APROVADAS.md`.
+2. Leia `Entregaveis/CALENDARIO_ATUALIZADO_25_A_30_OUTUBRO.md` e `Entregaveis/OPEN_COFFEE_E_OFICINA_CROCHE_COPIES_ATUALIZADAS.md`. As copies de 19/10 permanecem em `Entregaveis/Replanejamento-19-outubro/CALENDARIO_E_COPIES_APROVADAS.md`, com datas posteriores substituídas pelo calendário atualizado.
 3. Consulte `Conversa/continuacao-2026-10.md` para entender as decisões. É uma síntese, não uma transcrição literal de todas as mensagens.
 4. Para conteúdo de Instagram, leia `Sistema-de-conteudo/margo-social-workflow/SKILL.md` e a referência de marca que ele indica.
 

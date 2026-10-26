@@ -1,0 +1,7 @@
+# Elemento de crochê — v01
+
+Gerado em 23/10/2026 com image_gen integrado. Novelo rosa com uma agulha de crochê creme e verde; PNG transparente no estilo dos elementos da marca.
+
+## Prompt
+
+Create one isolated crochet sticker in the EXACT same hand-drawn object illustration family as the supplied calendar sticker reference, style reference only. Subject: one soft round ball of pastel pink yarn #FFADC9, with a SINGLE crochet hook lying diagonally against it, clearly visible hooked tip, cream shaft and sage green #A3AD82 ergonomic handle. Crochet hook, NOT two pointed knitting needles. A short loose yarn tail extends from ball in one relaxed curved loop. Broad bold BLACK organic slightly imperfect outlines, rounded line ends, just a few curved black lines showing yarn strands winding in different directions. Simple charming handmade shapes, cream #F9EBE0, pink and muted sage, opaque flat fills. Compact balanced composition, entire sticker visible with ample margins, high resolution. Keep visual complexity low, readable at small size. NO text, letters, logo, hands, person, face, flowers, hearts, sparkles, additional objects, table or scene. NO realistic wool texture, 3D, gradients, glossy highlights, drop shadow, white sticker border or halo. Genuinely transparent alpha background outside the illustrated yarn and hook, retain opaque color inside. Match line weight and restrained palette of reference. One clean finished transparent PNG asset for Margô café workshop post.
