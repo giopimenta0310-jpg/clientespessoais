@@ -34,3 +34,8 @@ Biblioteca de objetos isolados em PNG transparente, criada no mesmo estilo do mu
 - `elemento-focaccia.png`
 - `elemento-jarra-molho.png`
 - `elemento-cookie.png`
+- `elemento-choux-v01.png`: choux de chocolate ilustrada, produzida em 19/10/2026 e aguardando aprovação.
+
+## Símbolos
+
+- `elemento-coracao-v01.png`: coração rosa com contorno preto, produzido em 19/10/2026 e aguardando aprovação.

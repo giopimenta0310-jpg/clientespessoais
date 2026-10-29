@@ -14,3 +14,15 @@ docx-build/
 *.MP4
 *.heic
 *.HEIC
+
+# Arquivos locais de captação, tratamento e conferência (não versionar)
+tmp/
+Analise-fotografica-24-10/**/*.jpg
+Analise-fotografica-24-10/**/*.png
+Entregaveis/Tratamento-fotos-24-10.zip
+Entregaveis/Tratamento-fotos-24-10/Fotos tratadas/
+Entregaveis/Tratamento-fotos-24-10/Para fazer composição/
+Entregaveis/Tratamento-fotos-24-10/conferencia-*.jpg
+Entregaveis/Halloween-2026/fontes/
+Assets/IMG_3414-convertida.png
+Entregaveis/Anuncio-BC-na-Margo/bruna-com-margozinha-rosto-original-v04.png

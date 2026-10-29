@@ -9,6 +9,9 @@
 
 ## Fontes de verdade
 
+- **Atualização de 27/10 — Crianças e pets:** publicação movida para **domingo, 01/11/2026** na plataforma. No grid, permanece imediatamente depois do Reel “Fantasminha na bebida” na sequência cronológica; aprovação, arte e legenda foram preservadas.
+- **Replanejamento de Halloween de 26/10:** [calendário vigente de 27–31/10](Entregaveis/CALENDARIO_HALLOWEEN_27_A_31_OUTUBRO.md). Open Coffee já foi publicado; oficina permanece em 27/10; os posts antes previstos para 29/10 e 30/10 saem da semana. Foto de Halloween e Reel do fantasminha passam a ser as propostas prioritárias. Red Velvet e série de favoritos ficam preservados para depois.
+
 - **Revisão de datas de 23/10:** [calendário vigente de 25–30/10](Entregaveis/CALENDARIO_ATUALIZADO_25_A_30_OUTUBRO.md): Open Coffee 25/10, oficina 27/10, novo Reel 29/10 (proposta a discutir), crianças/pets 30/10. Datas dos três cards atualizadas na plataforma; aprovações preservadas. Reel reservado como proposta em Copy e roteiro. Essas datas prevalecem sobre as grades anteriores.
 
 - **Estado atualizado em 22/10:** mesinha e choux conferidos no Instagram e marcados como **Publicado** na plataforma. Date e crianças/pets permanecem **Aprovado**, sem evidência de publicação. Open Coffee e oficina de crochê cadastrados em **Copy e roteiro**, pendentes de aprovação, sem arte final. Atualizações confirmadas após recarregar a página. O comentário anterior de sobreposição na segunda imagem da mesinha permanece como histórico; a peça publicada não foi alterada.

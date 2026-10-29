@@ -10,6 +10,8 @@ Esta pasta reúne a construção da personagem oficial da Margô a partir do mur
 - `margo-personagem-dancando-v01.png`: dançando com fones de ouvido.
 - `margo-personagem-sentada-apontando-v01.png`: sentada de pernas cruzadas, apontando para uma área de texto acima.
 - `margo-personagem-sentada-mao-aberta-v02.png`: sentada de pernas cruzadas, apresentando uma área de texto com a palma aberta.
+- `margo-personagem-sentada-apaixonada-v01.png`: primeira proposta da pose sentada com expressão apaixonada; mantida como histórico da geração.
+- `margo-personagem-sentada-apaixonada-v02.png`: versão produzida vigente da pose sentada de pernas cruzadas, com a mão apoiando o rosto e expressão apaixonada; aguardando aprovação da Giovanna.
 - `margo-personagem-apoiada-mesa-v01.png`: apoiada sobre uma linha de mesa, com uma xícara rosa.
 - `margo-personagem-apoiada-mesa-v02.png`: mesma pose finalizada com mesa de madeira inspirada no mobiliário da obra.
 - Referência visual: mural enviado em 22/09/2026.

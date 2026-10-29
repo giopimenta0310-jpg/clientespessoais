@@ -1,5 +1,9 @@
 # Calendário vigente — 25 a 30/10/2026
 
+> **Atualização posterior em 27/10:** “Crianças e pets” foi movido de 30/10 para **domingo, 01/11/2026**, depois do Reel “Fantasminha na bebida” na sequência cronológica do grid. A tabela abaixo fica preservada como histórico da versão anterior.
+
+> **Histórico substituído em 26/10:** para a programação desta semana, usar `CALENDARIO_HALLOWEEN_27_A_31_OUTUBRO.md`. Este arquivo permanece preservado para registrar a versão anterior.
+
 Atualizado em 23/10 a pedido da Giovanna. Substitui as datas anteriores desses posts. Datas salvas na plataforma; não constituem agendamento automático no Instagram.
 
 | Data | Post | Formato | Estado |
