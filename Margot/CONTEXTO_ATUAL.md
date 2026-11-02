@@ -1,13 +1,18 @@
 # Contexto atual — Margô Cafés Especiais
 
-**Atualizado em:** 26/10/2026
+**Atualizado em:** 02/11/2026
 **Fase:** operação e atração de visitas; a inauguração já aconteceu.
-**Abertura confirmada:** 10/10/2026  
-**Instagram:** `@margocafesespeciais`  
-**Endereço:** Rua Presidente de Gaulle, 3331, Joinville  
+**Abertura confirmada:** 10/10/2026
+**Instagram:** `@margocafesespeciais`
+**Endereço:** Rua Presidente de Gaulle, 3331, Joinville
 **Google Maps:** https://share.google/Ucknxjqq5JECkXUXs
 
 ## Fontes de verdade
+
+- **Planejamento vigente — v14, consolidado em 31/10 e sincronizado em 02/11:** [calendário interativo de novembro a janeiro](Entregaveis/Relatorios/Planejamento/MARGO_CALENDARIO_E_IDEIAS.html), [PDF](Entregaveis/Relatorios/Planejamento/CALENDARIOS_NOVEMBRO_A_JANEIRO.pdf), [JSON v14](Entregaveis/Relatorios/Planejamento/PLANEJAMENTO_MARGO_v14.json) e [guia](Entregaveis/Relatorios/README.md). Esta versão prevalece sobre calendários anteriores para novembro em diante. Cada post indica material e pendências, separados da aprovação/publicação. Não houve nova conferência de publicação no Instagram em 02/11.
+- **Materiais de captação:** [inventário e seleção](Entregaveis/Relatorios/Planejamento/Inventario-Drive/GUIA_MATERIAIS_E_PRIORIDADES.html). Drive com 110 arquivos, 93 fotos e 17 vídeos; Marcos ainda não gravado e yoga em outro lugar, conforme Giovanna. Brutos ficam no Drive; no Git entram índices e prévias.
+- **Diagnóstico editorial de outubro:** [resumo em quatro slides](Entregaveis/Relatorios/2026-10/RESUMO_DIAGNOSTICO_OUTUBRO_v01.pdf), [relatório v03](Entregaveis/Relatorios/2026-10/RELATORIO_EDITORIAL_OUTUBRO_v03.md). Foco em o que repetir, ajustar e testar. Coleta com corte em 30/10, não fechamento certificado do mês civil.
+
 
 - **Atualização de 27/10 — Crianças e pets:** publicação movida para **domingo, 01/11/2026** na plataforma. No grid, permanece imediatamente depois do Reel “Fantasminha na bebida” na sequência cronológica; aprovação, arte e legenda foram preservadas.
 - **Replanejamento de Halloween de 26/10:** [calendário vigente de 27–31/10](Entregaveis/CALENDARIO_HALLOWEEN_27_A_31_OUTUBRO.md). Open Coffee já foi publicado; oficina permanece em 27/10; os posts antes previstos para 29/10 e 30/10 saem da semana. Foto de Halloween e Reel do fantasminha passam a ser as propostas prioritárias. Red Velvet e série de favoritos ficam preservados para depois.

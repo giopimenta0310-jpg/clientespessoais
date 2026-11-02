@@ -1,0 +1,7 @@
+# Sticker — fantasia e brigadeiro v02
+
+Revisado em 30/10/2026 com image_gen integrado. Correções solicitadas: GANHE em vez de GANHA; brigadeiro branco com calda de morango. Fundo transparente; v01 preservada como histórico.
+
+## Prompt
+
+Edit this exact existing transparent promotional sticker with ONLY TWO corrections, preserve all remaining artwork, typography style, layout, pink label, black outlines, ghost with round sunglasses, size, and date tab. Correction 1: middle line currently reads 'E GANHA UM'; replace with EXACT 'E GANHE UM'. Final three-line heading must read exactly 'VEM DE FANTASIA' / 'E GANHE UM' / 'BRIGADEIRO!' with the same bold playful black uppercase hand lettering. Correction 2: the sweet at lower right is NOT chocolate brigadeiro: change the ball to an opaque CREAMY WHITE brigadeiro with STRAWBERRY RED SAUCE poured over its top, clearly visible red topping and a couple of thick red drips on the white ball. Keep its sage green pleated paper liner and simple bold black illustration style; remove all dark chocolate brown and chocolate sprinkles. Preserve the two small candy eyes if they fit below red topping. White brigadeiro must remain predominantly white/cream with red sauce on top, not a red ball or strawberry fruit. Preserve exact date text '30/10 a 01/11'. Actual transparent alpha outside complete sticker silhouette, opaque flat colors inside, no background or white rectangular canvas. No shadow, glow, 3D, extra objects, new text or other changes. One finished transparent PNG correction.

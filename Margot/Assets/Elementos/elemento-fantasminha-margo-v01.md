@@ -1,0 +1,7 @@
+# Fantasminha Margô — sticker v01
+
+Criado em 29/10/2026 com image_gen integrado. Referência de estilo: elemento-agenda-v01.png. PNG transparente, traço preto, preenchimento creme e acentos rosa; óculos redondos da Margô. Proposta aguardando avaliação.
+
+## Prompt
+
+Create ONE standalone friendly ghost sticker in the exact Margô café illustrated element style of reference image (calendar is STYLE reference ONLY). A compact floating white/creamy off-white bedsheet ghost, round dome head, gently flowing broad sheet silhouette, three soft wavy lobes at bottom, tiny raised sheet arm on one side waving. Wears unmistakable small perfectly ROUND black sunglasses joined by thin simple bridge, relaxed tiny curved smile beneath glasses. Minimal organic slightly imperfect BLACK bold outlines, sparse internal fold lines, opaque flat cream #F9EBE0 fill, small pastel pink #FFADC9 accent such as two tiny cheek marks. Character feels laid-back adult cool and charming, handmade illustration, not spooky or babyish. Same broad simple shapes, rounded line ends and contour weight as reference sticker. Entire object centered with generous margin, high resolution, real transparent alpha background outside ghost. NO background, floor, projected shadow, aura, halo, white sticker border, glow, gradients, texture, 3D, photorealism, words, letters, logo, sparkles, hearts, props, hats, coffee cup, extra ghosts, human legs, hands or long arms. Clear simple identifiable ghost silhouette, black round sunglasses, friendly wave. PNG transparent asset to place freely on Halloween posts.

@@ -1,0 +1,72 @@
+{
+  "data_base": "2026-10-30",
+  "finalidade": "Referência histórica para o próximo calendário; recomendações, não datas ou pautas aprovadas",
+  "formatos": [
+    {
+      "nome": "Carrossel de convite e serviço",
+      "prioridade": "Priorizar",
+      "base": "Open Coffee, oficina e programação: sinais de compartilhamento e consulta.",
+      "uso": "Quando houver uma oferta, atividade ou programação real para explicar.",
+      "estrutura": "Capa com motivo para ir → experiência/benefício → condições e como participar. Quantidade de lâminas conforme a informação.",
+      "captacao": "Foto da experiência ou atividade; serviço confirmado; pessoa/produto/casa coerentes com a proposta.",
+      "exemplo": "Open Coffee em uso ou próximo encontro confirmado.",
+      "observar": "Compartilhamentos, salvamentos, consultas e procura verificada.",
+      "status": "Recomendação apoiada em sinais observados; formato e tema não isolados."
+    },
+    {
+      "nome": "Carrossel de um cantinho em uso",
+      "prioridade": "Priorizar",
+      "base": "Mesinha da janela: consulta ao perfil e reação positiva à personagem.",
+      "uso": "Para transformar ambiente e acolhimento em uma experiência imaginável.",
+      "estrutura": "Cantinho reconhecível → pedido/detalhes → pessoa vivendo a pausa. Personagem quando fizer sentido.",
+      "captacao": "Plano aberto do lugar; pedido; pessoa em ação; detalhe da vista ou da mesa.",
+      "exemplo": "Uma pausa sozinha, leitura ou encontro em outro cantinho.",
+      "observar": "Visitas ao perfil, salvamentos e comentários de identificação.",
+      "status": "Repetição orientada por um caso; verificar se o sinal reaparece."
+    },
+    {
+      "nome": "Reel de produto em ação",
+      "prioridade": "Repetir e refinar",
+      "base": "Affogato e choux: funções de desejo visual e descoberta com autoria.",
+      "uso": "Quando preparo, transformação, textura ou explicação justifica o vídeo.",
+      "estrutura": "Produto/ação → detalhe concreto de sabor ou feitura → resultado e convite. Fala de quem faz quando acrescentar algo.",
+      "captacao": "Produto pronto; etapa visual do preparo; detalhe de textura; fala curta e específica se necessária.",
+      "exemplo": "Red Velvet sendo finalizado ou uma bebida disponível no dia.",
+      "observar": "Compartilhamentos, perguntas sobre o produto e retenção quando validada.",
+      "status": "Recomendação de execução; não há duração ou áudio vencedor confirmado."
+    },
+    {
+      "nome": "Carrossel de favoritos da equipe",
+      "prioridade": "Pilotar",
+      "base": "Proposta nova derivada dos sinais de produto, pessoas e experiência; ainda não foi testada como série.",
+      "uso": "Para apresentar pratos por meio de uma indicação pessoal.",
+      "estrutura": "Pessoa e favorito → itens escolhidos e motivos reais → pedido na mesa e convite.",
+      "captacao": "Retrato com pedido; detalhes dos itens; motivos ditos pela pessoa; disponibilidade confirmada.",
+      "exemplo": "Favoritos da Bruna, do Marcos ou da Suelen, sem datas ainda.",
+      "observar": "Perguntas sobre os itens, salvamentos e comentários de desejo.",
+      "status": "Piloto recomendado; não apresentar como formato já vencedor."
+    },
+    {
+      "nome": "Foto única de um momento real",
+      "prioridade": "Manter no repertório",
+      "base": "Fachada/movimento na abertura: resposta positiva com contexto excepcional e colaboração.",
+      "uso": "Quando uma cena ou uma mensagem simples basta.",
+      "estrutura": "Foto reconhecível da casa e das pessoas + legenda que dá contexto ou motivo atual para visitar.",
+      "captacao": "Cena espontânea, luz e lugar identificáveis; pessoas quando houver autorização.",
+      "exemplo": "Um encontro acontecendo ou um momento de café no salão.",
+      "observar": "Visitas ao perfil e comentários sobre conhecer/voltar.",
+      "status": "Preservar formato; não extrapolar o desempenho da inauguração."
+    },
+    {
+      "nome": "Reel de experiência a dois",
+      "prioridade": "Reformular e testar",
+      "base": "Date teve resposta menor na amostra; não repetir a mesma solução sem ajuste.",
+      "uso": "Para convidar uma companhia com uma situação específica, não apenas uma montagem de ambiente.",
+      "estrutura": "Ação reconhecível → pedido compartilhado/reação → convite coerente.",
+      "captacao": "Escolha do pedido; um provando do outro; reação real; detalhes da mesa.",
+      "exemplo": "A negociação da última garfada ou um pedido escolhido em dupla.",
+      "observar": "Compartilhamentos e retenção inicial, se disponível, após tempo equivalente.",
+      "status": "Hipótese de melhoria; assunto não está validado nem descartado."
+    }
+  ]
+}

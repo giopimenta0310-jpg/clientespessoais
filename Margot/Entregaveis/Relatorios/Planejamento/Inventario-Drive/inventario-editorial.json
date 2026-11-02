@@ -1,0 +1,271 @@
+{
+  "date": "2026-10-31",
+  "root": "https://drive.google.com/drive/folders/1ldW88dHdEDBjWQTYhDzUp_K5Twk5UG-U",
+  "counts": {
+    "folders": 8,
+    "images": 93,
+    "videos": 17,
+    "files": 110,
+    "loose_images": 31
+  },
+  "groups": [
+    {
+      "topic": "Favoritos da Bruna",
+      "folder": "Bruna - Favoritos",
+      "state": "Base para produzir",
+      "count": "12 fotos + 1 vídeo",
+      "use": "Carrossel dos pedidos e Reel com a apresentação.",
+      "files": "IMG_3161–3172.HEIC; IMG_3160.MOV (31,6 s).",
+      "selection": "IMG_3163 ou 3167 para composição; 3168/3169 bebida; 3170/3171 e 3172 para detalhes.",
+      "pending": "Ouvir a fala para validar escolhas, motivos e nomes. Não há retrato posado nas fotos desta pasta; capa pode usar os pedidos ou um frame aproveitável do vídeo.",
+      "contact": "contatos/Bruna_-_Favoritos_1.jpg",
+      "thumb": "previas/IMG_3167.jpg"
+    },
+    {
+      "topic": "Croque Meu Senhor",
+      "folder": "Croque Meu Senhor",
+      "state": "Pode ir para arte",
+      "count": "11 fotos",
+      "use": "Estático de 07/11 e detalhes para outros conteúdos.",
+      "files": "IMG_3301–3311.HEIC.",
+      "selection": "IMG_3307: prato e fachada; 3308/3309: recheio e gratinado; 3311: vista de cima.",
+      "pending": "Selecionar, tratar e escrever. Usar novas imagens desta pasta para não depender só do acervo antigo.",
+      "contact": "contatos/Croque_Meu_Senhor_1.jpg",
+      "thumb": "previas/IMG_3308.jpg"
+    },
+    {
+      "topic": "Preparo do mocha",
+      "folder": "Reel do Mocha",
+      "state": "Pode ir para edição",
+      "count": "7 vídeos · 160,3 s",
+      "use": "Reel de 12/11: preparo → finalização → bebida pronta.",
+      "files": "IMG_3294–3300.MOV.",
+      "selection": "3294 base na xícara; 3295 moagem; 3296 extração; 3297 mistura; 3298 vaporização; 3299 desenho; 3300 finalização.",
+      "pending": "Cortar esperas, escolher abertura e conferir áudio/cor na edição. Os quadros mostram a sequência completa; não é uma revisão integral de som.",
+      "contact": "quadros/IMG_3299.MOV.jpg",
+      "thumb": "quadros/IMG_3299.MOV.jpg"
+    },
+    {
+      "topic": "Favoritos da Suelen",
+      "folder": "Suelen - Favoritos",
+      "state": "Base para produzir",
+      "count": "11 fotos + 2 vídeos",
+      "use": "Carrossel de 17/11 e base para o Reel de dezembro.",
+      "files": "IMG_3173–3178 e 3180–3184.HEIC; IMG_3158/3159.MOV.",
+      "selection": "3181: conjunto; 3173: bolo amarelo com cobertura; 3177/3178: salgado com tomates; 3183/3184: café.",
+      "pending": "Ouvir 3158 (17,2 s). 3159 (8,4 s) mostra pessoa diferente de 3158 e enquadramento parecido com o vídeo da Bruna: confirmar a identificação, sem mover arquivos. Nomes dos pedidos dependem da fala/cardápio.",
+      "contact": "contatos/Suelen_-_Favoritos_1.jpg",
+      "thumb": "previas/IMG_3181.jpg"
+    },
+    {
+      "topic": "Mesa para grupos",
+      "folder": "Mesa do Grupo",
+      "state": "Pode ir para arte",
+      "count": "9 fotos",
+      "use": "Carrossel de 28/11, na linha da mesa alta.",
+      "files": "IMG_3313–3321.HEIC.",
+      "selection": "3313: mesa vazia e mural; 3315/3316: grupo e ambiente; 3318/3320: aproximação.",
+      "pending": "Escolher composição. São variações da mesma cena, não nove momentos diferentes. Não precisa fotografar a mesa novamente.",
+      "contact": "contatos/Mesa_do_Grupo_1.jpg",
+      "thumb": "previas/IMG_3315.jpg"
+    },
+    {
+      "topic": "Choux por dentro",
+      "folder": "Choux - Fotos",
+      "state": "Pode virar carrossel",
+      "count": "12 fotos",
+      "use": "Choux aberta: recheios visíveis em fotos. Alternativa de comida sem gravar.",
+      "files": "IMG_3282–3293.HEIC.",
+      "selection": "3284: recheio rosa; 3288/3289: recheio claro; 3291/3293: outro detalhe do interior.",
+      "pending": "Confirmar sabores. Há fotos do interior, mas nenhum vídeo de corte nesta pasta. Um Reel da faca cortando ainda exige gravação.",
+      "contact": "contatos/Choux_-_Fotos_1.jpg",
+      "thumb": "previas/IMG_3284.jpg"
+    },
+    {
+      "topic": "Caramelo salgado",
+      "folder": "Caramelo Salgado",
+      "state": "Pode ir para arte",
+      "count": "7 fotos",
+      "use": "Foto única de bebida ou carrossel de detalhes, como reserva para o feed.",
+      "files": "IMG_3322–3328.HEIC.",
+      "selection": "3324/3326: bebida inteira; 3327/3328: detalhe da cobertura.",
+      "pending": "Confirmar nome completo no cardápio. A pasta mostra bebida pronta; não contém vídeo de preparo.",
+      "contact": "contatos/Caramelo_Salgado_1.jpg",
+      "thumb": "previas/IMG_3326.jpg"
+    },
+    {
+      "topic": "Massa do red velvet",
+      "folder": "Criação do Red Velvet",
+      "state": "Reel de bastidor possível",
+      "count": "7 vídeos · 156,4 s",
+      "use": "Bastidor curto da massa. Pode ocupar uma pauta de cozinha se ajustarmos o conceito.",
+      "files": "A001_10241532_C025 até A001_10241541_C031.MOV.",
+      "selection": "C025: batedeira; C027/C028/C030: mistura; C031: massa nas formas.",
+      "pending": "Os quadros mostram a massa, não bolo assado/recheado, corte ou serviço. Pode editar só esta etapa; para “da cozinha à mesa” completo, falta finalizar com bolo pronto. Os vídeos são verticais em 4K.",
+      "contact": "quadros/A001_10241541_C031.MOV.jpg",
+      "thumb": "quadros/A001_10241541_C031.MOV.jpg"
+    },
+    {
+      "topic": "Produtos avulsos e mural",
+      "folder": "Avulsos",
+      "state": "Reservas aproveitáveis",
+      "count": "31 fotos",
+      "use": "Mais comida no feed sem depender da agenda de gravação.",
+      "files": "IMG_3111–3138 (sem 3139/3140) e IMG_3141–3143.HEIC.",
+      "selection": "3121: bolo escuro com cobertura; 3126: bolo amarelo com chocolate; 3133: pães redondos; 3137: pães trançados; 3142: gato do mural.",
+      "pending": "Confirmar nomes e composição. 3127/3128 mostram sobremesa em recipiente. Não nomear produtos por aparência; evitar fotos com fita azul/apoios da sessão.",
+      "contact": "contatos/Avulsos_1.jpg",
+      "thumb": "previas/IMG_3133.jpg"
+    }
+  ],
+  "calendar_checks": [
+    {
+      "date": "01/11",
+      "post": "Pets e crianças",
+      "material_status": "Fora desta pasta",
+      "next_step": "Foto autorizada citada no histórico; localizar no acervo anterior."
+    },
+    {
+      "date": "03/11",
+      "post": "Reel de yoga",
+      "material_status": "Existe em outro lugar",
+      "next_step": "Giovanna confirmou. Trazer o arquivo/link para edição."
+    },
+    {
+      "date": "05/11",
+      "post": "Favoritos da Bruna",
+      "material_status": "Base localizada",
+      "next_step": "Fotos + vídeo. Validar fala/nomes e produzir a peça."
+    },
+    {
+      "date": "07/11",
+      "post": "Croque estático",
+      "material_status": "Fotos localizadas",
+      "next_step": "Usar IMG_3307, 3308/3309 ou 3311."
+    },
+    {
+      "date": "10/11",
+      "post": "Reel do coado",
+      "material_status": "Fora desta pasta",
+      "next_step": "Vídeo citado no acervo 17-10; não confundir com moagem/espresso do mocha."
+    },
+    {
+      "date": "12/11",
+      "post": "Mocha",
+      "material_status": "Vídeos localizados",
+      "next_step": "Sete clipes com preparo e bebida pronta. Priorizar edição."
+    },
+    {
+      "date": "14/11",
+      "post": "Da cozinha à mesa",
+      "material_status": "Conceito completo sem material",
+      "next_step": "Há massa do red velvet, mas não finalização de salgado/serviço. Opção: ajustar para bastidor da massa, sem trocar a pauta automaticamente."
+    },
+    {
+      "date": "17/11",
+      "post": "Favoritos da Suelen",
+      "material_status": "Base localizada",
+      "next_step": "Fotos e vídeos; checar identificação de 3159 e ouvir 3158."
+    },
+    {
+      "date": "19/11",
+      "post": "Red velvet estático",
+      "material_status": "Fora desta pasta",
+      "next_step": "A pasta do red velvet tem apenas vídeos de massa. Localizar a fatia do acervo 17-10 ou adaptar a outra comida disponível."
+    },
+    {
+      "date": "21/11",
+      "post": "Open Coffee em uso",
+      "material_status": "Cenas não localizadas",
+      "next_step": "Falta pessoa trabalhando e café chegando. Fotos de bebida não mostram a experiência."
+    },
+    {
+      "date": "24/11",
+      "post": "Croque + red velvet + café",
+      "material_status": "Material parcial",
+      "next_step": "Croque novo localizado; composição e fatia dependem do acervo antigo. Pode adaptar a combinação com material real, após decidir."
+    },
+    {
+      "date": "26/11",
+      "post": "Favoritos do Marcos",
+      "material_status": "Ainda não gravado",
+      "next_step": "Confirmado pela Giovanna nesta conversa. Precisa captar fala e fotos/pedidos."
+    },
+    {
+      "date": "28/11",
+      "post": "Mesa para grupos",
+      "material_status": "Fotos localizadas",
+      "next_step": "Mesa vazia e grupo na mesma mesa; base suficiente para montar o carrossel."
+    },
+    {
+      "date": "30/11",
+      "post": "Amigo secreto",
+      "material_status": "Depende das regras",
+      "next_step": "Foto do grupo pode apoiar; definir quantidade de pessoas e benefício antes de finalizar a comunicação."
+    }
+  ],
+  "capture_and_confirmation": [
+    {
+      "type": "Captar de fato",
+      "topic": "Favoritos do Marcos",
+      "action": "Fala, pedidos escolhidos, detalhes e retrato, se desejado. Ainda não foi gravado."
+    },
+    {
+      "type": "Captar se mantivermos a ideia",
+      "topic": "Open Coffee em uso",
+      "action": "Pessoa trabalhando, pedido chegando e contexto da casa."
+    },
+    {
+      "type": "Captar se mantivermos a ideia",
+      "topic": "Troca de pedidos / mini-vlog de domingo",
+      "action": "Troca, reações, chegada e sequência com horários reais. Não localizados nesta pasta."
+    },
+    {
+      "type": "Captar se quisermos vídeo",
+      "topic": "Corte da choux",
+      "action": "As fotos abertas já existem; o gesto de cortar não foi localizado em vídeo."
+    },
+    {
+      "type": "Localizar em outro acervo",
+      "topic": "Yoga, pets, coado, fatia de red velvet e composição",
+      "action": "Yoga confirmado pela Giovanna como existente fora da pasta; demais vêm do histórico 17-10. Não tratar como ausência definitiva."
+    },
+    {
+      "type": "Confirmar, sem nova captação obrigatória",
+      "topic": "Falas, nomes e regras",
+      "action": "Ouvir favoritas; confirmar produtos avulsos/sabores da choux/nome do caramelo; definir regras do amigo secreto e aniversário."
+    }
+  ],
+  "priorities": [
+    {
+      "order": "Primeiro",
+      "topic": "Bruna + Croque + mocha",
+      "reason": "São os primeiros posts com material nesta pasta e já têm datas em novembro."
+    },
+    {
+      "order": "Depois",
+      "topic": "Suelen + mesa para grupos",
+      "reason": "O material existe; preparar a edição/arte sem pedir nova sessão por padrão."
+    },
+    {
+      "order": "Reservas de comida",
+      "topic": "Choux abertas + avulsos",
+      "reason": "Usar para substituir pautas sem captação, após confirmar nomes e combinação."
+    },
+    {
+      "order": "Reserva de bebida",
+      "topic": "Caramelo salgado",
+      "reason": "Há fotos prontas; serve para equilibrar comida e café."
+    },
+    {
+      "order": "Adaptar em vez de regravar",
+      "topic": "Bastidor da massa do red velvet",
+      "reason": "Pode render um Reel desta etapa; não chamar de produção completa até o serviço."
+    }
+  ],
+  "method": "Listagem integral da raiz e oito subpastas. Fotos conferidas em folhas de contato; seis quadros distribuídos em cada um dos 17 vídeos, com metadados de duração e resolução. Áudio não ouvido/transcrito e vídeos não reproduzidos integralmente; a triagem não certifica áudio, foco contínuo ou edição pronta. Não foi conferido o Instagram nem o acervo 17-10 nesta rodada. Data de postagem não alterada por este inventário.",
+  "user_confirmations": {
+    "marcos": "Não gravado ainda, conforme Giovanna.",
+    "yoga": "Reel em outro lugar, conforme Giovanna."
+  }
+}

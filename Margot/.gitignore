@@ -26,3 +26,8 @@ Entregaveis/Tratamento-fotos-24-10/conferencia-*.jpg
 Entregaveis/Halloween-2026/fontes/
 Assets/IMG_3414-convertida.png
 Entregaveis/Anuncio-BC-na-Margo/bruna-com-margozinha-rosto-original-v04.png
+
+# Originais locais da triagem; o Git guarda apenas inventário e prévias
+Entregaveis/Relatorios/Planejamento/Inventario-Drive/brutos/
+Entregaveis/Relatorios/Planejamento/Inventario-Drive/videos/
+__pycache__/

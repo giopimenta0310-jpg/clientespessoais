@@ -3,7 +3,7 @@
 ## Começar pelo que está vigente
 
 1. Abra `CONTEXTO_ATUAL.md`.
-2. Leia `Entregaveis/CALENDARIO_ATUALIZADO_25_A_30_OUTUBRO.md` e `Entregaveis/OPEN_COFFEE_E_OFICINA_CROCHE_COPIES_ATUALIZADAS.md`. As copies de 19/10 permanecem em `Entregaveis/Replanejamento-19-outubro/CALENDARIO_E_COPIES_APROVADAS.md`, com datas posteriores substituídas pelo calendário atualizado.
+2. Para novembro em diante, abra `Entregaveis/Relatorios/README.md` e o calendário v14 em `Entregaveis/Relatorios/Planejamento/MARGO_CALENDARIO_E_IDEIAS.html`. Para outubro, leia `Entregaveis/CALENDARIO_ATUALIZADO_25_A_30_OUTUBRO.md` e `Entregaveis/OPEN_COFFEE_E_OFICINA_CROCHE_COPIES_ATUALIZADAS.md`. As copies de 19/10 permanecem em `Entregaveis/Replanejamento-19-outubro/CALENDARIO_E_COPIES_APROVADAS.md`, com datas posteriores substituídas pelo calendário atualizado.
 3. Consulte `Conversa/continuacao-2026-10.md` para entender as decisões. É uma síntese, não uma transcrição literal de todas as mensagens.
 4. Para conteúdo de Instagram, leia `Sistema-de-conteudo/margo-social-workflow/SKILL.md` e a referência de marca que ele indica.
 
@@ -39,7 +39,7 @@ Arquivos brutos de câmera e exports grandes não entram no Git. Para editar o m
 - **Exports em `Motion/whatsapp-inauguracao/out/`**, caso queira reutilizar os arquivos renderizados prontos em vez de renderizar novamente. Os fontes e assets necessários ficam no Git.
 - Novas captações realizadas depois deste registro.
 
-As folhas de contato são prévias, não substituem os originais em resolução completa. Nenhuma pasta de Drive para esses brutos foi confirmada. O caminho de Downloads é apenas uma referência local; escolha o novo caminho no computador de destino.
+As folhas de contato são prévias, não substituem os originais em resolução completa. Para a captação mais recente, o Drive confirmado é https://drive.google.com/drive/folders/1ldW88dHdEDBjWQTYhDzUp_K5Twk5UG-U (110 arquivos, inventariados em 31/10); isso não confirma que contenha os brutos antigos de 17-10. O caminho de Downloads é apenas uma referência local; escolha o novo caminho no computador de destino.
 
 ## Motion / Remotion
 
@@ -68,3 +68,9 @@ Execute a partir de `Margot/`. O script gera DOCX, HTML, Markdown e JSON. O PDF 
 ## Limites do registro
 
 Não presumir que uma arte foi publicada porque a copy foi aprovada. Não tratar propostas antigas como datas vigentes. Não reconstruir a personagem a partir das explorações vinho; usar a versão do mural. Ao retomar, atualizar este registro e o contexto com decisões novas.
+
+## Planejamento e material · atualização de 02/11
+
+O Git agora inclui diagnóstico de outubro, calendário vigente v14 de novembro a janeiro, fontes editáveis, banco de ideias e inventário visual. Comece por `Entregaveis/Relatorios/README.md`. Versões anteriores são histórico.
+
+O HTML mantém edições no navegador: exporte o JSON para transportar essas edições; elas não são sincronizadas pelo Git automaticamente. Os campos de material mostram arquivos e próximos passos sem indicar aprovação/publicação. Não gravado: Marcos. Fora da pasta: yoga. Faltas de material antigo precisam ser localizadas, não presumidas como necessidade de regravar.

@@ -1,0 +1,406 @@
+{
+  "status": "coleta_preliminar_nao_validada_para_relatorio_final",
+  "data_coleta_cliente": "2026-10-30",
+  "fonte": "Instagram Insights via navegador TinyFish",
+  "conta": "margocafesespeciais",
+  "periodo_observado": "Últimos 30 dias; limites exatos ainda não verificados na interface",
+  "pendencias": [
+    "Confirmar datas exatas do filtro; não equivale automaticamente ao mês civil.",
+    "Validar rótulo de 17.089 (viewers/alcance) na interface.",
+    "1.399 foi observado como total de seguidores: não usar como crescimento líquido.",
+    "Percentuais 58,2/21,1/20,7 são distribuição por formato, não demografia.",
+    "Seguidores/não seguidores não separa orgânico/pago.",
+    "Datas, formatos e identificação das linhas de conteúdo ainda incompletos e às vezes contraditórios; não usar ranking para concluir estratégia.",
+    "Coletar compartilhamentos, salvamentos e retenção por publicação.",
+    "Completar fechamento após 31/10."
+  ],
+  "dados_retornados_automatizacao": {
+    "ui_route": "Professional dashboard sidebar -> Insights (expand) -> Account (view) / Content (view)",
+    "limitations": [
+      "Date filter only supports preset 'Last 30 days' — custom Oct 1-30 range not available; the 30-day period covers October 2026.",
+      "Only top 3 posts from Content page showed detailed engagement numbers (accounts engaged) in the grid view. For remaining posts, only views (when available) and type were visible.",
+      "Per-post detailed metrics (likes, comments, shares, saves, plays) were NOT visible in the content grid — these would require clicking 'See insights' on each individual post card, which would significantly increase time cost.",
+      "Post titles/captions were only partially visible on image overlays for the top 6 cards. For ranks 7-21, caption text was not legible in the grid view.",
+      "Post permalinks are not displayed in the Content Insights page.",
+      "Stories have no views count in the grid (shown as null) as views metric is only applicable to Reels and some Videos.",
+      "Total 21 items were visible in the content listing.",
+      "paid_vs_organic split is not directly shown in Account Insights.",
+      "Follower demographic breakdown by content type was only partially available (stories 58.2% non-follower, posts 21.1% non-follower, reels 20.7% non-follower)."
+    ],
+    "collected_at": "2026-10-30T00:00:00Z",
+    "content_rows": [
+      {
+        "date": "Oct 10",
+        "rank": 1,
+        "type": "Photo",
+        "likes": null,
+        "plays": null,
+        "saves": null,
+        "views": "13.2K",
+        "shares": null,
+        "comments": null,
+        "post_title": "UM SÁBADO PARA VIVER A MARGO PELA PRIMEIRA VEZ",
+        "accounts_engaged": "425"
+      },
+      {
+        "date": null,
+        "rank": 2,
+        "type": "Photo",
+        "likes": null,
+        "plays": null,
+        "saves": null,
+        "views": "10.6K",
+        "shares": null,
+        "comments": null,
+        "post_title": "EI JOINVILLE É HOJE!!",
+        "accounts_engaged": "291"
+      },
+      {
+        "date": null,
+        "rank": 3,
+        "type": "Video",
+        "likes": null,
+        "plays": null,
+        "saves": null,
+        "views": "9.5K",
+        "shares": null,
+        "comments": null,
+        "post_title": "MARGO",
+        "accounts_engaged": "241"
+      },
+      {
+        "date": null,
+        "rank": 4,
+        "type": "Video",
+        "likes": null,
+        "plays": null,
+        "saves": null,
+        "views": null,
+        "shares": null,
+        "comments": null,
+        "post_title": "OUTUBRO,",
+        "accounts_engaged": "193"
+      },
+      {
+        "date": null,
+        "rank": 5,
+        "type": "Photo",
+        "likes": null,
+        "plays": null,
+        "saves": null,
+        "views": null,
+        "shares": null,
+        "comments": null,
+        "post_title": "QUE COMEÇO LINDO",
+        "accounts_engaged": null
+      },
+      {
+        "date": null,
+        "rank": 6,
+        "type": "Video",
+        "likes": null,
+        "plays": null,
+        "saves": null,
+        "views": null,
+        "shares": null,
+        "comments": null,
+        "post_title": "essa mesa combina com uma pausa sua",
+        "accounts_engaged": null
+      },
+      {
+        "date": null,
+        "rank": 7,
+        "type": "Carousel",
+        "likes": null,
+        "plays": null,
+        "saves": null,
+        "views": "4.4K",
+        "shares": null,
+        "comments": null,
+        "post_title": null,
+        "accounts_engaged": null
+      },
+      {
+        "date": null,
+        "rank": 8,
+        "type": "Carousel",
+        "likes": null,
+        "plays": null,
+        "saves": null,
+        "views": "4.1K",
+        "shares": null,
+        "comments": null,
+        "post_title": null,
+        "accounts_engaged": null
+      },
+      {
+        "date": null,
+        "rank": 9,
+        "type": "Carousel",
+        "likes": null,
+        "plays": null,
+        "saves": null,
+        "views": "2.5K",
+        "shares": null,
+        "comments": null,
+        "post_title": null,
+        "accounts_engaged": null
+      },
+      {
+        "date": null,
+        "rank": 10,
+        "type": "Reels",
+        "likes": null,
+        "plays": null,
+        "saves": null,
+        "views": null,
+        "shares": null,
+        "comments": null,
+        "post_title": null,
+        "accounts_engaged": null
+      },
+      {
+        "date": null,
+        "rank": 11,
+        "type": "Reels",
+        "likes": null,
+        "plays": null,
+        "saves": null,
+        "views": null,
+        "shares": null,
+        "comments": null,
+        "post_title": null,
+        "accounts_engaged": null
+      },
+      {
+        "date": null,
+        "rank": 12,
+        "type": "Carousel",
+        "likes": null,
+        "plays": null,
+        "saves": null,
+        "views": "2K",
+        "shares": null,
+        "comments": null,
+        "post_title": null,
+        "accounts_engaged": null
+      },
+      {
+        "date": null,
+        "rank": 13,
+        "type": "Reels",
+        "likes": null,
+        "plays": null,
+        "saves": null,
+        "views": null,
+        "shares": null,
+        "comments": null,
+        "post_title": null,
+        "accounts_engaged": null
+      },
+      {
+        "date": null,
+        "rank": 14,
+        "type": "Reels",
+        "likes": null,
+        "plays": null,
+        "saves": null,
+        "views": null,
+        "shares": null,
+        "comments": null,
+        "post_title": null,
+        "accounts_engaged": null
+      },
+      {
+        "date": null,
+        "rank": 15,
+        "type": "Reels",
+        "likes": null,
+        "plays": null,
+        "saves": null,
+        "views": null,
+        "shares": null,
+        "comments": null,
+        "post_title": null,
+        "accounts_engaged": null
+      },
+      {
+        "date": null,
+        "rank": 16,
+        "type": "Reels",
+        "likes": null,
+        "plays": null,
+        "saves": null,
+        "views": null,
+        "shares": null,
+        "comments": null,
+        "post_title": null,
+        "accounts_engaged": null
+      },
+      {
+        "date": null,
+        "rank": 17,
+        "type": "Reels",
+        "likes": null,
+        "plays": null,
+        "saves": null,
+        "views": null,
+        "shares": null,
+        "comments": null,
+        "post_title": null,
+        "accounts_engaged": null
+      },
+      {
+        "date": null,
+        "rank": 18,
+        "type": "Story",
+        "likes": null,
+        "plays": null,
+        "saves": null,
+        "views": null,
+        "shares": null,
+        "comments": null,
+        "post_title": null,
+        "accounts_engaged": null
+      },
+      {
+        "date": null,
+        "rank": 19,
+        "type": "Photo",
+        "likes": null,
+        "plays": null,
+        "saves": null,
+        "views": "1.2K",
+        "shares": null,
+        "comments": null,
+        "post_title": null,
+        "accounts_engaged": null
+      },
+      {
+        "date": null,
+        "rank": 20,
+        "type": "Story",
+        "likes": null,
+        "plays": null,
+        "saves": null,
+        "views": null,
+        "shares": null,
+        "comments": null,
+        "post_title": null,
+        "accounts_engaged": null
+      },
+      {
+        "date": null,
+        "rank": 21,
+        "type": "Photo",
+        "likes": null,
+        "plays": null,
+        "saves": null,
+        "views": "778",
+        "shares": null,
+        "comments": null,
+        "post_title": null,
+        "accounts_engaged": null
+      }
+    ],
+    "pages_visited": [
+      "https://www.instagram.com/ad_tools/",
+      "https://www.instagram.com/accounts/insights/content/?media_type=all&metric=views&sort_by=highest&timeframe=30&view_type=card"
+    ],
+    "account_handle": "margocafesespeciais",
+    "selected_range": "Last 30 days (covers Oct 1-30, 2026; Instagram does not provide custom date ranges, only preset periods)",
+    "account_metrics": {
+      "views": {
+        "total": "137,943",
+        "unique_viewers": "17,089",
+        "by_follower_status": {
+          "followers_pct": "51.6%",
+          "non_followers_pct": "48.4%"
+        },
+        "top_content_by_views": [
+          {
+            "date": "Oct 7",
+            "post": "UM SÁBADO PARA VIVER A MARGO PELA PRIMEIRA VEZ",
+            "views": "13.2K"
+          },
+          {
+            "date": "Oct 10",
+            "post": "EI JOINVILLE É HOJE!!",
+            "views": "10.6K"
+          },
+          {
+            "date": "Oct 10",
+            "post": "MARGO",
+            "views": "9.5K"
+          },
+          {
+            "date": "Oct 3",
+            "post": "QUE COMEÇO LINDO",
+            "views": null
+          },
+          {
+            "date": "Oct 25",
+            "post": null,
+            "views": "4.4K"
+          }
+        ],
+        "content_type_breakdown": {
+          "posts_pct": "21.1%",
+          "reels_pct": "20.7%",
+          "stories_pct": "58.2%"
+        }
+      },
+      "followers": {
+        "total_change": "+1,399",
+        "percent_non_followers": "48.4%"
+      },
+      "interactions": {
+        "total": "5,941",
+        "by_content_type": {
+          "posts_pct": "49.5%",
+          "reels_pct": "21.9%",
+          "stories_pct": "28.6%"
+        },
+        "accounts_engaged": "1,406",
+        "by_follower_status": {
+          "followers_pct": "75.7%",
+          "non_followers_pct": "24.3%"
+        },
+        "top_content_by_interactions": [
+          {
+            "date": "Oct 7",
+            "post": "UM SÁBADO PARA VIVER A MARGO PELA PRIMEIRA VEZ",
+            "interactions": "604"
+          },
+          {
+            "date": "Oct 10",
+            "post": "MARGO",
+            "interactions": "336"
+          },
+          {
+            "date": "Oct 10",
+            "post": "EI JOINVILLE É HOJE!!",
+            "interactions": "319"
+          },
+          {
+            "date": "Oct 12",
+            "post": null,
+            "interactions": "245"
+          },
+          {
+            "date": "Oct 25",
+            "post": null,
+            "interactions": "244"
+          }
+        ]
+      },
+      "paid_vs_organic": "Not explicitly shown in Account Insights; organic analysis available via follower/non-follower splits and content type breakdowns",
+      "profile_activity": {
+        "profile_visits": "3,804",
+        "external_link_taps": "219",
+        "business_address_taps": "165",
+        "total_profile_activity": "4,188"
+      }
+    }
+  }
+}

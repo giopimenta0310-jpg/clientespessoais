@@ -1,0 +1,251 @@
+{
+  "version": 3,
+  "updated": "2026-10-31",
+  "posts": [
+    {
+      "date": "2026-11-01",
+      "title": "Pets e crianças",
+      "format": "Estático",
+      "status": "Definido",
+      "notes": "Foto única de pet e criança; uso da imagem autorizado pela família, conforme confirmado anteriormente.",
+      "source": "Conversa com Giovanna · 31/10"
+    },
+    {
+      "date": "2026-11-03",
+      "title": "oficina de yoga",
+      "format": "Reel",
+      "status": "Definido",
+      "notes": "Conteúdo informado; revisar edição e copy. Não presumir que esta seja a data da oficina.",
+      "source": "Conversa com Giovanna · 31/10"
+    },
+    {
+      "date": "2026-11-05",
+      "title": "Favoritos da Bruna",
+      "format": "Carrossel",
+      "status": "Proposta",
+      "notes": "Apresentar escolhas e motivos; confirmar itens e disponibilidade.",
+      "source": "Conversa com Giovanna · 31/10"
+    },
+    {
+      "date": "2026-11-07",
+      "title": "Croque em detalhe",
+      "format": "Estático",
+      "status": "Proposta · checar uso",
+      "notes": "Recuperado do histórico: confirmar publicação anterior e disponibilidade antes de usar.",
+      "source": "Histórico · reserva de 22/10"
+    },
+    {
+      "date": "2026-11-10",
+      "title": "Favoritos do Marcos",
+      "format": "Reel",
+      "status": "Proposta",
+      "notes": "Usar fala e ação; complementar o carrossel sem repetir tudo.",
+      "source": "Conversa com Giovanna · 31/10"
+    },
+    {
+      "date": "2026-11-12",
+      "title": "Favoritos da Suelen",
+      "format": "Carrossel",
+      "status": "Proposta",
+      "notes": "Apresentar escolhas e motivos; confirmar itens e disponibilidade.",
+      "source": "Conversa com Giovanna · 31/10"
+    },
+    {
+      "date": "2026-11-14",
+      "title": "Amigo secreto na casa",
+      "format": "Carrossel",
+      "status": "Regras pendentes",
+      "notes": "Ideia da Bruna. Sugestão de data; depende das regras comerciais aprovadas. Se não houver definição, substituir a pauta.",
+      "source": "Bruna · mensagem de 31/10"
+    },
+    {
+      "date": "2026-11-17",
+      "title": "Favoritos da Bruna",
+      "format": "Reel",
+      "status": "Proposta",
+      "notes": "Trazer a indicação pessoal e mostrar o pedido.",
+      "source": "Conversa com Giovanna · 31/10"
+    },
+    {
+      "date": "2026-11-19",
+      "title": "Antes do primeiro gole",
+      "format": "Reel",
+      "status": "Proposta · checar uso",
+      "notes": "Recuperado do histórico. Conferir publicação anterior e edição do arquivo do coado.",
+      "source": "Histórico · reserva de 22/10"
+    },
+    {
+      "date": "2026-11-21",
+      "title": "Open Coffee em uso",
+      "format": "Reel",
+      "status": "Captação pendente",
+      "notes": "Proposta do histórico/diagnóstico. Captar uma tarde real; se não houver material, manter em aberto.",
+      "source": "Histórico e diagnóstico de outubro"
+    },
+    {
+      "date": "2026-11-24",
+      "title": "Favoritos do Marcos",
+      "format": "Carrossel",
+      "status": "Proposta",
+      "notes": "Detalhar os itens e os motivos da escolha.",
+      "source": "Conversa com Giovanna · 31/10"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "Favoritos da Suelen",
+      "format": "Reel",
+      "status": "Proposta",
+      "notes": "Trazer a indicação pessoal e mostrar o pedido.",
+      "source": "Conversa com Giovanna · 31/10"
+    },
+    {
+      "date": "2026-11-28",
+      "title": "A definir",
+      "format": "A definir",
+      "status": "Em aberto",
+      "notes": "Definir pauta e material antes de confirmar a publicação.",
+      "source": "Conversa com Giovanna · 31/10"
+    }
+  ],
+  "ideas": [
+    {
+      "id": "amigo",
+      "title": "Amigo secreto na casa",
+      "month": "2026-11",
+      "format": "Carrossel",
+      "status": "Regras pendentes",
+      "origin": "Bruna · mensagem enviada em 31/10",
+      "angle": "Antecipar os encontros de fim de ano. Retomar em dezembro se fizer sentido.",
+      "capture": "Grupo reunido, mesa e café para compartilhar; preparar as condições aprovadas.",
+      "pending": "Definir X pessoas, quantidade/tamanho da prensa, condições de consumo, validade e operação. Não anunciar café grátis antes da aprovação.",
+      "source": "Mensagem anexada nesta conversa",
+      "repeat": "Novembro e dezembro; rever a ação a cada fim de ano.",
+      "months": [
+        "2026-11",
+        "2026-12"
+      ]
+    },
+    {
+      "id": "aniversario",
+      "title": "Aniversário com a turma",
+      "month": "2026-12",
+      "format": "Carrossel",
+      "status": "Regras pendentes",
+      "origin": "Bruna · mensagem enviada em 31/10",
+      "angle": "Um motivo recorrente para reunir amigos na casa. Mês sugerido para desenvolver, sem data de publicação.",
+      "capture": "Mesa de celebração, bebida, doce e salgado; condições aprovadas.",
+      "pending": "Definir X acompanhantes, itens e limites do benefício, comprovação/período do aniversário, consumo e validade. Não prometer conta inteira grátis.",
+      "source": "Mensagem anexada nesta conversa",
+      "repeat": "Ideia permanente; reavaliar para janeiro e meses seguintes, sem obrigação de repostar todo mês.",
+      "months": [
+        "2026-12",
+        "2027-01"
+      ]
+    },
+    {
+      "id": "croque",
+      "title": "Croque em detalhe",
+      "month": "2026-11",
+      "format": "Estático",
+      "status": "Checar uso anterior",
+      "origin": "Reserva de conteúdo · 22/10",
+      "angle": "Destacar o gratinado e o pedido salgado, além do ambiente.",
+      "capture": "Acervo 17-10: Sobre a mesa que mais tem clientes/IMG_2982.HEIC; alternativa IMG_2990.HEIC.",
+      "pending": "Conferir se já foi publicado e se o prato segue disponível. Evitar repetir o mesmo recorte da mesinha.",
+      "source": "Replanejamento-19-outubro/PROPOSTAS_RESERVA_27_E_29_OUTUBRO.md",
+      "repeat": "Pode retornar com outra foto/gesto e contexto."
+    },
+    {
+      "id": "coado",
+      "title": "Antes do primeiro gole",
+      "month": "2026-11",
+      "format": "Reel",
+      "status": "Checar uso anterior",
+      "origin": "Reserva de conteúdo · 22/10",
+      "angle": "O ritual do preparo: água entrando no filtro e a pausa começando no balcão.",
+      "capture": "Acervo 17-10: A001_10171624_C022.MOV. Trecho inicial sugerido no histórico: conferir entre 4 e 12 s.",
+      "pending": "Conferir publicação anterior, arquivo contínuo e áudio. Não chamar de ASMR sem ouvir.",
+      "source": "Replanejamento-19-outubro/PROPOSTAS_RESERVA_27_E_29_OUTUBRO.md",
+      "repeat": "Ritual de café pode virar repertório com novas captações."
+    },
+    {
+      "id": "mesa",
+      "title": "Outro cantinho em uso",
+      "month": "2026-12",
+      "format": "Carrossel",
+      "status": "Nova captação",
+      "origin": "Diagnóstico editorial de outubro",
+      "angle": "Pausa sozinha, leitura ou encontro em um lugar reconhecível.",
+      "capture": "Plano aberto, pessoa com pedido, detalhe da vista e da mesa.",
+      "pending": "Captar uma situação diferente da mesinha já publicada; autorização de quem aparece.",
+      "source": "RELATORIO_EDITORIAL_OUTUBRO_v03.md · ambiente e experiência",
+      "repeat": "Alternar ocasiões e cantinhos, conforme material."
+    },
+    {
+      "id": "open",
+      "title": "Open Coffee acontecendo",
+      "month": "2026-11",
+      "format": "Reel",
+      "status": "Nova captação",
+      "origin": "Vídeo previsto após divulgação + diagnóstico",
+      "angle": "Uma tarde real de trabalho na casa, além do anúncio da oferta.",
+      "capture": "Pessoa trabalhando, café chegando, detalhe do pedido e ambiente.",
+      "pending": "Confirmar condições vigentes e captar rotina real antes de fechar a data.",
+      "source": "CONTEXTO_ATUAL.md · Open Coffee / diagnóstico outubro",
+      "repeat": "Mostrar usos reais em vez de repetir só a arte de serviço."
+    },
+    {
+      "id": "combinacao",
+      "title": "Croque, red velvet e café",
+      "month": "2026-12",
+      "format": "Carrossel",
+      "status": "Checar uso anterior",
+      "origin": "Replanejamento de 19/10",
+      "angle": "Da vontade de salgado ao doce, mostrando uma composição possível.",
+      "capture": "Acervo: IMG_2979–2982, IMG_2990–2994; conferir recortes e qualidade.",
+      "pending": "Checar uso anterior, disponibilidade e repetição em relação ao Croque e à mesinha. Não é combo promocional.",
+      "source": "Replanejamento-19-outubro/calendario-e-copies-v04.md",
+      "repeat": "Uma alternativa ao Croque isolado, não duas peças iguais na mesma semana."
+    },
+    {
+      "id": "domingo",
+      "title": "Um domingo de manhã na casa",
+      "month": "2027-01",
+      "format": "Reel",
+      "status": "Nova captação",
+      "origin": "Calendário de operação · proposta antiga",
+      "angle": "Chegar, escolher a mesa, pedir e ficar um pouco.",
+      "capture": "Entrada, luz da manhã, caminho, pedido e pessoas vivendo a pausa.",
+      "pending": "Reconfirmar horário; não chamar de brunch, buffet ou café da manhã completo sem oferta confirmada.",
+      "source": "calendario-operacao-17-a-31-outubro-2026-v01.md",
+      "repeat": "Ocasião de visita que pode reaparecer com novas cenas."
+    },
+    {
+      "id": "date",
+      "title": "Date: dividindo o pedido",
+      "month": "2027-01",
+      "format": "Reel",
+      "status": "Nova abordagem",
+      "origin": "Diagnóstico editorial de outubro",
+      "angle": "Uma ação específica: escolher juntos ou negociar a última garfada.",
+      "capture": "Dupla real, escolha, prato compartilhado e reação.",
+      "pending": "Nova captação e execução diferente do date anterior; não é pauta já comprovada.",
+      "source": "RELATORIO_EDITORIAL_OUTUBRO_v03.md · date",
+      "repeat": "Testar antes de decidir se vira série."
+    },
+    {
+      "id": "encontro",
+      "title": "O encontro que aconteceu",
+      "month": "2026-12",
+      "format": "Carrossel",
+      "status": "Depende de evento",
+      "origin": "Diagnóstico editorial de outubro",
+      "angle": "Oficina/encontro real contado por momentos e participantes.",
+      "capture": "Atividade, mãos, pessoas e detalhes; falas se acrescentarem algo.",
+      "pending": "Escolher evento que realmente aconteça, conferir acervo e autorizações; nenhuma nova oficina está confirmada.",
+      "source": "RELATORIO_EDITORIAL_OUTUBRO_v03.md · receitas editoriais",
+      "repeat": "Depois de encontros confirmados, sem inventar uma agenda."
+    }
+  ],
+  "scope": "Novembro parcialmente definido; dezembro e janeiro são reservatórios de ideias sem datas fechadas."
+}

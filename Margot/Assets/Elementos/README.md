@@ -28,6 +28,7 @@ Biblioteca de objetos isolados em PNG transparente, criada no mesmo estilo do mu
 
 ## Cultura e comida
 
+- `elemento-fantasminha-margo-v01.png` — fantasminha com óculos redondos, PNG transparente.
 - `elemento-croche-v01.png` — novelo rosa e agulha de crochê, PNG transparente.
 - `elemento-vinil.png`
 - `elemento-fachada.png`

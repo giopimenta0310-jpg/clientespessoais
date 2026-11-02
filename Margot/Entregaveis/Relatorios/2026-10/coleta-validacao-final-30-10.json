@@ -1,0 +1,128 @@
+{
+  "data_corte_cliente": "2026-10-30",
+  "run_id": "3e19305d-e9b7-4ddd-83f1-c4710e525f91",
+  "dados": {
+    "post_rows": [
+      {
+        "url": "https://www.instagram.com/margocafesespeciais/p/DeMw3nclde2/",
+        "likes": 359,
+        "saves": 25,
+        "views": 13233,
+        "shares": 172,
+        "caption": "Opening programme (no caption text extracted)",
+        "comments": 28,
+        "from_home": 7994,
+        "post_date": "October 7",
+        "post_type": "Carousel",
+        "watchtime": null,
+        "from_other": 4098,
+        "from_profile": 1141,
+        "interactions": 604,
+        "profile_visits": 120,
+        "external_link_taps": 4,
+        "followers_pct_views": 25.7,
+        "business_address_taps": 10,
+        "non_followers_pct_views": 74.3
+      },
+      {
+        "url": "https://www.instagram.com/margocafesespeciais/p/DeUCzVMFZHa/",
+        "likes": 216,
+        "saves": 8,
+        "views": 10670,
+        "shares": 61,
+        "caption": "Joinville hoje (no caption text extracted)",
+        "comments": 13,
+        "from_home": 5935,
+        "post_date": "October 10",
+        "post_type": "Feed",
+        "watchtime": null,
+        "from_other": 3539,
+        "from_profile": 1196,
+        "interactions": 319,
+        "profile_visits": 155,
+        "external_link_taps": 9,
+        "business_address_taps": 12,
+        "followers_pct_interactions": 55.6,
+        "non_followers_pct_interactions": 44.4
+      },
+      {
+        "url": "https://www.instagram.com/bemestar.colab/reel/DeCzTYjt_TS/",
+        "reason": "Collaboration post on bemestar.colab account; no insights access available for account owner.",
+        "status": "not_accessible"
+      },
+      {
+        "url": "https://www.instagram.com/margocafesespeciais/reel/DekSEjAhVmM/",
+        "note": "Video playback error on insights page but metrics loaded.",
+        "likes": 48,
+        "saves": 1,
+        "views": 2381,
+        "shares": 8,
+        "caption": "Affogato (Oct 16)",
+        "comments": 5,
+        "post_date": "October 16",
+        "post_type": "Reel",
+        "watchtime": null,
+        "interactions": 62,
+        "profile_visits": 0,
+        "external_link_taps": null,
+        "business_address_taps": null,
+        "followers_pct_interactions": 67.7,
+        "non_followers_pct_interactions": 32.3
+      },
+      {
+        "url": "https://www.instagram.com/margocafesespeciais/reel/DfHzM02B0jL/",
+        "note": "Video playback error on insights page but metrics loaded. Not Affogato Oct 16 - confirmed as newer Oct 30 post.",
+        "likes": 47,
+        "saves": 5,
+        "views": 1983,
+        "shares": 43,
+        "caption": "Affogato/Halloween (caption not text-extracted)",
+        "viewers": 1487,
+        "comments": 3,
+        "post_date": "October 30 (1d remaining at time of capture; grid order confirms newest)",
+        "post_type": "Reel",
+        "watchtime": null,
+        "interactions": 107,
+        "profile_follows": 2,
+        "accounts_engaged": 54,
+        "followers_pct_views": 21.3,
+        "non_followers_pct_views": 78.7,
+        "followers_pct_interactions": 77.8,
+        "non_followers_pct_interactions": 22.2
+      }
+    ],
+    "account_metrics": {
+      "note": "Profiles total 1399 not found; total followers is 1401 with no net growth label. No explicit follows/unfollows data. Format percentages are shares by format not demographics.",
+      "views": 137943,
+      "follows": null,
+      "viewers": 17089,
+      "unfollows": null,
+      "date_range": "Last 30 days endpoints not displayed",
+      "net_growth": null,
+      "interactions": 5941,
+      "profile_visits": 3804,
+      "total_followers": 1401,
+      "accounts_engaged": 1406,
+      "external_link_taps": 219,
+      "format_shares_views": {
+        "posts": 21.1,
+        "reels": 20.7,
+        "stories": 58.2
+      },
+      "views_followers_pct": 51.6,
+      "business_address_taps": 165,
+      "views_non_followers_pct": 48.4
+    },
+    "verification_notes": {
+      "colab_reel": "Not accessible - no insights permissions.",
+      "post_dates_verified": "DeMw3nclde2=Oct 7, DeUCzVMFZHa=Oct 10, DekSEjAhVmM=Oct 16, DfHzM02B0jL=Oct 30 (newest).",
+      "account_metrics_verify": "Confirmed all values match provisional (137943 views, 17089 viewers, 5941 interactions, 3804 profile visits, 219 link taps, 165 address taps). Total followers is 1401 (not 1399). Accounts engaged is 1406, distinct from followers. No net growth label present."
+    }
+  },
+  "alertas": [
+    "Janela geral: últimos30dias sem datas extremas exibidas, não outubro completo.",
+    "Reel DfHzM02B0jL é recente30/10; título exato ainda pendente, não chamar Affogato.",
+    "Só 17 publicações com métricas próprias; collab bemestar sem permissão de insights.",
+    "Watchtime e alcance não validados. Sem crescimento líquido de seguidores disponível."
+  ]
+}

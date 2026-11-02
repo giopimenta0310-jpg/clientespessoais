@@ -1,0 +1,814 @@
+{
+  "version": 14,
+  "updated": "2026-10-31",
+  "posts": [
+    {
+      "date": "2026-11-01",
+      "title": "Pets e crianças",
+      "format": "Estático",
+      "status": "Definido",
+      "notes": "Foto de pet e criança para mostrar que os dois são bem-vindos. Material em 31/10: Localizar no acervo anterior. Foto de pet e criança autorizada, citada no histórico; fora deste Drive. Próximo passo: Localizar o original usado no planejamento; não é indicação de nova captação.",
+      "source": "Conversa com Giovanna · 31/10",
+      "description": "Foto de pet e criança para mostrar que os dois são bem-vindos.",
+      "material": {
+        "status": "Localizar no acervo anterior",
+        "files": "Foto de pet e criança autorizada, citada no histórico; fora deste Drive.",
+        "next": "Localizar o original usado no planejamento; não é indicação de nova captação.",
+        "checked": "2026-10-31"
+      }
+    },
+    {
+      "date": "2026-11-03",
+      "title": "oficina de yoga",
+      "format": "Reel",
+      "status": "Definido",
+      "notes": "Mostrar momentos da oficina e a experiência na casa; conferir o material disponível. Material em 31/10: Existe em outro lugar. Reel da yoga confirmado pela Giovanna como existente em outro local. Próximo passo: Reunir o arquivo/link para edição; não precisa gravar novamente por falta nesta pasta.",
+      "source": "Conversa com Giovanna · 31/10",
+      "description": "Mostrar momentos da oficina e a experiência na casa; conferir o material disponível.",
+      "material": {
+        "status": "Existe em outro lugar",
+        "files": "Reel da yoga confirmado pela Giovanna como existente em outro local.",
+        "next": "Reunir o arquivo/link para edição; não precisa gravar novamente por falta nesta pasta.",
+        "checked": "2026-10-31"
+      }
+    },
+    {
+      "date": "2026-11-05",
+      "title": "Favoritos da Bruna",
+      "format": "Carrossel",
+      "status": "Proposta",
+      "notes": "Bruna apresenta os pedidos preferidos e por que gosta deles. Material em 31/10: Base para produzir. IMG_3161–3172.HEIC; IMG_3160.MOV (31,6 s). Seleção: IMG_3163 ou 3167 para composição; 3168/3169 bebida; 3170/3171 e 3172 para detalhes. Próximo passo: Ouvir a fala para validar escolhas, motivos e nomes. Não há retrato posado nas fotos desta pasta; capa pode usar os pedidos ou um frame aproveitável do vídeo.",
+      "source": "Conversa com Giovanna · 31/10",
+      "description": "Bruna apresenta os pedidos preferidos e por que gosta deles.",
+      "material": {
+        "status": "Base para produzir",
+        "files": "IMG_3161–3172.HEIC; IMG_3160.MOV (31,6 s). Seleção: IMG_3163 ou 3167 para composição; 3168/3169 bebida; 3170/3171 e 3172 para detalhes.",
+        "next": "Ouvir a fala para validar escolhas, motivos e nomes. Não há retrato posado nas fotos desta pasta; capa pode usar os pedidos ou um frame aproveitável do vídeo.",
+        "folder": "Bruna - Favoritos",
+        "url": "https://drive.google.com/drive/folders/1iOaUSpTJ2iFJI3mMPA9SVX41cRSjR6Gd",
+        "preview": "Inventario-Drive/contatos/Bruna_-_Favoritos_1.jpg",
+        "checked": "2026-10-31"
+      }
+    },
+    {
+      "date": "2026-11-07",
+      "title": "Croque em detalhe",
+      "format": "Estático",
+      "status": "Proposta · checar uso",
+      "notes": "Close no gratinado para dar vontade de pedir um salgado. Material em 31/10: Pode ir para arte. IMG_3301–3311.HEIC. Seleção: IMG_3307: prato e fachada; 3308/3309: recheio e gratinado; 3311: vista de cima. Próximo passo: Selecionar, tratar e escrever. Usar novas imagens desta pasta para não depender só do acervo antigo.",
+      "source": "Histórico · reserva de 22/10",
+      "description": "Close no gratinado para dar vontade de pedir um salgado.",
+      "material": {
+        "status": "Pode ir para arte",
+        "files": "IMG_3301–3311.HEIC. Seleção: IMG_3307: prato e fachada; 3308/3309: recheio e gratinado; 3311: vista de cima.",
+        "next": "Selecionar, tratar e escrever. Usar novas imagens desta pasta para não depender só do acervo antigo.",
+        "folder": "Croque Meu Senhor",
+        "url": "https://drive.google.com/drive/folders/1KEknmlKcXeiAEs3My0dh62DlzRWdoF5u",
+        "preview": "Inventario-Drive/contatos/Croque_Meu_Senhor_1.jpg",
+        "checked": "2026-10-31"
+      }
+    },
+    {
+      "date": "2026-11-10",
+      "title": "Antes do primeiro gole",
+      "format": "Reel",
+      "status": "Proposta · checar uso",
+      "notes": "Um Reel do preparo do coado: a água no filtro e o café sendo feito. Material em 31/10: Localizar no acervo anterior. 17-10: A001_10171624_C022.MOV, citado no histórico; não reaberto nesta rodada. Próximo passo: Localizar e conferir uso anterior, imagem e áudio. Os vídeos do mocha não substituem o coado.",
+      "source": "Replanejamento-19-outubro/PROPOSTAS_RESERVA_27_E_29_OUTUBRO.md",
+      "bankIdeaId": "coado",
+      "description": "Um Reel do preparo do coado: a água no filtro e o café sendo feito.",
+      "material": {
+        "status": "Localizar no acervo anterior",
+        "files": "17-10: A001_10171624_C022.MOV, citado no histórico; não reaberto nesta rodada.",
+        "next": "Localizar e conferir uso anterior, imagem e áudio. Os vídeos do mocha não substituem o coado.",
+        "checked": "2026-10-31"
+      }
+    },
+    {
+      "date": "2026-11-12",
+      "title": "Mocha em preparo",
+      "format": "Reel",
+      "status": "Material gravado · edição pendente",
+      "notes": "Mostrar as etapas do mocha gravadas por você e finalizar com a bebida pronta. Material em 31/10: Pode ir para edição. IMG_3294–3300.MOV. Seleção: 3294 base na xícara; 3295 moagem; 3296 extração; 3297 mistura; 3298 vaporização; 3299 desenho; 3300 finalização. Próximo passo: Cortar esperas, escolher abertura e conferir áudio/cor na edição. Os quadros mostram a sequência completa; não é uma revisão integral de som.",
+      "source": "Giovanna · gravação de mocha informada em 31/10",
+      "bankIdeaId": "mocha",
+      "description": "Mostrar as etapas do mocha gravadas por você e finalizar com a bebida pronta.",
+      "material": {
+        "status": "Pode ir para edição",
+        "files": "IMG_3294–3300.MOV. Seleção: 3294 base na xícara; 3295 moagem; 3296 extração; 3297 mistura; 3298 vaporização; 3299 desenho; 3300 finalização.",
+        "next": "Cortar esperas, escolher abertura e conferir áudio/cor na edição. Os quadros mostram a sequência completa; não é uma revisão integral de som.",
+        "folder": "Reel do Mocha",
+        "url": "https://drive.google.com/drive/folders/1XnuQGmudmDhSpdjUffLRAAawdOInW-LR",
+        "preview": "Inventario-Drive/quadros/IMG_3299.MOV.jpg",
+        "checked": "2026-10-31"
+      }
+    },
+    {
+      "date": "2026-11-14",
+      "title": "Da cozinha à mesa",
+      "format": "Reel",
+      "status": "Captação pendente",
+      "notes": "Um salgado sendo finalizado e servido. Acervo atual tem só massa de red velvet; adaptar a pauta é uma opção a decidir. Material em 31/10: Material parcial · conceito a decidir. Drive: sete vídeos da massa do red velvet (C025–C031); sem finalização ou serviço nos quadros revisados. Próximo passo: Para manter o salgado da cozinha à mesa, captar finalização e serviço. Alternativa com acervo: bastidor da massa do red velvet, somente se decidirmos adaptar a pauta.",
+      "source": "Pedido da Bruna nesta conversa · 31/10/2026",
+      "bankIdeaId": "cozinha",
+      "description": "Um salgado sendo finalizado e servido. Acervo atual tem só massa de red velvet; adaptar a pauta é uma opção a decidir.",
+      "material": {
+        "status": "Material parcial · conceito a decidir",
+        "files": "Drive: sete vídeos da massa do red velvet (C025–C031); sem finalização ou serviço nos quadros revisados.",
+        "next": "Para manter o salgado da cozinha à mesa, captar finalização e serviço. Alternativa com acervo: bastidor da massa do red velvet, somente se decidirmos adaptar a pauta.",
+        "checked": "2026-10-31"
+      }
+    },
+    {
+      "date": "2026-11-17",
+      "title": "Favoritos da Suelen",
+      "format": "Carrossel",
+      "status": "Proposta",
+      "notes": "Suelen apresenta os pedidos preferidos e por que gosta deles. Material em 31/10: Base para produzir. IMG_3173–3178 e 3180–3184.HEIC; IMG_3158/3159.MOV. Seleção: 3181: conjunto; 3173: bolo amarelo com cobertura; 3177/3178: salgado com tomates; 3183/3184: café. Próximo passo: Ouvir 3158 (17,2 s). 3159 (8,4 s) mostra pessoa diferente de 3158 e enquadramento parecido com o vídeo da Bruna: confirmar a identificação, sem mover arquivos. Nomes dos pedidos dependem da fala/cardápio.",
+      "source": "Conversa com Giovanna · 31/10",
+      "description": "Suelen apresenta os pedidos preferidos e por que gosta deles.",
+      "material": {
+        "status": "Base para produzir",
+        "files": "IMG_3173–3178 e 3180–3184.HEIC; IMG_3158/3159.MOV. Seleção: 3181: conjunto; 3173: bolo amarelo com cobertura; 3177/3178: salgado com tomates; 3183/3184: café.",
+        "next": "Ouvir 3158 (17,2 s). 3159 (8,4 s) mostra pessoa diferente de 3158 e enquadramento parecido com o vídeo da Bruna: confirmar a identificação, sem mover arquivos. Nomes dos pedidos dependem da fala/cardápio.",
+        "folder": "Suelen - Favoritos",
+        "url": "https://drive.google.com/drive/folders/1yat7UFSOgVTuKUAJE_LC5Spxn3TRFThZ",
+        "preview": "Inventario-Drive/contatos/Suelen_-_Favoritos_1.jpg",
+        "checked": "2026-10-31"
+      }
+    },
+    {
+      "date": "2026-11-19",
+      "title": "Red velvet em detalhe",
+      "format": "Estático",
+      "status": "Proposta · checar uso",
+      "notes": "Foto da fatia e das camadas, com o doce como protagonista. Material em 31/10: Localizar no acervo anterior. 17-10: IMG_2979–2981, fatia de red velvet citada no histórico. O Drive atual tem só vídeos da massa. Próximo passo: Localizar fatia, conferir qualidade e uso anterior. Choux aberta é reserva possível, sem substituir automaticamente.",
+      "source": "Bruna · pedido de mais comida + histórico 17-10",
+      "description": "Foto da fatia e das camadas, com o doce como protagonista.",
+      "material": {
+        "status": "Localizar no acervo anterior",
+        "files": "17-10: IMG_2979–2981, fatia de red velvet citada no histórico. O Drive atual tem só vídeos da massa.",
+        "next": "Localizar fatia, conferir qualidade e uso anterior. Choux aberta é reserva possível, sem substituir automaticamente.",
+        "checked": "2026-10-31"
+      }
+    },
+    {
+      "date": "2026-11-21",
+      "title": "Open Coffee em uso",
+      "format": "Reel",
+      "status": "Captação pendente",
+      "notes": "Uma tarde real de trabalho: notebook, café chegando e a casa em movimento. Material em 31/10: Precisa captar. Não foram localizadas cenas de pessoas trabalhando no Drive revisado. Próximo passo: Gravar pessoa trabalhando, café chegando e contexto da casa; confirmar condições vigentes do Open Coffee.",
+      "source": "Histórico e diagnóstico de outubro",
+      "description": "Uma tarde real de trabalho: notebook, café chegando e a casa em movimento.",
+      "material": {
+        "status": "Precisa captar",
+        "files": "Não foram localizadas cenas de pessoas trabalhando no Drive revisado.",
+        "next": "Gravar pessoa trabalhando, café chegando e contexto da casa; confirmar condições vigentes do Open Coffee.",
+        "checked": "2026-10-31"
+      }
+    },
+    {
+      "date": "2026-11-24",
+      "title": "Croque, red velvet e café",
+      "format": "Carrossel",
+      "status": "Proposta · checar uso",
+      "notes": "Mostrar salgado, doce e café como uma escolha de pedido — sem ser combo. Material em 31/10: Material parcial · localizar composição. Croque novo: IMG_3307–3309/3311. Composição e red velvet: acervo 17-10, IMG_2979–2982 e IMG_2990–2994, ainda a localizar. Próximo passo: Conferir combinação completa, recortes e uso anterior. Não anunciar como combo promocional.",
+      "source": "Replanejamento-19-outubro/calendario-e-copies-v04.md",
+      "bankIdeaId": "combinacao",
+      "description": "Mostrar salgado, doce e café como uma escolha de pedido — sem ser combo.",
+      "material": {
+        "status": "Material parcial · localizar composição",
+        "files": "Croque novo: IMG_3307–3309/3311. Composição e red velvet: acervo 17-10, IMG_2979–2982 e IMG_2990–2994, ainda a localizar.",
+        "next": "Conferir combinação completa, recortes e uso anterior. Não anunciar como combo promocional.",
+        "checked": "2026-10-31"
+      }
+    },
+    {
+      "date": "2026-11-26",
+      "title": "Favoritos do Marcos",
+      "format": "Reel",
+      "status": "Proposta",
+      "notes": "Marcos conta sua escolha enquanto mostramos o pedido de perto. Material em 31/10: Ainda não gravado. Giovanna confirmou que os favoritos do Marcos ainda não foram gravados. Próximo passo: Captar fala, pedidos escolhidos, detalhes e fotos. Aproveitar a sessão também para o carrossel de 17/12.",
+      "source": "Conversa com Giovanna · 31/10",
+      "description": "Marcos conta sua escolha enquanto mostramos o pedido de perto.",
+      "material": {
+        "status": "Ainda não gravado",
+        "files": "Giovanna confirmou que os favoritos do Marcos ainda não foram gravados.",
+        "next": "Captar fala, pedidos escolhidos, detalhes e fotos. Aproveitar a sessão também para o carrossel de 17/12.",
+        "checked": "2026-10-31"
+      }
+    },
+    {
+      "date": "2026-11-28",
+      "title": "Mesa para grupos",
+      "format": "Carrossel",
+      "status": "Definido",
+      "notes": "Foto da mesa para grupos, na linha da mesa alta, convidando a reunir amigos. Material em 31/10: Pode ir para arte. IMG_3313–3321.HEIC. Seleção: 3313: mesa vazia e mural; 3315/3316: grupo e ambiente; 3318/3320: aproximação. Próximo passo: Escolher composição. São variações da mesma cena, não nove momentos diferentes. Não precisa fotografar a mesa novamente.",
+      "source": "Giovanna · foto da mesa para grupos e data de 28/11",
+      "bankIdeaId": "mesa",
+      "description": "Foto da mesa para grupos, na linha da mesa alta, convidando a reunir amigos.",
+      "material": {
+        "status": "Pode ir para arte",
+        "files": "IMG_3313–3321.HEIC. Seleção: 3313: mesa vazia e mural; 3315/3316: grupo e ambiente; 3318/3320: aproximação.",
+        "next": "Escolher composição. São variações da mesma cena, não nove momentos diferentes. Não precisa fotografar a mesa novamente.",
+        "folder": "Mesa do Grupo",
+        "url": "https://drive.google.com/drive/folders/1gZmrwsq3K0WxJjoA8GKvpTuAFsZQCcA5",
+        "preview": "Inventario-Drive/contatos/Mesa_do_Grupo_1.jpg",
+        "checked": "2026-10-31"
+      }
+    },
+    {
+      "date": "2026-11-30",
+      "title": "Amigo secreto na casa",
+      "format": "Carrossel",
+      "status": "Regras pendentes",
+      "notes": "Convidar grupos a fazer o encontro na casa; benefício ainda depende das regras. Material em 31/10: Imagem disponível · regras pendentes. Mesa do Grupo: IMG_3315/3316 ou IMG_3318/3320 podem ilustrar o convite. Próximo passo: Definir quantidade de pessoas, benefício e condições. Divulgação para encontros futuros; não anuncia atendimento na segunda-feira.",
+      "source": "Bruna · mensagem de 31/10",
+      "description": "Convidar grupos a fazer o encontro na casa; benefício ainda depende das regras.",
+      "material": {
+        "status": "Imagem disponível · regras pendentes",
+        "files": "Mesa do Grupo: IMG_3315/3316 ou IMG_3318/3320 podem ilustrar o convite.",
+        "next": "Definir quantidade de pessoas, benefício e condições. Divulgação para encontros futuros; não anuncia atendimento na segunda-feira.",
+        "checked": "2026-10-31"
+      }
+    },
+    {
+      "date": "2026-12-03",
+      "title": "Amigo secreto na casa",
+      "format": "Carrossel",
+      "status": "Regras pendentes",
+      "notes": "Convidar grupos a fazer o encontro na casa; benefício ainda depende das regras. Material em 31/10: Imagem disponível · regras pendentes. Mesa do Grupo pode apoiar, com recorte diferente do conteúdo de novembro. Próximo passo: Retomar apenas com regras aprovadas e contexto novo; não repetir a mesma peça.",
+      "source": "Mensagem anexada nesta conversa",
+      "bankIdeaId": "amigo",
+      "description": "Convidar grupos a fazer o encontro na casa; benefício ainda depende das regras.",
+      "material": {
+        "status": "Imagem disponível · regras pendentes",
+        "files": "Mesa do Grupo pode apoiar, com recorte diferente do conteúdo de novembro.",
+        "next": "Retomar apenas com regras aprovadas e contexto novo; não repetir a mesma peça.",
+        "checked": "2026-10-31"
+      }
+    },
+    {
+      "date": "2026-12-08",
+      "title": "Favoritos da Bruna",
+      "format": "Reel",
+      "status": "Proposta",
+      "notes": "Bruna conta sua escolha enquanto mostramos o pedido de perto. Material em 31/10: Base para produzir. IMG_3161–3172.HEIC; IMG_3160.MOV (31,6 s). Seleção: IMG_3163 ou 3167 para composição; 3168/3169 bebida; 3170/3171 e 3172 para detalhes. Próximo passo: Ouvir a fala para validar escolhas, motivos e nomes. Não há retrato posado nas fotos desta pasta; capa pode usar os pedidos ou um frame aproveitável do vídeo.",
+      "source": "Conversa com Giovanna · 31/10",
+      "description": "Bruna conta sua escolha enquanto mostramos o pedido de perto.",
+      "material": {
+        "status": "Base para produzir",
+        "files": "IMG_3161–3172.HEIC; IMG_3160.MOV (31,6 s). Seleção: IMG_3163 ou 3167 para composição; 3168/3169 bebida; 3170/3171 e 3172 para detalhes.",
+        "next": "Ouvir a fala para validar escolhas, motivos e nomes. Não há retrato posado nas fotos desta pasta; capa pode usar os pedidos ou um frame aproveitável do vídeo.",
+        "folder": "Bruna - Favoritos",
+        "url": "https://drive.google.com/drive/folders/1iOaUSpTJ2iFJI3mMPA9SVX41cRSjR6Gd",
+        "preview": "Inventario-Drive/contatos/Bruna_-_Favoritos_1.jpg",
+        "checked": "2026-10-31"
+      }
+    },
+    {
+      "date": "2026-12-15",
+      "title": "O seu parece melhor",
+      "format": "Reel",
+      "status": "Conceito escolhido · captação pendente",
+      "notes": "Duas pessoas recebem pedidos diferentes, olham o da outra, trocam os pratos e provam. Material em 31/10: Precisa captar. Troca de pedidos e reações não localizadas no Drive revisado. Próximo passo: Duas pessoas, pedidos diferentes, enquadramento fixo, olhares, troca e prova; data continua provisória.",
+      "source": "Giovanna · escolha da ideia 3 da pesquisa de 31/10",
+      "bankIdeaId": "troca",
+      "description": "Duas pessoas recebem pedidos diferentes, olham o da outra, trocam os pratos e provam.",
+      "material": {
+        "status": "Precisa captar",
+        "files": "Troca de pedidos e reações não localizadas no Drive revisado.",
+        "next": "Duas pessoas, pedidos diferentes, enquadramento fixo, olhares, troca e prova; data continua provisória.",
+        "checked": "2026-10-31"
+      }
+    },
+    {
+      "date": "2026-12-17",
+      "title": "Favoritos do Marcos",
+      "format": "Carrossel",
+      "status": "Proposta",
+      "notes": "Marcos apresenta os pedidos preferidos e por que gosta deles. Material em 31/10: Ainda não gravado. Mesma captação pendente dos favoritos do Marcos de 26/11. Próximo passo: Gravar fala e fotos na mesma sessão, separando o enfoque do Reel e do carrossel.",
+      "source": "Conversa com Giovanna · 31/10",
+      "description": "Marcos apresenta os pedidos preferidos e por que gosta deles.",
+      "material": {
+        "status": "Ainda não gravado",
+        "files": "Mesma captação pendente dos favoritos do Marcos de 26/11.",
+        "next": "Gravar fala e fotos na mesma sessão, separando o enfoque do Reel e do carrossel.",
+        "checked": "2026-10-31"
+      }
+    },
+    {
+      "date": "2026-12-22",
+      "title": "Da cozinha à mesa · outro prato",
+      "format": "Reel",
+      "status": "Captação pendente",
+      "notes": "Novo prato e outra finalização, sem repetir a edição de novembro. Material em 31/10: Precisa captar. Não foi localizada a finalização e o serviço de outro prato para esta pauta. Próximo passo: Escolher prato com a Bruna e captar finalização, textura e chegada à mesa; variar em relação a novembro.",
+      "source": "Pedido da Bruna nesta conversa · 31/10/2026",
+      "bankIdeaId": "cozinha",
+      "description": "Novo prato e outra finalização, sem repetir a edição de novembro.",
+      "material": {
+        "status": "Precisa captar",
+        "files": "Não foi localizada a finalização e o serviço de outro prato para esta pauta.",
+        "next": "Escolher prato com a Bruna e captar finalização, textura e chegada à mesa; variar em relação a novembro.",
+        "checked": "2026-10-31"
+      }
+    },
+    {
+      "date": "2026-12-29",
+      "title": "Favoritos da Suelen",
+      "format": "Reel",
+      "status": "Proposta",
+      "notes": "Suelen conta sua escolha enquanto mostramos o pedido de perto. Material em 31/10: Base para produzir. IMG_3173–3178 e 3180–3184.HEIC; IMG_3158/3159.MOV. Seleção: 3181: conjunto; 3173: bolo amarelo com cobertura; 3177/3178: salgado com tomates; 3183/3184: café. Próximo passo: Ouvir 3158 (17,2 s). 3159 (8,4 s) mostra pessoa diferente de 3158 e enquadramento parecido com o vídeo da Bruna: confirmar a identificação, sem mover arquivos. Nomes dos pedidos dependem da fala/cardápio.",
+      "source": "Conversa com Giovanna · 31/10",
+      "description": "Suelen conta sua escolha enquanto mostramos o pedido de perto.",
+      "material": {
+        "status": "Base para produzir",
+        "files": "IMG_3173–3178 e 3180–3184.HEIC; IMG_3158/3159.MOV. Seleção: 3181: conjunto; 3173: bolo amarelo com cobertura; 3177/3178: salgado com tomates; 3183/3184: café.",
+        "next": "Ouvir 3158 (17,2 s). 3159 (8,4 s) mostra pessoa diferente de 3158 e enquadramento parecido com o vídeo da Bruna: confirmar a identificação, sem mover arquivos. Nomes dos pedidos dependem da fala/cardápio.",
+        "folder": "Suelen - Favoritos",
+        "url": "https://drive.google.com/drive/folders/1yat7UFSOgVTuKUAJE_LC5Spxn3TRFThZ",
+        "preview": "Inventario-Drive/contatos/Suelen_-_Favoritos_1.jpg",
+        "checked": "2026-10-31"
+      }
+    },
+    {
+      "date": "2027-01-07",
+      "title": "Aniversário com a turma",
+      "format": "Carrossel",
+      "status": "Regras pendentes",
+      "notes": "Convidar para celebrar com amigos; a promoção ainda precisa de regras. Material em 31/10: Depende de regras e material. Foto de grupo pode apoiar; não há sessão específica de aniversário identificada. Próximo passo: Confirmar benefício e condições antes da comunicação; definir se usaremos acervo ou nova captação.",
+      "source": "Mensagem anexada nesta conversa",
+      "bankIdeaId": "aniversario",
+      "description": "Convidar para celebrar com amigos; a promoção ainda precisa de regras.",
+      "material": {
+        "status": "Depende de regras e material",
+        "files": "Foto de grupo pode apoiar; não há sessão específica de aniversário identificada.",
+        "next": "Confirmar benefício e condições antes da comunicação; definir se usaremos acervo ou nova captação.",
+        "checked": "2026-10-31"
+      }
+    },
+    {
+      "date": "2027-01-16",
+      "title": "Domingo em pequenos horários",
+      "format": "Reel",
+      "status": "Conceito escolhido · captação pendente",
+      "notes": "Mini-vlog da chegada ao pedido, com café, comida e horários reais. Material em 31/10: Precisa captar. Não localizada sequência de domingo com chegada, pedido e horários reais. Próximo passo: Anotar horários durante a gravação e captar o percurso completo; confirmar funcionamento.",
+      "source": "Giovanna · escolha da ideia 5 da pesquisa de 31/10",
+      "bankIdeaId": "domingo",
+      "description": "Mini-vlog da chegada ao pedido, com café, comida e horários reais.",
+      "material": {
+        "status": "Precisa captar",
+        "files": "Não localizada sequência de domingo com chegada, pedido e horários reais.",
+        "next": "Anotar horários durante a gravação e captar o percurso completo; confirmar funcionamento.",
+        "checked": "2026-10-31"
+      }
+    },
+    {
+      "date": "2027-01-21",
+      "title": "Date: dividindo o pedido",
+      "format": "Reel",
+      "status": "Captação pendente",
+      "notes": "Uma dupla escolhendo e provando do pedido do outro, com reações reais. Material em 31/10: Precisa captar nova abordagem. Não foram localizados os gestos específicos desta proposta no Drive atual. Próximo passo: Gravar escolha conjunta, partilha e reação; diferenciar do date já publicado e da troca de pedidos.",
+      "source": "RELATORIO_EDITORIAL_OUTUBRO_v03.md · date",
+      "bankIdeaId": "date",
+      "description": "Uma dupla escolhendo e provando do pedido do outro, com reações reais.",
+      "material": {
+        "status": "Precisa captar nova abordagem",
+        "files": "Não foram localizados os gestos específicos desta proposta no Drive atual.",
+        "next": "Gravar escolha conjunta, partilha e reação; diferenciar do date já publicado e da troca de pedidos.",
+        "checked": "2026-10-31"
+      }
+    }
+  ],
+  "ideas": [
+    {
+      "id": "amigo",
+      "title": "Amigo secreto na casa",
+      "month": "2026-11",
+      "format": "Carrossel",
+      "status": "Regras pendentes",
+      "origin": "Bruna · mensagem enviada em 31/10",
+      "angle": "Antecipar os encontros de fim de ano. Retomar em dezembro se fizer sentido.",
+      "capture": "Grupo reunido, mesa e café para compartilhar; preparar as condições aprovadas. Incluir doces ou salgados reconhecíveis quando coerente com a pauta.",
+      "pending": "Definir X pessoas, quantidade/tamanho da prensa, condições de consumo, validade e operação. Não anunciar café grátis antes da aprovação.",
+      "source": "Mensagem anexada nesta conversa",
+      "repeat": "Novembro e dezembro; rever a ação a cada fim de ano.",
+      "months": [
+        "2026-11",
+        "2026-12"
+      ],
+      "proposed_dates": [
+        "2026-11-30",
+        "2026-12-03"
+      ]
+    },
+    {
+      "id": "aniversario",
+      "title": "Aniversário com a turma",
+      "month": "2026-12",
+      "format": "Carrossel",
+      "status": "Regras pendentes",
+      "origin": "Bruna · mensagem enviada em 31/10",
+      "angle": "Um motivo recorrente para reunir amigos na casa. Mês sugerido para desenvolver, sem data de publicação.",
+      "capture": "Mesa de celebração, bebida, doce e salgado; condições aprovadas. Incluir doces ou salgados reconhecíveis quando coerente com a pauta.",
+      "pending": "Definir X acompanhantes, itens e limites do benefício, comprovação/período do aniversário, consumo e validade. Não prometer conta inteira grátis.",
+      "source": "Mensagem anexada nesta conversa",
+      "repeat": "Ideia permanente; reavaliar para janeiro e meses seguintes, sem obrigação de repostar todo mês.",
+      "months": [
+        "2026-12",
+        "2027-01"
+      ],
+      "proposed_dates": [
+        "2027-01-07"
+      ]
+    },
+    {
+      "id": "croque",
+      "title": "Croque em detalhe",
+      "month": "2026-11",
+      "format": "Estático",
+      "status": "Pode ir para arte",
+      "origin": "Reserva de conteúdo · 22/10",
+      "angle": "Destacar o gratinado e o pedido salgado, além do ambiente.",
+      "capture": "IMG_3301–3311.HEIC. IMG_3307: prato e fachada; 3308/3309: recheio e gratinado; 3311: vista de cima.",
+      "pending": "Selecionar, tratar e escrever. Usar novas imagens desta pasta para não depender só do acervo antigo.",
+      "source": "Replanejamento-19-outubro/PROPOSTAS_RESERVA_27_E_29_OUTUBRO.md",
+      "repeat": "Pode retornar com outra foto/gesto e contexto.",
+      "proposed_dates": [
+        "2026-11-07"
+      ],
+      "material": {
+        "status": "Pode ir para arte",
+        "files": "IMG_3301–3311.HEIC. Seleção: IMG_3307: prato e fachada; 3308/3309: recheio e gratinado; 3311: vista de cima.",
+        "next": "Selecionar, tratar e escrever. Usar novas imagens desta pasta para não depender só do acervo antigo.",
+        "folder": "Croque Meu Senhor",
+        "url": "https://drive.google.com/drive/folders/1KEknmlKcXeiAEs3My0dh62DlzRWdoF5u",
+        "preview": "Inventario-Drive/contatos/Croque_Meu_Senhor_1.jpg",
+        "checked": "2026-10-31"
+      }
+    },
+    {
+      "id": "coado",
+      "title": "Antes do primeiro gole",
+      "month": "2026-11",
+      "format": "Reel",
+      "status": "Checar uso anterior",
+      "origin": "Reserva de conteúdo · 22/10",
+      "angle": "O ritual do preparo: água entrando no filtro e o café sendo feito. Proposto para 10/11 com acervo; checar uso anterior.",
+      "capture": "Acervo 17-10: A001_10171624_C022.MOV. Trecho inicial sugerido no histórico: conferir entre 4 e 12 s.",
+      "pending": "Conferir publicação anterior, arquivo contínuo e áudio. Não chamar de ASMR sem ouvir.",
+      "source": "Replanejamento-19-outubro/PROPOSTAS_RESERVA_27_E_29_OUTUBRO.md",
+      "repeat": "Ritual de café pode virar repertório com novas captações.",
+      "months": [
+        "2026-11",
+        "2026-12"
+      ],
+      "proposed_dates": [
+        "2026-11-10"
+      ]
+    },
+    {
+      "id": "mesa",
+      "title": "Mesa para grupos",
+      "month": "2026-11",
+      "format": "Carrossel",
+      "status": "Pode ir para arte",
+      "origin": "Diagnóstico editorial de outubro",
+      "angle": "Mesa vazia e grupo reunido: convite para encontros, na linha da mesa alta. Material localizado para 28/11.",
+      "capture": "IMG_3313–3321.HEIC. 3313: mesa vazia e mural; 3315/3316: grupo e ambiente; 3318/3320: aproximação.",
+      "pending": "Escolher composição. São variações da mesma cena, não nove momentos diferentes. Não precisa fotografar a mesa novamente.",
+      "source": "Pedido da Giovanna nesta conversa · mesa para grupos em 28/11",
+      "repeat": "Alternar ocasiões e cantinhos, conforme material.",
+      "months": [
+        "2026-11",
+        "2026-12"
+      ],
+      "proposed_dates": [
+        "2026-11-28"
+      ],
+      "material": {
+        "status": "Pode ir para arte",
+        "files": "IMG_3313–3321.HEIC. Seleção: 3313: mesa vazia e mural; 3315/3316: grupo e ambiente; 3318/3320: aproximação.",
+        "next": "Escolher composição. São variações da mesma cena, não nove momentos diferentes. Não precisa fotografar a mesa novamente.",
+        "folder": "Mesa do Grupo",
+        "url": "https://drive.google.com/drive/folders/1gZmrwsq3K0WxJjoA8GKvpTuAFsZQCcA5",
+        "preview": "Inventario-Drive/contatos/Mesa_do_Grupo_1.jpg",
+        "checked": "2026-10-31"
+      }
+    },
+    {
+      "id": "open",
+      "title": "Open Coffee acontecendo",
+      "month": "2026-11",
+      "format": "Reel",
+      "status": "Nova captação",
+      "origin": "Vídeo previsto após divulgação + diagnóstico",
+      "angle": "Uma tarde real de trabalho na casa, além do anúncio da oferta.",
+      "capture": "Pessoa trabalhando, café chegando, detalhe do pedido e ambiente. Quando coerente com a cena, mostrar comida reconhecível e pessoas comendo, além das bebidas; alimentação no Open Coffee continua à parte.",
+      "pending": "Confirmar condições vigentes e captar rotina real antes de fechar a data.",
+      "source": "CONTEXTO_ATUAL.md · Open Coffee / diagnóstico outubro",
+      "repeat": "Mostrar usos reais em vez de repetir só a arte de serviço.",
+      "proposed_dates": []
+    },
+    {
+      "id": "combinacao",
+      "title": "Croque, red velvet e café",
+      "month": "2026-11",
+      "format": "Carrossel",
+      "status": "Checar uso anterior",
+      "origin": "Replanejamento de 19/10",
+      "angle": "Da vontade de salgado ao doce, mostrando uma composição possível.",
+      "capture": "Acervo: IMG_2979–2982, IMG_2990–2994; conferir recortes e qualidade.",
+      "pending": "Checar uso anterior, disponibilidade e repetição em relação ao Croque e à mesinha. Não é combo promocional.",
+      "source": "Replanejamento-19-outubro/calendario-e-copies-v04.md",
+      "repeat": "Uma alternativa ao Croque isolado, não duas peças iguais na mesma semana.",
+      "months": [
+        "2026-11",
+        "2026-12"
+      ],
+      "proposed_dates": [
+        "2026-11-24"
+      ]
+    },
+    {
+      "id": "domingo",
+      "title": "Domingo em pequenos horários",
+      "month": "2027-01",
+      "format": "Reel",
+      "status": "Conceito escolhido · captação pendente",
+      "origin": "Calendário de operação · proposta antiga",
+      "angle": "Mini-vlog com horários reais na tela: chegada, escolha da mesa, pedido, café e comida, tempo de ficar.",
+      "capture": "Planos em ordem da experiência e horários anotados durante a captação. Mostrar bebida e comida; falas não são obrigatórias.",
+      "pending": "Confirmar funcionamento e gravar cenas do domingo. Não inventar horários nem anunciar brunch/buffet.",
+      "source": "Calendário de outubro + ideia 5 da pesquisa de 31/10, escolhida pela Giovanna",
+      "repeat": "Ocasião de visita que pode reaparecer com novas cenas.",
+      "months": [
+        "2027-01"
+      ],
+      "proposed_dates": [
+        "2027-01-16"
+      ]
+    },
+    {
+      "id": "date",
+      "title": "Date: dividindo o pedido",
+      "month": "2027-01",
+      "format": "Reel",
+      "status": "Nova abordagem",
+      "origin": "Diagnóstico editorial de outubro",
+      "angle": "Uma ação específica: escolher juntos ou negociar a última garfada.",
+      "capture": "Dupla real, escolha, prato compartilhado e reação. Incluir doces ou salgados reconhecíveis quando coerente com a pauta.",
+      "pending": "Nova captação e execução diferente do date anterior; não é pauta já comprovada. Considerar uma execução diferente da troca escolhida para novembro, antes de produzir a proposta de janeiro.",
+      "source": "RELATORIO_EDITORIAL_OUTUBRO_v03.md · date",
+      "repeat": "Testar antes de decidir se vira série.",
+      "proposed_dates": [
+        "2027-01-21"
+      ]
+    },
+    {
+      "id": "encontro",
+      "title": "O encontro que aconteceu",
+      "month": "2026-12",
+      "format": "Carrossel",
+      "status": "Depende de evento",
+      "origin": "Diagnóstico editorial de outubro",
+      "angle": "Oficina/encontro real contado por momentos e participantes.",
+      "capture": "Atividade, mãos, pessoas e detalhes; falas se acrescentarem algo. Incluir doces ou salgados reconhecíveis quando coerente com a pauta.",
+      "pending": "Escolher evento que realmente aconteça, conferir acervo e autorizações; nenhuma nova oficina está confirmada.",
+      "source": "RELATORIO_EDITORIAL_OUTUBRO_v03.md · receitas editoriais",
+      "repeat": "Depois de encontros confirmados, sem inventar uma agenda.",
+      "proposed_dates": []
+    },
+    {
+      "id": "redvelvet",
+      "title": "Red velvet em detalhe",
+      "month": "2026-11",
+      "months": [
+        "2026-11",
+        "2026-12"
+      ],
+      "format": "Estático",
+      "status": "Checar uso anterior",
+      "origin": "Bruna · mais comida no feed + acervo de outubro",
+      "angle": "Foco na fatia, nas camadas e na textura. Um doce como protagonista.",
+      "capture": "Acervo 17-10: IMG_2979–2981; conferir recortes e resolução. Se não servir, fotografar fatia e detalhe.",
+      "pending": "Conferir uso anterior e disponibilidade; evitar a mesma sequência do carrossel da mesinha.",
+      "source": "Replanejamento-19-outubro/calendario-e-copies-v04.md + pedido da Bruna nesta conversa",
+      "repeat": "Alternar doces e salgados em vez de repetir só bebidas.",
+      "proposed_dates": [
+        "2026-11-19"
+      ]
+    },
+    {
+      "id": "cozinha",
+      "title": "Da cozinha à mesa",
+      "month": "2026-11",
+      "months": [
+        "2026-11",
+        "2026-12",
+        "2027-01"
+      ],
+      "format": "Reel",
+      "status": "Material parcial · conceito a decidir",
+      "origin": "Nova proposta a partir do pedido da Bruna",
+      "angle": "Um prato disponível: finalização, corte ou textura e o pedido chegando à mesa.",
+      "capture": "Há vídeos de massa do red velvet. Finalização e serviço de um salgado ainda precisam de captação se mantivermos o conceito.",
+      "pending": "Os quadros mostram a massa, não bolo assado/recheado, corte ou serviço. Pode editar só esta etapa; para “da cozinha à mesa” completo, falta finalizar com bolo pronto. Os vídeos são verticais em 4K.",
+      "source": "Pedido da Bruna nesta conversa · 31/10/2026",
+      "repeat": "Repertório recorrente de comida, mudando o prato e o gesto.",
+      "proposed_dates": [
+        "2026-11-14",
+        "2026-12-22"
+      ],
+      "material": {
+        "status": "Reel de bastidor possível",
+        "files": "A001_10241532_C025 até A001_10241541_C031.MOV. Seleção: C025: batedeira; C027/C028/C030: mistura; C031: massa nas formas.",
+        "next": "Os quadros mostram a massa, não bolo assado/recheado, corte ou serviço. Pode editar só esta etapa; para “da cozinha à mesa” completo, falta finalizar com bolo pronto. Os vídeos são verticais em 4K.",
+        "folder": "Criação do Red Velvet",
+        "url": "https://drive.google.com/drive/folders/12xt0cxB-8ZLMtmXUXU-43eYCoAyNFNo0",
+        "preview": "Inventario-Drive/quadros/A001_10241541_C031.MOV.jpg",
+        "checked": "2026-10-31"
+      }
+    },
+    {
+      "id": "mocha",
+      "title": "Mocha em preparo",
+      "month": "2026-11",
+      "format": "Reel",
+      "status": "Pode ir para edição",
+      "origin": "Giovanna · nova gravação informada em 31/10",
+      "angle": "Mostrar as etapas reais do preparo e terminar na bebida pronta, dando vontade de provar.",
+      "capture": "IMG_3294–3300.MOV. 3294 base na xícara; 3295 moagem; 3296 extração; 3297 mistura; 3298 vaporização; 3299 desenho; 3300 finalização.",
+      "pending": "Cortar esperas, escolher abertura e conferir áudio/cor na edição. Os quadros mostram a sequência completa; não é uma revisão integral de som.",
+      "source": "Mensagem da Giovanna nesta conversa",
+      "repeat": "Reaproveitar a estrutura com outras bebidas, alternando com doces e salgados.",
+      "proposed_dates": [
+        "2026-11-12"
+      ],
+      "material": {
+        "status": "Pode ir para edição",
+        "files": "IMG_3294–3300.MOV. Seleção: 3294 base na xícara; 3295 moagem; 3296 extração; 3297 mistura; 3298 vaporização; 3299 desenho; 3300 finalização.",
+        "next": "Cortar esperas, escolher abertura e conferir áudio/cor na edição. Os quadros mostram a sequência completa; não é uma revisão integral de som.",
+        "folder": "Reel do Mocha",
+        "url": "https://drive.google.com/drive/folders/1XnuQGmudmDhSpdjUffLRAAawdOInW-LR",
+        "preview": "Inventario-Drive/quadros/IMG_3299.MOV.jpg",
+        "checked": "2026-10-31"
+      }
+    },
+    {
+      "id": "troca",
+      "title": "O seu parece melhor",
+      "month": "2026-12",
+      "format": "Reel",
+      "status": "Conceito escolhido · captação pendente",
+      "origin": "Giovanna · escolha da ideia 3 da pesquisa",
+      "angle": "Duas pessoas recebem pedidos diferentes, olham o da outra e trocam os pratos/xícaras antes de provar. Uma ação leve de casal/amigas na mesa.",
+      "capture": "Duas pessoas e dois pedidos disponíveis; plano fixo mostrando ambos, olhares, troca e primeira prova. Combinar comida e café conforme os pedidos reais.",
+      "pending": "Viabilidade da gravação a confirmar. 15/12 é apenas uma sugestão, não uma data confirmada. Não foi verificado que a sequência exista no acervo.",
+      "source": "Pesquisas/REFERENCIAS_CAFETERIAS_31-10-2026.md · Meal swap adaptado e escolhido pela Giovanna",
+      "repeat": "Usar outra situação caso o tema de encontro volte em janeiro; não repetir a mesma troca/edição.",
+      "proposed_dates": [
+        "2026-12-15"
+      ],
+      "months": [
+        "2026-12"
+      ]
+    },
+    {
+      "id": "choux-acervo",
+      "title": "Choux por dentro",
+      "month": "2026-11",
+      "months": [
+        "2026-11",
+        "2026-12",
+        "2027-01"
+      ],
+      "format": "Estático ou carrossel",
+      "status": "Pode virar carrossel",
+      "origin": "Inventário visual do Drive · 31/10",
+      "angle": "Choux aberta: recheios visíveis em fotos. Alternativa de comida sem gravar.",
+      "capture": "IMG_3282–3293.HEIC. 3284: recheio rosa; 3288/3289: recheio claro; 3291/3293: outro detalhe do interior.",
+      "pending": "Confirmar sabores. Há fotos do interior, mas nenhum vídeo de corte nesta pasta. Um Reel da faca cortando ainda exige gravação.",
+      "source": "Inventario-Drive/inventario-editorial.json",
+      "repeat": "Reserva sem data: escolher um ângulo e alternar comida e bebida.",
+      "proposed_dates": [],
+      "material": {
+        "status": "Pode virar carrossel",
+        "files": "IMG_3282–3293.HEIC. Seleção: 3284: recheio rosa; 3288/3289: recheio claro; 3291/3293: outro detalhe do interior.",
+        "next": "Confirmar sabores. Há fotos do interior, mas nenhum vídeo de corte nesta pasta. Um Reel da faca cortando ainda exige gravação.",
+        "folder": "Choux - Fotos",
+        "url": "https://drive.google.com/drive/folders/1cOGwSOyP0y9PIm6r76-dMXhvSLl5VDsH",
+        "preview": "Inventario-Drive/contatos/Choux_-_Fotos_1.jpg",
+        "checked": "2026-10-31"
+      }
+    },
+    {
+      "id": "caramelo-acervo",
+      "title": "Caramelo salgado",
+      "month": "2026-11",
+      "months": [
+        "2026-11",
+        "2026-12",
+        "2027-01"
+      ],
+      "format": "Estático ou carrossel",
+      "status": "Pode ir para arte",
+      "origin": "Inventário visual do Drive · 31/10",
+      "angle": "Foto única de bebida ou carrossel de detalhes, como reserva para o feed.",
+      "capture": "IMG_3322–3328.HEIC. 3324/3326: bebida inteira; 3327/3328: detalhe da cobertura.",
+      "pending": "Confirmar nome completo no cardápio. A pasta mostra bebida pronta; não contém vídeo de preparo.",
+      "source": "Inventario-Drive/inventario-editorial.json",
+      "repeat": "Reserva sem data: escolher um ângulo e alternar comida e bebida.",
+      "proposed_dates": [],
+      "material": {
+        "status": "Pode ir para arte",
+        "files": "IMG_3322–3328.HEIC. Seleção: 3324/3326: bebida inteira; 3327/3328: detalhe da cobertura.",
+        "next": "Confirmar nome completo no cardápio. A pasta mostra bebida pronta; não contém vídeo de preparo.",
+        "folder": "Caramelo Salgado",
+        "url": "https://drive.google.com/drive/folders/1w9rratBZzW3cHhgPNuNhgc8lPzhCyIyd",
+        "preview": "Inventario-Drive/contatos/Caramelo_Salgado_1.jpg",
+        "checked": "2026-10-31"
+      }
+    },
+    {
+      "id": "avulsos-acervo",
+      "title": "Produtos avulsos e mural",
+      "month": "2026-11",
+      "months": [
+        "2026-11",
+        "2026-12",
+        "2027-01"
+      ],
+      "format": "Estático ou carrossel",
+      "status": "Reservas aproveitáveis",
+      "origin": "Inventário visual do Drive · 31/10",
+      "angle": "Mais comida no feed sem depender da agenda de gravação.",
+      "capture": "IMG_3111–3138 (sem 3139/3140) e IMG_3141–3143.HEIC. 3121: bolo escuro com cobertura; 3126: bolo amarelo com chocolate; 3133: pães redondos; 3137: pães trançados; 3142: gato do mural.",
+      "pending": "Confirmar nomes e composição. 3127/3128 mostram sobremesa em recipiente. Não nomear produtos por aparência; evitar fotos com fita azul/apoios da sessão.",
+      "source": "Inventario-Drive/inventario-editorial.json",
+      "repeat": "Reserva sem data: escolher um ângulo e alternar comida e bebida.",
+      "proposed_dates": [],
+      "material": {
+        "status": "Reservas aproveitáveis",
+        "files": "IMG_3111–3138 (sem 3139/3140) e IMG_3141–3143.HEIC. Seleção: 3121: bolo escuro com cobertura; 3126: bolo amarelo com chocolate; 3133: pães redondos; 3137: pães trançados; 3142: gato do mural.",
+        "next": "Confirmar nomes e composição. 3127/3128 mostram sobremesa em recipiente. Não nomear produtos por aparência; evitar fotos com fita azul/apoios da sessão.",
+        "folder": "Avulsos",
+        "url": "https://drive.google.com/drive/folders/1ldW88dHdEDBjWQTYhDzUp_K5Twk5UG-U",
+        "preview": "Inventario-Drive/contatos/Avulsos_1.jpg",
+        "checked": "2026-10-31"
+      }
+    }
+  ],
+  "editorial_direction": {
+    "goal": "Equilibrar café e cozinha autoral no feed, com bebidas, doces e salgados reconhecíveis.",
+    "guideline": "Alternar pautas de café e comida ao longo das semanas; evitar sequências repetidas. Manter espaço para pessoas e experiência, sem exigir divisão rígida de 50/50.",
+    "favorites": "Priorizar os itens de comida que os sócios realmente escolheram. Escolhas ainda precisam ser conferidas.",
+    "november_food_dates": [
+      "2026-11-07",
+      "2026-11-14",
+      "2026-11-19",
+      "2026-11-24"
+    ],
+    "note": "Favoritos podem reforçar comida, mas não contam como escolhas confirmadas de pratos. Bebidas, pessoas e experiência continuam no calendário.",
+    "favorites_spacing": "Três favoritos por mês: novembro e dezembro. Intervalo entre favoritos: 9 a 12 dias nesta proposta. Janeiro mantém outras ideias do banco.",
+    "november_coffee_dates": [
+      "2026-11-10",
+      "2026-11-12",
+      "2026-11-21"
+    ]
+  },
+  "scope": "Proposta distribuída de novembro a janeiro. 01/11, 03/11 e 28/11 são datas definidas; demais dependem de aprovação e, quando indicado, material/regras.",
+  "material_review": {
+    "date": "2026-10-31",
+    "source": "https://drive.google.com/drive/folders/1ldW88dHdEDBjWQTYhDzUp_K5Twk5UG-U",
+    "method": "Listagem integral da raiz e oito subpastas. Fotos conferidas em folhas de contato; seis quadros distribuídos em cada um dos 17 vídeos, com metadados de duração e resolução. Áudio não ouvido/transcrito e vídeos não reproduzidos integralmente; a triagem não certifica áudio, foco contínuo ou edição pronta. Não foi conferido o Instagram nem o acervo 17-10 nesta rodada. Data de postagem não alterada por este inventário.",
+    "priority": [
+      {
+        "order": "Primeiro",
+        "topic": "Bruna + Croque + mocha",
+        "reason": "São os primeiros posts com material nesta pasta e já têm datas em novembro."
+      },
+      {
+        "order": "Depois",
+        "topic": "Suelen + mesa para grupos",
+        "reason": "O material existe; preparar a edição/arte sem pedir nova sessão por padrão."
+      },
+      {
+        "order": "Reservas de comida",
+        "topic": "Choux abertas + avulsos",
+        "reason": "Usar para substituir pautas sem captação, após confirmar nomes e combinação."
+      },
+      {
+        "order": "Reserva de bebida",
+        "topic": "Caramelo salgado",
+        "reason": "Há fotos prontas; serve para equilibrar comida e café."
+      },
+      {
+        "order": "Adaptar em vez de regravar",
+        "topic": "Bastidor da massa do red velvet",
+        "reason": "Pode render um Reel desta etapa; não chamar de produção completa até o serviço."
+      }
+    ],
+    "guide": "Inventario-Drive/GUIA_MATERIAIS_E_PRIORIDADES.html"
+  }
+}
