@@ -10,6 +10,10 @@ Em cada post ele pode **aprovar**, **pedir ajuste** ou **comentar**, e tudo apar
 
 A agência entra pelo link **"Área da agência"**, no rodapé, com um link mágico enviado por e-mail. Lá ela envia artes e vídeos, edita legendas, muda a ordem do feed e edita o perfil.
 
+## Carrossel com fotos, vídeos e capa
+
+Em **Enviar arte**, selecione **Carrossel** e adicione de 2 a 20 imagens e/ou vídeos na sequência desejada. Uma imagem de capa opcional pode ser enviada para o carrossel: aparece no grid, nos cards e como pôster do primeiro vídeo, sem criar uma lâmina adicional. A capa usa o campo `posts.capa` existente; não exige migração do banco. A publicação no Instagram continua manual, incluindo a configuração de capa disponível no aplicativo.
+
 Visual com a identidade do studio Gio.
 
 ## Arquivos
