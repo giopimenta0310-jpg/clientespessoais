@@ -613,7 +613,27 @@ function coverEl(p){
 function captionHTML(t){ return esc(t).replace(/(^|\s)([#@][\p{L}\p{N}_.]+)/gu, '$1<span class="ht">$2</span>'); }
 const FEED_ETAPAS = ['aprovacao','aprovado','agendado','publicado'];
 function feedPosts(){ return S.posts.filter(p => FEED_ETAPAS.includes(p.etapa)); }
-function sorted(){ return feedPosts().sort((a,b)=>(b.ordem||0)-(a.ordem||0)); }
+function feedByPublicationDate(){ return S.token === '09d3417e-4eff-40da-a56b-72859f864732'; }
+function sorted(){
+  const list = feedPosts();
+  if (!feedByPublicationDate()) {
+    return list.sort((a,b)=>(b.ordem||0)-(a.ordem||0));
+  }
+  return list.sort((a,b)=>{
+    const aPublished = a.etapa === 'publicado';
+    const bPublished = b.etapa === 'publicado';
+    if (aPublished !== bPublished) return aPublished ? -1 : 1;
+    if (!a.data_prevista || !b.data_prevista) {
+      if (!!a.data_prevista !== !!b.data_prevista) return a.data_prevista ? -1 : 1;
+    } else {
+      const aDate = a.data_prevista + 'T' + (a.hora_prevista || '00:00');
+      const bDate = b.data_prevista + 'T' + (b.hora_prevista || '00:00');
+      const dates = aDate.localeCompare(bDate);
+      if (dates) return aPublished ? -dates : dates;
+    }
+    return (b.ordem||0)-(a.ordem||0);
+  });
+}
 function awaiting(p){ return (p.etapa==='copy' && p.copy_status==='pendente') || (p.etapa==='aprovacao' && p.status==='pendente'); }
 function adjusting(p){ return (p.etapa==='copy' && p.copy_status==='ajuste') || (p.etapa==='aprovacao' && p.status==='ajuste'); }
 function fmtDay(d){ if (!d) return ''; try { const x = new Date(d+'T12:00:00'); return x.toLocaleDateString('pt-BR',{weekday:'short',day:'2-digit',month:'2-digit'}).replace('.',''); } catch(e){ return d; } }
@@ -815,7 +835,7 @@ function renderGrid(){
     const icon = p.tipo==='carrossel' ? I.car : p.tipo==='reels' ? I.reel : '';
     const badge = (S.showStatus && p.status !== 'publicado') ? `<span class="badge ${p.status}"><i></i>${SHORT[p.status]||''}</span>` : '';
     const old = p.status === 'publicado' ? ' old' + (S.showStatus ? ' dim' : '') : '';
-    return `<button type="button" class="tile${p.id===S.sel?' sel':''}${old}" data-id="${esc(p.id)}" ${editing()?'draggable="true"':''} aria-label="${esc(TYPES[p.tipo]||'Post')} – ${esc(STATUS[p.status]||'')}">${coverEl(p)}${icon?`<span class="ticon">${icon}</span>`:''}${badge}</button>`;
+    return `<button type="button" class="tile${p.id===S.sel?' sel':''}${old}" data-id="${esc(p.id)}" ${editing()&&!feedByPublicationDate()?'draggable="true"':''} aria-label="${esc(TYPES[p.tipo]||'Post')} – ${esc(STATUS[p.status]||'')}">${coverEl(p)}${icon?`<span class="ticon">${icon}</span>`:''}${badge}</button>`;
   }).join('');
   const pad = (3 - (list.length % 3)) % 3 + (list.length < 9 ? 3 * Math.ceil((9 - list.length)/3) : 0);
   for (let i=0;i<pad;i++) html += '<div class="empty-tile"></div>';
@@ -927,8 +947,8 @@ function renderDetail(){
         <div class="row">
           <button type="button" class="btn small" data-act="edit">Editar post</button>
           <button type="button" class="btn small" data-act="card">Etapa e texto</button>
-          <button type="button" class="btn small" data-act="up" ${idx<=0?'disabled':''}>← Mais recente</button>
-          <button type="button" class="btn small" data-act="down" ${idx>=list.length-1?'disabled':''}>Mais antigo →</button>
+          <button type="button" class="btn small" data-act="up" ${feedByPublicationDate()||idx<=0?'disabled':''}>← Mais recente</button>
+          <button type="button" class="btn small" data-act="down" ${feedByPublicationDate()||idx>=list.length-1?'disabled':''}>Mais antigo →</button>
           <button type="button" class="btn small danger" data-act="del">Excluir</button>
         </div>
       </div>` : ''}
@@ -964,6 +984,7 @@ function renderMode(){
   document.querySelectorAll('#modeSeg button').forEach(b=>b.setAttribute('aria-pressed', String(b.dataset.mode===S.mode)));
   $('#agencyBar').hidden = !editing();
   $('#feedEditHint').hidden = !editing();
+  $('#feedEditHint').textContent = feedByPublicationDate() ? 'Grid por data: publicados primeiro, do mais recente ao mais antigo; depois os pendentes, pela data prevista. Atualize data ou status para ajustar a visualização.' : 'Arraste os posts para reorganizar o grid. No celular, abra o post e use Mais recente ou Mais antigo.';
   $('#sub').textContent = editing()
     ? 'Organize cada conteúdo por etapa: copy e roteiro, produção e aprovação do post. Depois é só mandar o link para o cliente.'
     : 'Acompanhe cada conteúdo por etapa: aprove os textos, veja as artes no feed e aprove ou peça ajuste.';
@@ -1034,7 +1055,7 @@ $('#grid').addEventListener('click', e => {
 });
 let GRID_DRAG_ID = null;
 $('#grid').addEventListener('dragstart', e => {
-  const tile=e.target.closest('.tile'); if(!editing()||!tile) return;
+  const tile=e.target.closest('.tile'); if(!editing()||feedByPublicationDate()||!tile) return;
   GRID_DRAG_ID=tile.dataset.id; tile.classList.add('grid-dragging');
   e.dataTransfer.effectAllowed='move'; e.dataTransfer.setData('text/plain',GRID_DRAG_ID);
 });
@@ -1046,7 +1067,7 @@ $('#grid').addEventListener('dragover', e => {
 $('#grid').addEventListener('dragleave', e => { const tile=e.target.closest('.tile'); if(tile&&!tile.contains(e.relatedTarget)) tile.classList.remove('grid-drop'); });
 $('#grid').addEventListener('dragend', () => { GRID_DRAG_ID=null; document.querySelectorAll('#grid .tile').forEach(x=>x.classList.remove('grid-dragging','grid-drop')); });
 $('#grid').addEventListener('drop', async e => {
-  const target=e.target.closest('.tile'); const sourceId=GRID_DRAG_ID; if(!editing()||!target||!sourceId||target.dataset.id===sourceId) return;
+  const target=e.target.closest('.tile'); const sourceId=GRID_DRAG_ID; if(!editing()||feedByPublicationDate()||!target||!sourceId||target.dataset.id===sourceId) return;
   e.preventDefault();
   const list=sorted(); const from=list.findIndex(p=>p.id===sourceId); const to=list.findIndex(p=>p.id===target.dataset.id); if(from<0||to<0) return;
   const [moved]=list.splice(from,1); list.splice(to,0,moved);
@@ -1115,6 +1136,7 @@ $('#detail').addEventListener('click', async e => {
   if (act==='edit'){ openPostForm(p); return; }
   if (act==='card'){ openCard(p.id); return; }
   if (act==='up' || act==='down'){
+    if (feedByPublicationDate()) return;
     const list = sorted(); const i = list.findIndex(x=>x.id===p.id); const j = act==='up' ? i-1 : i+1;
     const q = list[j]; if (!q) return;
     const a = p.ordem, bb = q.ordem === p.ordem ? p.ordem + (act==='up'?1:-1) : q.ordem;

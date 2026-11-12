@@ -64,3 +64,11 @@ insert into public.admins (email) values ('email@exemplo.com');
 ## Cliente atual
 
 **Margô Cafés Especiais** (@margo), Joinville. Abertura em 10/10.
+
+## Grid da Margô por data
+
+Para o link público da Margô, a prévia do feed agrupa primeiro os posts na etapa `publicado`, do mais recente ao mais antigo por data e horário. Depois aparecem os ainda não publicados, pela data prevista mais próxima; itens sem data vão ao final do respectivo grupo. Empates preservam a ordem manual anterior. Uma data passada não marca um conteúdo como publicado.
+
+O arraste e os botões de posição do feed ficam desativados para a Margô, com aviso na área da agência. Os demais clientes continuam com ordem manual. Calendário, status, datas, mídia, legendas e aprovações não são alterados por essa regra de visualização.
+
+Verificado com os 27 itens reais do grid em 11/11/2026: 25 publicados, seguidos de Mocha em preparo (12/11) e Favoritos da Suelen (18/11). Também conferidos horários, ausência de data e preservação da ordem manual dos demais clientes.
